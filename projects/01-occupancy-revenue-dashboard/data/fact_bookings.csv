@@ -1,0 +1,1733 @@
+booking_id,room_type,check_in,check_out,nights,nightly_rate,total_revenue,status,booking_channel
+1,One Bedroom Suite,2026-03-19,2026-03-23,4,281.64,1126.56,Completed,OTA - Booking.com
+2,One Bedroom Standard Suite with Garden Pool,2026-01-30,2026-02-04,5,406.79,2033.95,Completed,OTA - Booking.com
+3,One Bedroom Suite,2026-10-10,2026-10-17,7,226.23,1583.61,Cancelled,OTA - Expedia
+4,One Bedroom Standard Suite with Garden Pool,2026-02-01,2026-02-06,5,432.08,2160.4,Completed,Direct Website
+5,One Bedroom Standard Suite with Garden Pool,2026-03-10,2026-03-13,3,382.49,1147.47,Completed,OTA - Booking.com
+6,One Bedroom Standard Suite with Garden Pool,2026-12-16,2026-12-18,2,362.89,725.78,Completed,Direct Website
+7,One Bedroom Suite,2026-02-02,2026-02-07,5,255.62,1278.1,Completed,OTA - Expedia
+8,One Bedroom Standard Suite with Garden Pool,2026-06-10,2026-06-14,4,280.31,1121.24,Completed,Direct Website
+9,One Bedroom Suite with Plunge Pool,2026-02-11,2026-02-16,5,580.82,2904.1,Completed,OTA - Booking.com
+10,One Bedroom Standard Suite with Garden Pool,2026-11-08,2026-11-09,1,316.04,316.04,Completed,OTA - Booking.com
+11,One Bedroom Suite with Plunge Pool,2026-10-13,2026-10-20,7,430.59,3014.13,Confirmed,OTA - Expedia
+12,One Bedroom Suite,2026-05-19,2026-05-25,6,189.14,1134.84,Confirmed,OTA - Booking.com
+13,One Bedroom Standard Suite with Garden Pool,2026-12-15,2026-12-22,7,384.13,2688.91,Confirmed,Travel Agent
+14,One Bedroom Suite,2026-08-25,2026-08-30,5,190.86,954.3,Completed,Travel Agent
+15,One Bedroom Suite,2026-05-07,2026-05-14,7,203.38,1423.66,Completed,OTA - Booking.com
+16,One Bedroom Suite,2026-03-12,2026-03-19,7,271.94,1903.58,Completed,OTA - Expedia
+17,Two Bedroom Deluxe Suite with Garden Pool,2026-12-16,2026-12-20,4,1006.16,4024.64,Completed,Direct Website
+18,One Bedroom Suite,2026-04-30,2026-05-01,1,274.34,274.34,Completed,Direct Website
+19,One Bedroom Suite,2026-08-03,2026-08-08,5,205.69,1028.45,Cancelled,OTA - Expedia
+20,One Bedroom Standard Suite with Garden Pool,2026-11-13,2026-11-19,6,292.61,1755.66,Cancelled,Travel Agent
+21,Two Bedroom Deluxe Suite with Garden Pool,2026-10-14,2026-10-18,4,681.84,2727.36,Completed,OTA - Booking.com
+22,One Bedroom Suite,2026-04-17,2026-04-21,4,286.16,1144.64,Completed,Direct Website
+23,One Bedroom Suite,2026-03-19,2026-03-24,5,257.46,1287.3,Completed,Direct Website
+24,Two Bedroom Deluxe Suite with Garden Pool,2026-11-11,2026-11-17,6,665.88,3995.28,Completed,OTA - Booking.com
+25,One Bedroom Suite,2026-09-07,2026-09-11,4,202.85,811.4,Completed,Direct Website
+26,One Bedroom Suite with Plunge Pool,2026-05-16,2026-05-22,6,461.59,2769.54,Completed,Corporate
+27,One Bedroom Standard Suite with Garden Pool,2026-03-17,2026-03-23,6,390.18,2341.08,Completed,OTA - Booking.com
+28,Two Bedroom Deluxe Suite with Garden Pool,2026-02-16,2026-02-22,6,989.32,5935.92,Completed,Corporate
+29,One Bedroom Standard Suite with Garden Pool,2026-04-25,2026-04-30,5,429.08,2145.4,Completed,OTA - Expedia
+30,One Bedroom Standard Suite with Garden Pool,2026-04-10,2026-04-17,7,408.48,2859.36,Completed,Travel Agent
+31,One Bedroom Suite,2026-09-10,2026-09-11,1,219.66,219.66,Confirmed,OTA - Booking.com
+32,One Bedroom Suite,2026-11-06,2026-11-10,4,235.05,940.2,Confirmed,OTA - Booking.com
+33,Two Bedroom Deluxe Suite with Garden Pool,2026-02-11,2026-02-13,2,877.82,1755.64,Completed,OTA - Booking.com
+34,One Bedroom Standard Suite with Garden Pool,2026-11-09,2026-11-13,4,305.78,1223.12,Completed,OTA - Expedia
+35,One Bedroom Suite with Plunge Pool,2026-03-03,2026-03-07,4,627.1,2508.4,Confirmed,OTA - Booking.com
+36,One Bedroom Suite with Plunge Pool,2026-07-22,2026-07-28,6,476.17,2857.02,Confirmed,Direct Website
+37,One Bedroom Suite,2026-03-19,2026-03-24,5,292.81,1464.05,Confirmed,Direct Website
+38,One Bedroom Suite with Plunge Pool,2026-08-31,2026-09-03,3,419.23,1257.69,Completed,Direct Website
+39,One Bedroom Suite with Plunge Pool,2026-03-13,2026-03-17,4,711.38,2845.52,Completed,Travel Agent
+40,One Bedroom Suite,2026-04-19,2026-04-22,3,302.56,907.68,Confirmed,OTA - Booking.com
+41,One Bedroom Standard Suite with Garden Pool,2026-03-09,2026-03-10,1,412.92,412.92,Completed,OTA - Booking.com
+42,One Bedroom Standard Suite with Garden Pool,2026-09-22,2026-09-27,5,269.58,1347.9,Completed,OTA - Booking.com
+43,Two Bedroom Deluxe Suite with Garden Pool,2026-04-04,2026-04-09,5,949.4,4747.0,Confirmed,Direct Website
+44,One Bedroom Standard Suite with Garden Pool,2026-03-03,2026-03-08,5,360.33,1801.65,Confirmed,OTA - Booking.com
+45,One Bedroom Standard Suite with Garden Pool,2026-02-24,2026-03-01,5,360.02,1800.1,Completed,Direct Website
+46,One Bedroom Suite,2026-08-20,2026-08-27,7,216.5,1515.5,Completed,OTA - Booking.com
+47,Two Bedroom Deluxe Suite with Garden Pool,2026-11-07,2026-11-13,6,735.55,4413.3,Completed,Travel Agent
+48,One Bedroom Standard Suite with Garden Pool,2026-05-07,2026-05-10,3,306.41,919.23,Cancelled,Direct Website
+49,One Bedroom Standard Suite with Garden Pool,2026-02-07,2026-02-13,6,408.56,2451.36,Completed,OTA - Expedia
+50,One Bedroom Suite with Plunge Pool,2026-03-21,2026-03-27,6,675.15,4050.9,Completed,Direct Website
+51,Two Bedroom Deluxe Suite with Garden Pool,2026-07-23,2026-07-25,2,748.86,1497.72,Confirmed,Direct Website
+52,One Bedroom Standard Suite with Garden Pool,2026-09-21,2026-09-25,4,272.6,1090.4,Completed,OTA - Expedia
+53,One Bedroom Suite,2026-10-11,2026-10-17,6,206.36,1238.16,Completed,OTA - Expedia
+54,One Bedroom Standard Suite with Garden Pool,2026-02-02,2026-02-03,1,417.58,417.58,Confirmed,Corporate
+55,Two Bedroom Deluxe Suite with Garden Pool,2026-04-03,2026-04-06,3,1073.45,3220.35,Confirmed,Travel Agent
+56,One Bedroom Suite with Plunge Pool,2026-05-13,2026-05-18,5,474.18,2370.9,Completed,OTA - Expedia
+57,One Bedroom Suite,2026-01-30,2026-02-06,7,311.61,2181.27,Completed,Direct Website
+58,One Bedroom Suite,2026-11-08,2026-11-09,1,215.3,215.3,Completed,Direct Website
+59,Two Bedroom Deluxe Suite with Garden Pool,2026-08-02,2026-08-05,3,778.19,2334.57,Completed,OTA - Expedia
+60,Two Bedroom Deluxe Suite with Garden Pool,2026-03-24,2026-03-27,3,870.06,2610.18,Completed,OTA - Booking.com
+61,One Bedroom Suite,2026-04-16,2026-04-19,3,272.61,817.83,Completed,Direct Website
+62,One Bedroom Suite,2026-09-16,2026-09-18,2,203.97,407.94,Completed,OTA - Booking.com
+63,One Bedroom Suite with Plunge Pool,2026-11-29,2026-12-03,4,492.04,1968.16,Cancelled,Corporate
+64,One Bedroom Suite,2026-04-21,2026-04-23,2,268.08,536.16,Confirmed,OTA - Expedia
+65,One Bedroom Standard Suite with Garden Pool,2026-07-27,2026-07-28,1,302.42,302.42,Completed,OTA - Expedia
+66,One Bedroom Suite,2026-07-15,2026-07-21,6,219.04,1314.24,Completed,OTA - Expedia
+67,One Bedroom Suite,2026-04-05,2026-04-07,2,291.32,582.64,Completed,OTA - Booking.com
+68,One Bedroom Suite,2026-06-21,2026-06-25,4,215.83,863.32,Completed,Direct Website
+69,One Bedroom Suite with Plunge Pool,2026-02-16,2026-02-19,3,630.44,1891.32,Completed,OTA - Expedia
+70,One Bedroom Suite,2026-10-27,2026-11-03,7,211.77,1482.39,Completed,OTA - Expedia
+71,Two Bedroom Deluxe Suite with Garden Pool,2026-07-19,2026-07-25,6,823.11,4938.66,Completed,OTA - Expedia
+72,One Bedroom Standard Suite with Garden Pool,2026-01-23,2026-01-30,7,449.12,3143.84,Cancelled,OTA - Expedia
+73,One Bedroom Standard Suite with Garden Pool,2026-09-16,2026-09-23,7,300.92,2106.44,Confirmed,OTA - Expedia
+74,Two Bedroom Deluxe Suite with Garden Pool,2026-12-16,2026-12-22,6,958.93,5753.58,Completed,Direct Website
+75,One Bedroom Standard Suite with Garden Pool,2026-02-23,2026-02-27,4,408.32,1633.28,Completed,OTA - Expedia
+76,One Bedroom Standard Suite with Garden Pool,2026-12-15,2026-12-17,2,386.84,773.68,Completed,Travel Agent
+77,One Bedroom Suite with Plunge Pool,2026-09-15,2026-09-16,1,455.47,455.47,Completed,OTA - Expedia
+78,One Bedroom Suite,2026-02-08,2026-02-15,7,291.15,2038.05,Confirmed,Direct Website
+79,One Bedroom Suite with Plunge Pool,2026-08-24,2026-08-28,4,413.53,1654.12,Cancelled,Direct Website
+80,One Bedroom Suite,2026-11-20,2026-11-21,1,227.47,227.47,Completed,OTA - Expedia
+81,One Bedroom Suite with Plunge Pool,2026-11-15,2026-11-16,1,487.01,487.01,Completed,Corporate
+82,One Bedroom Suite,2026-04-22,2026-04-28,6,274.54,1647.24,Confirmed,Direct Website
+83,One Bedroom Standard Suite with Garden Pool,2026-03-02,2026-03-07,5,368.85,1844.25,Cancelled,Corporate
+84,One Bedroom Standard Suite with Garden Pool,2026-08-19,2026-08-23,4,273.26,1093.04,Cancelled,Direct Website
+85,One Bedroom Standard Suite with Garden Pool,2026-03-14,2026-03-20,6,427.89,2567.34,Cancelled,Direct Website
+86,Two Bedroom Deluxe Suite with Garden Pool,2026-09-06,2026-09-08,2,701.69,1403.38,Completed,OTA - Booking.com
+87,One Bedroom Suite,2026-03-14,2026-03-18,4,294.95,1179.8,Completed,Travel Agent
+88,One Bedroom Suite,2026-06-23,2026-06-24,1,218.02,218.02,Completed,Direct Website
+89,One Bedroom Suite with Plunge Pool,2026-05-10,2026-05-14,4,479.7,1918.8,Confirmed,Direct Website
+90,Two Bedroom Deluxe Suite with Garden Pool,2026-05-21,2026-05-24,3,648.94,1946.82,Confirmed,Direct Website
+91,Two Bedroom Deluxe Suite with Garden Pool,2026-05-08,2026-05-12,4,764.48,3057.92,Completed,OTA - Booking.com
+92,Two Bedroom Deluxe Suite with Garden Pool,2026-01-15,2026-01-22,7,976.75,6837.25,Completed,Travel Agent
+93,One Bedroom Standard Suite with Garden Pool,2026-04-15,2026-04-21,6,361.5,2169.0,Cancelled,OTA - Booking.com
+94,One Bedroom Standard Suite with Garden Pool,2026-03-12,2026-03-18,6,410.41,2462.46,Completed,Corporate
+95,One Bedroom Standard Suite with Garden Pool,2026-03-29,2026-04-02,4,420.44,1681.76,Completed,Direct Website
+96,One Bedroom Suite with Plunge Pool,2026-12-01,2026-12-04,3,591.0,1773.0,Completed,OTA - Booking.com
+97,One Bedroom Suite with Plunge Pool,2026-03-03,2026-03-05,2,613.75,1227.5,Completed,OTA - Booking.com
+98,Two Bedroom Deluxe Suite with Garden Pool,2026-08-19,2026-08-24,5,659.15,3295.75,Completed,OTA - Booking.com
+99,One Bedroom Suite,2026-05-03,2026-05-10,7,226.38,1584.66,Cancelled,OTA - Expedia
+100,One Bedroom Standard Suite with Garden Pool,2026-07-31,2026-08-02,2,309.13,618.26,Completed,Direct Website
+101,One Bedroom Standard Suite with Garden Pool,2026-11-19,2026-11-26,7,273.54,1914.78,Completed,Direct Website
+102,One Bedroom Standard Suite with Garden Pool,2026-08-17,2026-08-20,3,302.96,908.88,Confirmed,Direct Website
+103,One Bedroom Suite,2026-08-31,2026-09-04,4,187.01,748.04,Completed,Corporate
+104,One Bedroom Suite with Plunge Pool,2026-08-28,2026-08-30,2,510.82,1021.64,Completed,Direct Website
+105,Two Bedroom Deluxe Suite with Garden Pool,2026-02-25,2026-03-04,7,970.76,6795.32,Completed,Travel Agent
+106,One Bedroom Standard Suite with Garden Pool,2026-10-10,2026-10-11,1,329.86,329.86,Completed,Corporate
+107,One Bedroom Standard Suite with Garden Pool,2026-06-05,2026-06-11,6,302.73,1816.38,Completed,OTA - Expedia
+108,One Bedroom Suite,2026-02-06,2026-02-09,3,303.68,911.04,Completed,OTA - Booking.com
+109,One Bedroom Suite,2026-05-05,2026-05-07,2,205.05,410.1,Completed,OTA - Booking.com
+110,One Bedroom Standard Suite with Garden Pool,2026-01-29,2026-01-30,1,368.54,368.54,Cancelled,OTA - Expedia
+111,One Bedroom Suite,2026-04-27,2026-05-03,6,271.67,1630.02,Completed,OTA - Booking.com
+112,One Bedroom Suite with Plunge Pool,2026-08-04,2026-08-08,4,422.26,1689.04,Confirmed,OTA - Expedia
+113,One Bedroom Standard Suite with Garden Pool,2026-04-16,2026-04-20,4,416.63,1666.52,Completed,Travel Agent
+114,One Bedroom Suite,2026-04-24,2026-04-27,3,315.11,945.33,Completed,Corporate
+115,One Bedroom Standard Suite with Garden Pool,2026-04-06,2026-04-08,2,386.57,773.14,Cancelled,Direct Website
+116,One Bedroom Suite,2026-01-31,2026-02-02,2,297.34,594.68,Cancelled,Travel Agent
+117,One Bedroom Suite with Plunge Pool,2026-02-10,2026-02-12,2,583.61,1167.22,Completed,Corporate
+118,One Bedroom Suite with Plunge Pool,2026-01-17,2026-01-20,3,677.36,2032.08,Completed,OTA - Booking.com
+119,One Bedroom Suite,2026-03-28,2026-03-29,1,278.44,278.44,Completed,OTA - Booking.com
+120,Two Bedroom Deluxe Suite with Garden Pool,2026-03-05,2026-03-10,5,1007.14,5035.7,Completed,OTA - Booking.com
+121,One Bedroom Suite with Plunge Pool,2026-04-11,2026-04-14,3,664.39,1993.17,Completed,OTA - Booking.com
+122,One Bedroom Standard Suite with Garden Pool,2026-11-17,2026-11-18,1,280.96,280.96,Completed,Travel Agent
+123,One Bedroom Suite,2026-04-10,2026-04-16,6,281.34,1688.04,Completed,OTA - Booking.com
+124,One Bedroom Suite with Plunge Pool,2026-12-20,2026-12-23,3,704.8,2114.4,Completed,OTA - Expedia
+125,One Bedroom Standard Suite with Garden Pool,2026-11-21,2026-11-22,1,291.09,291.09,Completed,OTA - Booking.com
+126,Two Bedroom Deluxe Suite with Garden Pool,2026-07-17,2026-07-21,4,802.08,3208.32,Completed,OTA - Booking.com
+127,One Bedroom Suite,2026-06-05,2026-06-12,7,211.19,1478.33,Completed,Travel Agent
+128,One Bedroom Suite,2026-03-23,2026-03-25,2,270.94,541.88,Completed,OTA - Booking.com
+129,One Bedroom Standard Suite with Garden Pool,2026-03-24,2026-03-28,4,411.28,1645.12,Cancelled,Direct Website
+130,One Bedroom Suite,2026-02-19,2026-02-23,4,274.93,1099.72,Confirmed,OTA - Booking.com
+131,One Bedroom Suite,2026-08-02,2026-08-08,6,214.23,1285.38,Completed,Travel Agent
+132,One Bedroom Suite,2026-03-20,2026-03-23,3,321.09,963.27,Completed,OTA - Booking.com
+133,One Bedroom Standard Suite with Garden Pool,2026-05-06,2026-05-08,2,293.71,587.42,Completed,OTA - Booking.com
+134,One Bedroom Suite,2026-01-03,2026-01-07,4,321.03,1284.12,Completed,OTA - Booking.com
+135,One Bedroom Suite,2026-11-04,2026-11-09,5,193.41,967.05,Completed,OTA - Booking.com
+136,One Bedroom Suite with Plunge Pool,2026-01-04,2026-01-05,1,674.52,674.52,Confirmed,OTA - Booking.com
+137,One Bedroom Suite with Plunge Pool,2026-04-15,2026-04-22,7,553.09,3871.63,Completed,OTA - Expedia
+138,One Bedroom Suite,2026-09-11,2026-09-12,1,220.52,220.52,Confirmed,OTA - Expedia
+139,One Bedroom Suite,2026-12-23,2026-12-26,3,271.03,813.09,Completed,OTA - Booking.com
+140,Two Bedroom Deluxe Suite with Garden Pool,2026-06-09,2026-06-12,3,684.08,2052.24,Completed,Travel Agent
+141,One Bedroom Suite with Plunge Pool,2026-04-15,2026-04-16,1,593.68,593.68,Completed,Direct Website
+142,One Bedroom Suite,2026-10-23,2026-10-27,4,233.76,935.04,Completed,Direct Website
+143,One Bedroom Standard Suite with Garden Pool,2026-07-09,2026-07-11,2,270.28,540.56,Completed,OTA - Booking.com
+144,Two Bedroom Deluxe Suite with Garden Pool,2026-02-25,2026-03-01,4,936.08,3744.32,Confirmed,Corporate
+145,One Bedroom Suite,2026-03-06,2026-03-13,7,323.94,2267.58,Cancelled,OTA - Booking.com
+146,One Bedroom Suite,2026-11-22,2026-11-28,6,228.22,1369.32,Confirmed,Direct Website
+147,One Bedroom Suite with Plunge Pool,2026-04-24,2026-04-29,5,649.91,3249.55,Confirmed,Travel Agent
+148,One Bedroom Suite,2026-04-22,2026-04-23,1,270.59,270.59,Completed,OTA - Booking.com
+149,One Bedroom Suite,2026-05-07,2026-05-14,7,216.61,1516.27,Completed,OTA - Booking.com
+150,One Bedroom Suite with Plunge Pool,2026-01-20,2026-01-26,6,632.47,3794.82,Completed,OTA - Expedia
+151,One Bedroom Standard Suite with Garden Pool,2026-11-18,2026-11-24,6,283.03,1698.18,Completed,OTA - Booking.com
+152,One Bedroom Suite with Plunge Pool,2026-08-17,2026-08-19,2,409.68,819.36,Completed,OTA - Booking.com
+153,One Bedroom Suite,2026-11-13,2026-11-17,4,236.07,944.28,Confirmed,OTA - Booking.com
+154,One Bedroom Suite,2026-07-03,2026-07-04,1,234.82,234.82,Completed,OTA - Expedia
+155,One Bedroom Suite,2026-03-08,2026-03-09,1,322.93,322.93,Completed,OTA - Expedia
+156,One Bedroom Suite,2026-09-16,2026-09-22,6,218.38,1310.28,Completed,Travel Agent
+157,Two Bedroom Deluxe Suite with Garden Pool,2026-12-21,2026-12-28,7,878.94,6152.58,Completed,Travel Agent
+158,One Bedroom Suite,2026-03-26,2026-04-01,6,287.69,1726.14,Cancelled,Direct Website
+159,Two Bedroom Deluxe Suite with Garden Pool,2026-05-21,2026-05-25,4,653.65,2614.6,Completed,Corporate
+160,One Bedroom Suite,2026-05-15,2026-05-17,2,217.28,434.56,Completed,Direct Website
+161,One Bedroom Suite,2026-05-23,2026-05-27,4,211.83,847.32,Confirmed,Direct Website
+162,One Bedroom Standard Suite with Garden Pool,2026-11-22,2026-11-29,7,313.02,2191.14,Completed,OTA - Expedia
+163,Two Bedroom Deluxe Suite with Garden Pool,2026-05-10,2026-05-16,6,807.25,4843.5,Confirmed,OTA - Booking.com
+164,One Bedroom Standard Suite with Garden Pool,2026-07-08,2026-07-11,3,278.88,836.64,Completed,Direct Website
+165,One Bedroom Standard Suite with Garden Pool,2026-01-25,2026-01-28,3,448.06,1344.18,Completed,OTA - Expedia
+166,Two Bedroom Deluxe Suite with Garden Pool,2026-10-27,2026-10-30,3,719.97,2159.91,Confirmed,Direct Website
+167,One Bedroom Suite,2026-11-17,2026-11-22,5,199.02,995.1,Completed,OTA - Booking.com
+168,One Bedroom Standard Suite with Garden Pool,2026-01-24,2026-01-25,1,395.86,395.86,Completed,OTA - Booking.com
+169,One Bedroom Suite,2026-05-05,2026-05-09,4,190.16,760.64,Completed,Travel Agent
+170,One Bedroom Suite with Plunge Pool,2026-07-25,2026-07-26,1,453.25,453.25,Confirmed,Travel Agent
+171,One Bedroom Standard Suite with Garden Pool,2026-10-24,2026-10-29,5,327.37,1636.85,Completed,Corporate
+172,One Bedroom Suite,2026-03-23,2026-03-24,1,293.12,293.12,Completed,OTA - Expedia
+173,One Bedroom Suite with Plunge Pool,2026-04-11,2026-04-13,2,650.83,1301.66,Completed,OTA - Expedia
+174,One Bedroom Standard Suite with Garden Pool,2026-08-01,2026-08-03,2,315.86,631.72,Completed,OTA - Expedia
+175,Two Bedroom Deluxe Suite with Garden Pool,2026-09-02,2026-09-03,1,679.71,679.71,Completed,Corporate
+176,One Bedroom Suite,2026-12-02,2026-12-06,4,260.72,1042.88,Cancelled,Direct Website
+177,One Bedroom Standard Suite with Garden Pool,2026-03-05,2026-03-08,3,411.76,1235.28,Cancelled,Corporate
+178,One Bedroom Suite,2026-01-27,2026-01-30,3,280.98,842.94,Completed,OTA - Expedia
+179,Two Bedroom Deluxe Suite with Garden Pool,2026-04-22,2026-04-23,1,994.51,994.51,Completed,Direct Website
+180,One Bedroom Suite,2026-04-14,2026-04-16,2,285.83,571.66,Completed,Travel Agent
+181,One Bedroom Suite,2026-05-03,2026-05-10,7,228.59,1600.13,Confirmed,OTA - Expedia
+182,Two Bedroom Deluxe Suite with Garden Pool,2026-08-29,2026-09-03,5,787.58,3937.9,Confirmed,OTA - Booking.com
+183,One Bedroom Suite with Plunge Pool,2026-10-20,2026-10-27,7,423.26,2962.82,Completed,Direct Website
+184,Two Bedroom Deluxe Suite with Garden Pool,2026-03-16,2026-03-17,1,866.54,866.54,Completed,Corporate
+185,One Bedroom Suite,2026-03-14,2026-03-20,6,279.69,1678.14,Completed,OTA - Expedia
+186,One Bedroom Standard Suite with Garden Pool,2026-12-23,2026-12-24,1,402.18,402.18,Completed,OTA - Expedia
+187,One Bedroom Standard Suite with Garden Pool,2026-10-01,2026-10-02,1,304.41,304.41,Confirmed,OTA - Expedia
+188,One Bedroom Suite,2026-01-18,2026-01-25,7,322.4,2256.8,Confirmed,Direct Website
+189,One Bedroom Suite,2026-02-20,2026-02-27,7,314.96,2204.72,Completed,OTA - Booking.com
+190,One Bedroom Standard Suite with Garden Pool,2026-01-11,2026-01-14,3,409.66,1228.98,Completed,OTA - Expedia
+191,One Bedroom Standard Suite with Garden Pool,2026-06-14,2026-06-19,5,315.62,1578.1,Confirmed,OTA - Expedia
+192,One Bedroom Standard Suite with Garden Pool,2026-02-20,2026-02-23,3,424.13,1272.39,Completed,OTA - Booking.com
+193,One Bedroom Suite with Plunge Pool,2026-02-16,2026-02-21,5,630.7,3153.5,Completed,Direct Website
+194,One Bedroom Suite,2026-01-28,2026-01-29,1,268.3,268.3,Completed,OTA - Expedia
+195,One Bedroom Suite with Plunge Pool,2026-09-11,2026-09-18,7,489.6,3427.2,Completed,Direct Website
+196,One Bedroom Suite with Plunge Pool,2026-12-25,2026-12-27,2,659.82,1319.64,Completed,OTA - Expedia
+197,One Bedroom Suite,2026-12-23,2026-12-28,5,287.63,1438.15,Completed,OTA - Booking.com
+198,One Bedroom Standard Suite with Garden Pool,2026-07-22,2026-07-28,6,267.51,1605.06,Cancelled,Direct Website
+199,One Bedroom Suite,2026-05-15,2026-05-20,5,223.89,1119.45,Completed,Travel Agent
+200,One Bedroom Standard Suite with Garden Pool,2026-12-19,2026-12-26,7,433.43,3034.01,Completed,OTA - Expedia
+201,One Bedroom Standard Suite with Garden Pool,2026-08-19,2026-08-25,6,278.54,1671.24,Completed,OTA - Expedia
+202,One Bedroom Suite,2026-04-29,2026-05-01,2,267.7,535.4,Completed,OTA - Expedia
+203,One Bedroom Suite,2026-05-07,2026-05-12,5,204.23,1021.15,Completed,OTA - Booking.com
+204,One Bedroom Suite,2026-02-22,2026-02-24,2,324.88,649.76,Completed,OTA - Booking.com
+205,Two Bedroom Deluxe Suite with Garden Pool,2026-06-04,2026-06-08,4,668.3,2673.2,Completed,Corporate
+206,One Bedroom Suite,2026-07-18,2026-07-19,1,220.18,220.18,Confirmed,OTA - Expedia
+207,One Bedroom Suite,2026-05-12,2026-05-16,4,187.18,748.72,Completed,Travel Agent
+208,One Bedroom Suite with Plunge Pool,2026-10-28,2026-11-01,4,468.91,1875.64,Completed,OTA - Expedia
+209,Two Bedroom Deluxe Suite with Garden Pool,2026-11-25,2026-12-02,7,663.22,4642.54,Completed,Direct Website
+210,One Bedroom Standard Suite with Garden Pool,2026-05-14,2026-05-15,1,305.11,305.11,Completed,OTA - Booking.com
+211,One Bedroom Suite with Plunge Pool,2026-03-22,2026-03-25,3,696.9,2090.7,Completed,Direct Website
+212,One Bedroom Suite with Plunge Pool,2026-09-23,2026-09-30,7,421.18,2948.26,Completed,Travel Agent
+213,One Bedroom Standard Suite with Garden Pool,2026-09-08,2026-09-09,1,265.27,265.27,Completed,Direct Website
+214,One Bedroom Suite with Plunge Pool,2026-04-13,2026-04-18,5,585.43,2927.15,Confirmed,OTA - Booking.com
+215,One Bedroom Suite,2026-09-01,2026-09-07,6,213.15,1278.9,Completed,OTA - Booking.com
+216,One Bedroom Suite with Plunge Pool,2026-07-20,2026-07-21,1,460.5,460.5,Completed,OTA - Expedia
+217,One Bedroom Suite,2026-07-15,2026-07-16,1,189.48,189.48,Cancelled,OTA - Expedia
+218,One Bedroom Suite,2026-07-25,2026-07-30,5,240.97,1204.85,Cancelled,Corporate
+219,One Bedroom Standard Suite with Garden Pool,2026-03-26,2026-03-28,2,414.12,828.24,Completed,Travel Agent
+220,One Bedroom Suite,2026-11-25,2026-11-27,2,213.88,427.76,Completed,OTA - Expedia
+221,One Bedroom Suite with Plunge Pool,2026-07-31,2026-08-03,3,508.98,1526.94,Completed,Travel Agent
+222,One Bedroom Standard Suite with Garden Pool,2026-04-28,2026-05-01,3,400.16,1200.48,Confirmed,Corporate
+223,One Bedroom Suite with Plunge Pool,2026-05-24,2026-05-30,6,472.7,2836.2,Completed,OTA - Booking.com
+224,One Bedroom Standard Suite with Garden Pool,2026-12-04,2026-12-07,3,402.57,1207.71,Completed,OTA - Booking.com
+225,One Bedroom Suite,2026-10-17,2026-10-24,7,239.92,1679.44,Completed,OTA - Booking.com
+226,One Bedroom Standard Suite with Garden Pool,2026-12-03,2026-12-04,1,369.5,369.5,Completed,Direct Website
+227,One Bedroom Suite,2026-07-26,2026-07-28,2,227.83,455.66,Confirmed,Corporate
+228,One Bedroom Suite,2026-10-08,2026-10-15,7,196.8,1377.6,Completed,Direct Website
+229,One Bedroom Suite,2026-08-13,2026-08-14,1,205.32,205.32,Completed,Direct Website
+230,One Bedroom Suite,2026-09-10,2026-09-14,4,202.41,809.64,Completed,OTA - Booking.com
+231,One Bedroom Standard Suite with Garden Pool,2026-10-04,2026-10-10,6,290.19,1741.14,Confirmed,OTA - Booking.com
+232,One Bedroom Standard Suite with Garden Pool,2026-12-07,2026-12-10,3,408.62,1225.86,Completed,OTA - Booking.com
+233,Two Bedroom Deluxe Suite with Garden Pool,2026-02-08,2026-02-10,2,1053.86,2107.72,Completed,Direct Website
+234,One Bedroom Standard Suite with Garden Pool,2026-12-16,2026-12-22,6,414.25,2485.5,Completed,Corporate
+235,One Bedroom Standard Suite with Garden Pool,2026-09-06,2026-09-08,2,291.58,583.16,Confirmed,OTA - Expedia
+236,One Bedroom Suite,2026-12-04,2026-12-07,3,294.82,884.46,Confirmed,OTA - Booking.com
+237,Two Bedroom Deluxe Suite with Garden Pool,2026-05-26,2026-05-30,4,665.8,2663.2,Completed,Direct Website
+238,One Bedroom Standard Suite with Garden Pool,2026-09-10,2026-09-15,5,309.27,1546.35,Confirmed,OTA - Booking.com
+239,One Bedroom Suite,2026-09-10,2026-09-13,3,193.35,580.05,Confirmed,Direct Website
+240,Two Bedroom Deluxe Suite with Garden Pool,2026-02-14,2026-02-21,7,1113.17,7792.19,Completed,OTA - Booking.com
+241,One Bedroom Suite,2026-01-04,2026-01-05,1,287.49,287.49,Cancelled,OTA - Expedia
+242,One Bedroom Suite with Plunge Pool,2026-09-14,2026-09-19,5,435.08,2175.4,Completed,OTA - Expedia
+243,One Bedroom Suite with Plunge Pool,2026-12-15,2026-12-16,1,572.4,572.4,Completed,OTA - Booking.com
+244,One Bedroom Suite with Plunge Pool,2026-02-21,2026-02-27,6,626.35,3758.1,Completed,Travel Agent
+245,Two Bedroom Deluxe Suite with Garden Pool,2026-12-02,2026-12-03,1,917.83,917.83,Confirmed,Travel Agent
+246,One Bedroom Standard Suite with Garden Pool,2026-05-13,2026-05-15,2,283.11,566.22,Completed,OTA - Booking.com
+247,One Bedroom Standard Suite with Garden Pool,2026-01-28,2026-02-01,4,391.69,1566.76,Completed,Direct Website
+248,One Bedroom Suite with Plunge Pool,2026-10-22,2026-10-26,4,440.15,1760.6,Completed,OTA - Booking.com
+249,One Bedroom Standard Suite with Garden Pool,2026-12-04,2026-12-06,2,424.58,849.16,Completed,Direct Website
+250,One Bedroom Standard Suite with Garden Pool,2026-04-19,2026-04-21,2,434.9,869.8,Completed,Direct Website
+251,One Bedroom Suite with Plunge Pool,2026-02-15,2026-02-17,2,699.02,1398.04,Completed,Direct Website
+252,One Bedroom Suite with Plunge Pool,2026-05-05,2026-05-11,6,421.49,2528.94,Completed,Travel Agent
+253,One Bedroom Suite with Plunge Pool,2026-03-16,2026-03-22,6,624.9,3749.4,Completed,OTA - Booking.com
+254,One Bedroom Standard Suite with Garden Pool,2026-12-09,2026-12-12,3,413.14,1239.42,Completed,Direct Website
+255,One Bedroom Suite,2026-11-30,2026-12-05,5,189.63,948.15,Completed,OTA - Expedia
+256,One Bedroom Suite,2026-09-07,2026-09-10,3,199.13,597.39,Completed,OTA - Booking.com
+257,One Bedroom Suite with Plunge Pool,2026-03-16,2026-03-23,7,563.2,3942.4,Cancelled,Direct Website
+258,One Bedroom Suite with Plunge Pool,2026-09-02,2026-09-09,7,440.6,3084.2,Completed,OTA - Expedia
+259,Two Bedroom Deluxe Suite with Garden Pool,2026-12-27,2027-01-03,7,1085.27,7596.89,Completed,OTA - Expedia
+260,Two Bedroom Deluxe Suite with Garden Pool,2026-03-19,2026-03-24,5,987.39,4936.95,Completed,Corporate
+261,One Bedroom Suite,2026-07-18,2026-07-23,5,233.7,1168.5,Completed,OTA - Booking.com
+262,One Bedroom Standard Suite with Garden Pool,2026-10-28,2026-11-04,7,304.77,2133.39,Completed,Travel Agent
+263,Two Bedroom Deluxe Suite with Garden Pool,2026-10-08,2026-10-12,4,676.52,2706.08,Completed,OTA - Booking.com
+264,One Bedroom Suite with Plunge Pool,2026-04-13,2026-04-20,7,624.02,4368.14,Cancelled,Direct Website
+265,One Bedroom Standard Suite with Garden Pool,2026-12-13,2026-12-17,4,423.89,1695.56,Completed,Direct Website
+266,One Bedroom Suite with Plunge Pool,2026-07-17,2026-07-18,1,491.26,491.26,Completed,Direct Website
+267,One Bedroom Standard Suite with Garden Pool,2026-09-24,2026-10-01,7,287.77,2014.39,Completed,OTA - Expedia
+268,One Bedroom Suite,2026-04-09,2026-04-10,1,260.95,260.95,Confirmed,OTA - Booking.com
+269,One Bedroom Standard Suite with Garden Pool,2026-07-26,2026-08-02,7,297.47,2082.29,Completed,Corporate
+270,One Bedroom Standard Suite with Garden Pool,2026-02-24,2026-02-27,3,395.73,1187.19,Confirmed,Direct Website
+271,One Bedroom Standard Suite with Garden Pool,2026-02-18,2026-02-19,1,369.19,369.19,Confirmed,OTA - Booking.com
+272,One Bedroom Standard Suite with Garden Pool,2026-04-20,2026-04-23,3,413.88,1241.64,Completed,Direct Website
+273,One Bedroom Standard Suite with Garden Pool,2026-10-31,2026-11-02,2,302.84,605.68,Completed,Direct Website
+274,One Bedroom Suite,2026-02-12,2026-02-13,1,255.24,255.24,Completed,Travel Agent
+275,One Bedroom Standard Suite with Garden Pool,2026-02-02,2026-02-09,7,393.58,2755.06,Completed,Direct Website
+276,One Bedroom Suite,2026-02-15,2026-02-21,6,302.81,1816.86,Completed,Travel Agent
+277,One Bedroom Standard Suite with Garden Pool,2026-05-01,2026-05-03,2,298.65,597.3,Cancelled,Corporate
+278,One Bedroom Suite,2026-10-11,2026-10-18,7,239.06,1673.42,Completed,OTA - Booking.com
+279,One Bedroom Suite,2026-01-03,2026-01-05,2,311.06,622.12,Completed,OTA - Expedia
+280,One Bedroom Suite with Plunge Pool,2026-02-23,2026-02-27,4,583.1,2332.4,Completed,Direct Website
+281,One Bedroom Standard Suite with Garden Pool,2026-03-28,2026-04-01,4,408.41,1633.64,Completed,OTA - Expedia
+282,One Bedroom Suite,2026-04-10,2026-04-17,7,280.04,1960.28,Cancelled,Direct Website
+283,Two Bedroom Deluxe Suite with Garden Pool,2026-07-11,2026-07-13,2,797.57,1595.14,Cancelled,Corporate
+284,One Bedroom Standard Suite with Garden Pool,2026-01-12,2026-01-18,6,361.16,2166.96,Cancelled,OTA - Booking.com
+285,One Bedroom Suite,2026-03-01,2026-03-07,6,296.02,1776.12,Completed,OTA - Expedia
+286,One Bedroom Suite,2026-08-20,2026-08-22,2,201.49,402.98,Completed,OTA - Booking.com
+287,One Bedroom Suite,2026-01-14,2026-01-17,3,278.12,834.36,Completed,Travel Agent
+288,One Bedroom Suite,2026-02-25,2026-02-28,3,273.07,819.21,Completed,Direct Website
+289,One Bedroom Standard Suite with Garden Pool,2026-11-20,2026-11-26,6,337.18,2023.08,Completed,Travel Agent
+290,One Bedroom Suite,2026-04-14,2026-04-17,3,272.01,816.03,Completed,Direct Website
+291,Two Bedroom Deluxe Suite with Garden Pool,2026-01-30,2026-02-06,7,1068.62,7480.34,Completed,Corporate
+292,One Bedroom Suite,2026-01-01,2026-01-08,7,289.62,2027.34,Completed,Direct Website
+293,One Bedroom Standard Suite with Garden Pool,2026-03-12,2026-03-19,7,367.67,2573.69,Confirmed,OTA - Expedia
+294,One Bedroom Suite,2026-02-10,2026-02-17,7,256.85,1797.95,Completed,OTA - Booking.com
+295,One Bedroom Suite,2026-04-16,2026-04-18,2,279.95,559.9,Confirmed,Travel Agent
+296,One Bedroom Standard Suite with Garden Pool,2026-04-14,2026-04-15,1,360.57,360.57,Confirmed,OTA - Booking.com
+297,One Bedroom Suite with Plunge Pool,2026-01-29,2026-02-03,5,629.82,3149.1,Completed,Travel Agent
+298,One Bedroom Suite with Plunge Pool,2026-10-22,2026-10-23,1,433.64,433.64,Cancelled,Corporate
+299,One Bedroom Suite,2026-07-02,2026-07-09,7,214.39,1500.73,Cancelled,Travel Agent
+300,One Bedroom Suite with Plunge Pool,2026-10-23,2026-10-24,1,471.89,471.89,Completed,OTA - Expedia
+301,One Bedroom Standard Suite with Garden Pool,2026-01-14,2026-01-19,5,406.38,2031.9,Completed,Direct Website
+302,One Bedroom Suite,2026-05-09,2026-05-10,1,206.41,206.41,Cancelled,OTA - Expedia
+303,One Bedroom Suite,2026-11-03,2026-11-07,4,204.26,817.04,Confirmed,Direct Website
+304,One Bedroom Suite with Plunge Pool,2026-04-02,2026-04-03,1,578.21,578.21,Completed,OTA - Expedia
+305,One Bedroom Suite with Plunge Pool,2026-02-26,2026-02-27,1,563.67,563.67,Cancelled,OTA - Booking.com
+306,One Bedroom Suite,2026-04-27,2026-04-29,2,282.43,564.86,Completed,OTA - Booking.com
+307,Two Bedroom Deluxe Suite with Garden Pool,2026-01-10,2026-01-16,6,1012.89,6077.34,Completed,Travel Agent
+308,One Bedroom Standard Suite with Garden Pool,2026-07-22,2026-07-23,1,299.63,299.63,Completed,Direct Website
+309,One Bedroom Suite,2026-08-12,2026-08-17,5,213.54,1067.7,Cancelled,Travel Agent
+310,One Bedroom Suite with Plunge Pool,2026-01-28,2026-01-31,3,601.67,1805.01,Cancelled,Corporate
+311,One Bedroom Suite,2026-08-05,2026-08-06,1,199.03,199.03,Completed,Direct Website
+312,One Bedroom Standard Suite with Garden Pool,2026-09-16,2026-09-18,2,269.98,539.96,Cancelled,Travel Agent
+313,Two Bedroom Deluxe Suite with Garden Pool,2026-01-21,2026-01-22,1,992.34,992.34,Completed,Corporate
+314,One Bedroom Standard Suite with Garden Pool,2026-11-18,2026-11-19,1,292.39,292.39,Completed,OTA - Booking.com
+315,One Bedroom Standard Suite with Garden Pool,2026-01-21,2026-01-24,3,363.51,1090.53,Completed,Direct Website
+316,One Bedroom Suite,2026-09-21,2026-09-22,1,202.39,202.39,Completed,Direct Website
+317,One Bedroom Suite,2026-03-09,2026-03-12,3,293.29,879.87,Completed,Direct Website
+318,One Bedroom Standard Suite with Garden Pool,2026-12-22,2026-12-27,5,370.24,1851.2,Completed,OTA - Booking.com
+319,One Bedroom Suite,2026-04-07,2026-04-12,5,277.02,1385.1,Cancelled,OTA - Booking.com
+320,Two Bedroom Deluxe Suite with Garden Pool,2026-03-25,2026-04-01,7,1005.31,7037.17,Completed,OTA - Booking.com
+321,One Bedroom Suite,2026-04-21,2026-04-24,3,255.5,766.5,Completed,OTA - Booking.com
+322,One Bedroom Standard Suite with Garden Pool,2026-06-28,2026-06-29,1,316.29,316.29,Confirmed,OTA - Booking.com
+323,Two Bedroom Deluxe Suite with Garden Pool,2026-03-21,2026-03-25,4,1004.36,4017.44,Completed,OTA - Expedia
+324,One Bedroom Standard Suite with Garden Pool,2026-05-22,2026-05-27,5,294.71,1473.55,Confirmed,Corporate
+325,Two Bedroom Deluxe Suite with Garden Pool,2026-05-18,2026-05-24,6,708.62,4251.72,Confirmed,OTA - Booking.com
+326,One Bedroom Suite,2026-07-30,2026-08-04,5,190.88,954.4,Completed,Corporate
+327,One Bedroom Suite,2026-05-24,2026-05-29,5,209.73,1048.65,Confirmed,OTA - Expedia
+328,One Bedroom Standard Suite with Garden Pool,2026-10-12,2026-10-18,6,278.47,1670.82,Confirmed,Travel Agent
+329,One Bedroom Standard Suite with Garden Pool,2026-03-16,2026-03-20,4,392.18,1568.72,Completed,Direct Website
+330,Two Bedroom Deluxe Suite with Garden Pool,2026-06-15,2026-06-20,5,731.79,3658.95,Cancelled,Direct Website
+331,One Bedroom Standard Suite with Garden Pool,2026-01-06,2026-01-07,1,359.44,359.44,Completed,OTA - Booking.com
+332,Two Bedroom Deluxe Suite with Garden Pool,2026-06-09,2026-06-13,4,695.71,2782.84,Completed,OTA - Expedia
+333,One Bedroom Suite with Plunge Pool,2026-08-20,2026-08-26,6,412.92,2477.52,Completed,OTA - Booking.com
+334,One Bedroom Standard Suite with Garden Pool,2026-11-29,2026-12-04,5,297.74,1488.7,Completed,OTA - Booking.com
+335,One Bedroom Standard Suite with Garden Pool,2026-11-16,2026-11-21,5,279.46,1397.3,Completed,Travel Agent
+336,One Bedroom Suite,2026-06-12,2026-06-13,1,235.68,235.68,Completed,Direct Website
+337,Two Bedroom Deluxe Suite with Garden Pool,2026-12-20,2026-12-23,3,1084.14,3252.42,Cancelled,Travel Agent
+338,One Bedroom Standard Suite with Garden Pool,2026-03-22,2026-03-27,5,411.92,2059.6,Completed,OTA - Booking.com
+339,One Bedroom Suite,2026-04-04,2026-04-05,1,308.8,308.8,Completed,OTA - Booking.com
+340,Two Bedroom Deluxe Suite with Garden Pool,2026-11-22,2026-11-28,6,752.16,4512.96,Confirmed,OTA - Booking.com
+341,One Bedroom Suite with Plunge Pool,2026-01-03,2026-01-06,3,649.18,1947.54,Completed,Direct Website
+342,One Bedroom Suite,2026-03-31,2026-04-04,4,286.83,1147.32,Completed,Travel Agent
+343,Two Bedroom Deluxe Suite with Garden Pool,2026-09-21,2026-09-26,5,659.84,3299.2,Completed,Direct Website
+344,One Bedroom Suite,2026-03-29,2026-04-03,5,302.04,1510.2,Completed,OTA - Booking.com
+345,One Bedroom Suite,2026-02-20,2026-02-27,7,322.05,2254.35,Completed,OTA - Booking.com
+346,One Bedroom Suite,2026-07-22,2026-07-23,1,201.51,201.51,Completed,Direct Website
+347,One Bedroom Suite,2026-10-28,2026-10-31,3,187.2,561.6,Confirmed,OTA - Booking.com
+348,One Bedroom Standard Suite with Garden Pool,2026-05-10,2026-05-14,4,339.95,1359.8,Completed,OTA - Expedia
+349,One Bedroom Suite with Plunge Pool,2026-02-14,2026-02-16,2,625.14,1250.28,Completed,Direct Website
+350,Two Bedroom Deluxe Suite with Garden Pool,2026-07-22,2026-07-23,1,675.19,675.19,Confirmed,OTA - Booking.com
+351,One Bedroom Suite with Plunge Pool,2026-03-05,2026-03-09,4,631.28,2525.12,Completed,Direct Website
+352,One Bedroom Standard Suite with Garden Pool,2026-05-23,2026-05-26,3,331.02,993.06,Completed,Direct Website
+353,One Bedroom Suite,2026-10-06,2026-10-08,2,205.31,410.62,Completed,Travel Agent
+354,One Bedroom Suite,2026-07-08,2026-07-14,6,200.37,1202.22,Completed,OTA - Expedia
+355,One Bedroom Suite,2026-09-01,2026-09-03,2,215.33,430.66,Completed,Corporate
+356,Two Bedroom Deluxe Suite with Garden Pool,2026-11-02,2026-11-07,5,748.87,3744.35,Completed,OTA - Booking.com
+357,One Bedroom Standard Suite with Garden Pool,2026-03-06,2026-03-13,7,443.35,3103.45,Completed,Direct Website
+358,One Bedroom Suite with Plunge Pool,2026-03-16,2026-03-19,3,553.44,1660.32,Confirmed,OTA - Expedia
+359,One Bedroom Suite with Plunge Pool,2026-04-29,2026-05-02,3,570.08,1710.24,Cancelled,Direct Website
+360,Two Bedroom Deluxe Suite with Garden Pool,2026-09-14,2026-09-16,2,644.91,1289.82,Completed,Direct Website
+361,One Bedroom Standard Suite with Garden Pool,2026-08-26,2026-09-01,6,303.55,1821.3,Completed,Direct Website
+362,One Bedroom Suite,2026-12-14,2026-12-21,7,282.2,1975.4,Completed,OTA - Booking.com
+363,One Bedroom Suite with Plunge Pool,2026-12-25,2026-12-29,4,633.43,2533.72,Confirmed,OTA - Booking.com
+364,One Bedroom Standard Suite with Garden Pool,2026-04-04,2026-04-07,3,400.01,1200.03,Cancelled,OTA - Expedia
+365,One Bedroom Suite with Plunge Pool,2026-01-21,2026-01-25,4,555.84,2223.36,Completed,Direct Website
+366,One Bedroom Suite,2026-07-14,2026-07-19,5,197.26,986.3,Completed,Direct Website
+367,One Bedroom Suite with Plunge Pool,2026-10-19,2026-10-24,5,426.34,2131.7,Completed,OTA - Expedia
+368,One Bedroom Suite,2026-01-01,2026-01-02,1,289.71,289.71,Confirmed,Direct Website
+369,One Bedroom Suite,2026-10-27,2026-10-28,1,219.15,219.15,Confirmed,Direct Website
+370,One Bedroom Suite,2026-06-26,2026-06-27,1,220.85,220.85,Confirmed,Corporate
+371,One Bedroom Standard Suite with Garden Pool,2026-04-24,2026-04-27,3,428.11,1284.33,Completed,Corporate
+372,One Bedroom Standard Suite with Garden Pool,2026-06-24,2026-06-30,6,295.51,1773.06,Confirmed,OTA - Expedia
+373,One Bedroom Standard Suite with Garden Pool,2026-12-13,2026-12-19,6,406.2,2437.2,Completed,Travel Agent
+374,One Bedroom Suite with Plunge Pool,2026-09-08,2026-09-09,1,476.57,476.57,Confirmed,OTA - Booking.com
+375,One Bedroom Suite,2026-03-25,2026-04-01,7,281.05,1967.35,Completed,Direct Website
+376,One Bedroom Suite,2026-12-28,2027-01-01,4,282.49,1129.96,Completed,Direct Website
+377,One Bedroom Standard Suite with Garden Pool,2026-12-24,2026-12-27,3,364.77,1094.31,Confirmed,OTA - Expedia
+378,One Bedroom Suite,2026-11-19,2026-11-24,5,201.01,1005.05,Cancelled,OTA - Expedia
+379,One Bedroom Suite,2026-08-25,2026-08-29,4,214.43,857.72,Completed,Direct Website
+380,One Bedroom Standard Suite with Garden Pool,2026-04-16,2026-04-17,1,360.24,360.24,Completed,Direct Website
+381,One Bedroom Suite with Plunge Pool,2026-08-18,2026-08-20,2,431.36,862.72,Completed,OTA - Booking.com
+382,One Bedroom Suite,2026-02-06,2026-02-07,1,278.82,278.82,Cancelled,OTA - Expedia
+383,One Bedroom Suite,2026-06-19,2026-06-24,5,215.3,1076.5,Completed,Corporate
+384,One Bedroom Standard Suite with Garden Pool,2026-02-16,2026-02-22,6,374.23,2245.38,Completed,OTA - Expedia
+385,One Bedroom Suite with Plunge Pool,2026-12-01,2026-12-03,2,559.5,1119.0,Confirmed,Direct Website
+386,One Bedroom Standard Suite with Garden Pool,2026-03-16,2026-03-19,3,379.31,1137.93,Cancelled,OTA - Booking.com
+387,Two Bedroom Deluxe Suite with Garden Pool,2026-12-16,2026-12-18,2,877.83,1755.66,Confirmed,OTA - Booking.com
+388,One Bedroom Suite,2026-07-09,2026-07-12,3,194.9,584.7,Completed,OTA - Booking.com
+389,One Bedroom Standard Suite with Garden Pool,2026-12-28,2027-01-01,4,412.62,1650.48,Cancelled,OTA - Booking.com
+390,One Bedroom Standard Suite with Garden Pool,2026-03-22,2026-03-25,3,433.25,1299.75,Completed,Direct Website
+391,One Bedroom Suite,2026-03-12,2026-03-16,4,281.02,1124.08,Completed,Corporate
+392,One Bedroom Suite with Plunge Pool,2026-01-02,2026-01-03,1,695.99,695.99,Confirmed,Travel Agent
+393,One Bedroom Suite,2026-08-04,2026-08-05,1,201.48,201.48,Completed,Travel Agent
+394,Two Bedroom Deluxe Suite with Garden Pool,2026-03-26,2026-03-30,4,906.86,3627.44,Completed,OTA - Booking.com
+395,One Bedroom Suite,2026-04-11,2026-04-15,4,282.42,1129.68,Completed,OTA - Booking.com
+396,Two Bedroom Deluxe Suite with Garden Pool,2026-11-17,2026-11-21,4,745.7,2982.8,Completed,Travel Agent
+397,One Bedroom Suite,2026-12-13,2026-12-16,3,307.78,923.34,Completed,OTA - Booking.com
+398,Two Bedroom Deluxe Suite with Garden Pool,2026-09-04,2026-09-06,2,738.29,1476.58,Completed,Travel Agent
+399,One Bedroom Suite,2026-04-07,2026-04-09,2,282.86,565.72,Completed,Direct Website
+400,One Bedroom Suite with Plunge Pool,2026-07-10,2026-07-14,4,477.31,1909.24,Completed,OTA - Booking.com
+401,One Bedroom Suite,2026-04-27,2026-04-29,2,295.62,591.24,Completed,OTA - Expedia
+402,One Bedroom Suite,2026-05-10,2026-05-12,2,224.97,449.94,Completed,OTA - Booking.com
+403,One Bedroom Standard Suite with Garden Pool,2026-04-26,2026-05-01,5,431.21,2156.05,Completed,OTA - Booking.com
+404,One Bedroom Standard Suite with Garden Pool,2026-02-11,2026-02-18,7,381.8,2672.6,Completed,OTA - Booking.com
+405,One Bedroom Suite with Plunge Pool,2026-10-09,2026-10-16,7,508.75,3561.25,Completed,Corporate
+406,One Bedroom Suite with Plunge Pool,2026-02-22,2026-02-26,4,694.87,2779.48,Completed,Direct Website
+407,Two Bedroom Deluxe Suite with Garden Pool,2026-10-16,2026-10-17,1,718.18,718.18,Confirmed,Direct Website
+408,One Bedroom Suite with Plunge Pool,2026-04-20,2026-04-24,4,580.79,2323.16,Confirmed,OTA - Booking.com
+409,Two Bedroom Deluxe Suite with Garden Pool,2026-11-15,2026-11-17,2,770.92,1541.84,Cancelled,Travel Agent
+410,One Bedroom Suite,2026-06-24,2026-06-30,6,209.46,1256.76,Confirmed,Direct Website
+411,One Bedroom Standard Suite with Garden Pool,2026-09-26,2026-10-02,6,314.86,1889.16,Confirmed,OTA - Booking.com
+412,One Bedroom Standard Suite with Garden Pool,2026-06-17,2026-06-18,1,265.09,265.09,Cancelled,Direct Website
+413,One Bedroom Standard Suite with Garden Pool,2026-12-22,2026-12-26,4,357.82,1431.28,Cancelled,OTA - Booking.com
+414,One Bedroom Suite with Plunge Pool,2026-04-05,2026-04-07,2,665.73,1331.46,Completed,OTA - Expedia
+415,One Bedroom Standard Suite with Garden Pool,2026-03-15,2026-03-20,5,451.85,2259.25,Completed,OTA - Expedia
+416,One Bedroom Suite,2026-03-19,2026-03-23,4,275.08,1100.32,Confirmed,Travel Agent
+417,One Bedroom Suite,2026-04-04,2026-04-09,5,317.91,1589.55,Completed,OTA - Booking.com
+418,One Bedroom Standard Suite with Garden Pool,2026-03-23,2026-03-29,6,408.9,2453.4,Completed,Travel Agent
+419,One Bedroom Standard Suite with Garden Pool,2026-02-08,2026-02-11,3,414.61,1243.83,Completed,Travel Agent
+420,One Bedroom Standard Suite with Garden Pool,2026-01-23,2026-01-25,2,403.73,807.46,Completed,OTA - Booking.com
+421,One Bedroom Standard Suite with Garden Pool,2026-07-18,2026-07-21,3,290.16,870.48,Completed,OTA - Booking.com
+422,One Bedroom Suite,2026-08-24,2026-08-29,5,188.5,942.5,Completed,OTA - Expedia
+423,Two Bedroom Deluxe Suite with Garden Pool,2026-07-02,2026-07-07,5,703.25,3516.25,Completed,OTA - Expedia
+424,Two Bedroom Deluxe Suite with Garden Pool,2026-02-18,2026-02-25,7,892.39,6246.73,Completed,OTA - Booking.com
+425,One Bedroom Suite,2026-05-25,2026-05-27,2,215.8,431.6,Cancelled,OTA - Expedia
+426,One Bedroom Suite,2026-06-24,2026-06-29,5,215.16,1075.8,Completed,Travel Agent
+427,One Bedroom Suite,2026-06-15,2026-06-22,7,202.89,1420.23,Completed,Direct Website
+428,One Bedroom Suite,2026-12-10,2026-12-14,4,270.82,1083.28,Completed,Travel Agent
+429,One Bedroom Standard Suite with Garden Pool,2026-12-04,2026-12-07,3,397.16,1191.48,Completed,Corporate
+430,One Bedroom Standard Suite with Garden Pool,2026-06-05,2026-06-09,4,308.11,1232.44,Confirmed,OTA - Booking.com
+431,One Bedroom Suite with Plunge Pool,2026-02-04,2026-02-11,7,598.51,4189.57,Cancelled,Direct Website
+432,One Bedroom Suite,2026-01-12,2026-01-19,7,260.24,1821.68,Completed,OTA - Expedia
+433,One Bedroom Suite,2026-07-24,2026-07-29,5,215.96,1079.8,Completed,Direct Website
+434,One Bedroom Suite,2026-01-30,2026-02-01,2,307.39,614.78,Completed,Travel Agent
+435,Two Bedroom Deluxe Suite with Garden Pool,2026-06-24,2026-06-25,1,658.67,658.67,Completed,Travel Agent
+436,One Bedroom Standard Suite with Garden Pool,2026-01-15,2026-01-17,2,376.44,752.88,Confirmed,Direct Website
+437,One Bedroom Standard Suite with Garden Pool,2026-11-09,2026-11-12,3,271.61,814.83,Confirmed,Travel Agent
+438,One Bedroom Standard Suite with Garden Pool,2026-11-03,2026-11-07,4,304.11,1216.44,Completed,OTA - Booking.com
+439,One Bedroom Suite,2026-04-18,2026-04-20,2,303.93,607.86,Confirmed,OTA - Booking.com
+440,One Bedroom Standard Suite with Garden Pool,2026-06-26,2026-07-01,5,334.14,1670.7,Completed,Corporate
+441,One Bedroom Standard Suite with Garden Pool,2026-04-28,2026-05-04,6,394.86,2369.16,Confirmed,OTA - Booking.com
+442,One Bedroom Suite with Plunge Pool,2026-12-28,2027-01-01,4,605.69,2422.76,Completed,OTA - Booking.com
+443,One Bedroom Standard Suite with Garden Pool,2026-12-02,2026-12-09,7,404.5,2831.5,Completed,Corporate
+444,One Bedroom Suite,2026-02-16,2026-02-17,1,280.48,280.48,Completed,OTA - Booking.com
+445,One Bedroom Suite,2026-04-04,2026-04-07,3,323.78,971.34,Completed,Direct Website
+446,One Bedroom Suite,2026-03-24,2026-03-29,5,254.28,1271.4,Confirmed,Direct Website
+447,Two Bedroom Deluxe Suite with Garden Pool,2026-07-19,2026-07-22,3,798.99,2396.97,Completed,OTA - Expedia
+448,One Bedroom Suite,2026-11-27,2026-12-03,6,237.07,1422.42,Completed,OTA - Booking.com
+449,One Bedroom Standard Suite with Garden Pool,2026-07-12,2026-07-18,6,333.86,2003.16,Completed,Direct Website
+450,One Bedroom Suite,2026-08-06,2026-08-09,3,216.02,648.06,Completed,Corporate
+451,One Bedroom Suite with Plunge Pool,2026-09-02,2026-09-09,7,463.38,3243.66,Cancelled,Direct Website
+452,One Bedroom Suite,2026-02-15,2026-02-18,3,278.49,835.47,Confirmed,Direct Website
+453,One Bedroom Suite,2026-11-09,2026-11-13,4,194.0,776.0,Completed,Travel Agent
+454,One Bedroom Suite with Plunge Pool,2026-06-02,2026-06-09,7,416.03,2912.21,Cancelled,Direct Website
+455,Two Bedroom Deluxe Suite with Garden Pool,2026-03-19,2026-03-24,5,972.9,4864.5,Completed,Direct Website
+456,One Bedroom Suite with Plunge Pool,2026-02-16,2026-02-20,4,584.6,2338.4,Cancelled,OTA - Expedia
+457,Two Bedroom Deluxe Suite with Garden Pool,2026-01-17,2026-01-22,5,987.46,4937.3,Confirmed,OTA - Expedia
+458,One Bedroom Suite,2026-09-16,2026-09-21,5,201.21,1006.05,Completed,Direct Website
+459,One Bedroom Suite,2026-09-07,2026-09-12,5,201.14,1005.7,Completed,OTA - Expedia
+460,One Bedroom Suite,2026-10-07,2026-10-08,1,204.49,204.49,Confirmed,Corporate
+461,One Bedroom Suite,2026-04-21,2026-04-28,7,295.57,2068.99,Cancelled,OTA - Expedia
+462,One Bedroom Suite,2026-04-01,2026-04-02,1,264.64,264.64,Completed,Direct Website
+463,One Bedroom Standard Suite with Garden Pool,2026-07-28,2026-07-31,3,275.93,827.79,Completed,Direct Website
+464,One Bedroom Standard Suite with Garden Pool,2026-05-25,2026-05-31,6,282.58,1695.48,Cancelled,OTA - Expedia
+465,One Bedroom Standard Suite with Garden Pool,2026-03-19,2026-03-23,4,403.68,1614.72,Cancelled,Travel Agent
+466,One Bedroom Standard Suite with Garden Pool,2026-05-11,2026-05-17,6,281.03,1686.18,Completed,Direct Website
+467,One Bedroom Suite,2026-11-14,2026-11-20,6,207.5,1245.0,Confirmed,OTA - Booking.com
+468,One Bedroom Standard Suite with Garden Pool,2026-10-09,2026-10-13,4,339.55,1358.2,Completed,OTA - Expedia
+469,One Bedroom Standard Suite with Garden Pool,2026-07-13,2026-07-14,1,281.8,281.8,Completed,OTA - Expedia
+470,One Bedroom Suite with Plunge Pool,2026-12-07,2026-12-09,2,640.7,1281.4,Confirmed,Direct Website
+471,One Bedroom Suite with Plunge Pool,2026-06-28,2026-07-02,4,494.0,1976.0,Cancelled,Direct Website
+472,One Bedroom Suite with Plunge Pool,2026-07-06,2026-07-11,5,420.18,2100.9,Completed,OTA - Expedia
+473,One Bedroom Suite,2026-12-05,2026-12-09,4,286.9,1147.6,Cancelled,Travel Agent
+474,One Bedroom Suite with Plunge Pool,2026-01-23,2026-01-26,3,647.46,1942.38,Confirmed,Travel Agent
+475,One Bedroom Suite,2026-03-20,2026-03-26,6,290.47,1742.82,Completed,OTA - Booking.com
+476,One Bedroom Suite with Plunge Pool,2026-05-21,2026-05-25,4,458.04,1832.16,Completed,OTA - Booking.com
+477,One Bedroom Suite with Plunge Pool,2026-07-07,2026-07-13,6,425.11,2550.66,Completed,OTA - Booking.com
+478,One Bedroom Standard Suite with Garden Pool,2026-01-10,2026-01-15,5,405.85,2029.25,Completed,Direct Website
+479,One Bedroom Standard Suite with Garden Pool,2026-09-26,2026-10-03,7,294.39,2060.73,Completed,Corporate
+480,One Bedroom Suite,2026-07-10,2026-07-16,6,221.76,1330.56,Completed,OTA - Expedia
+481,One Bedroom Suite,2026-07-28,2026-08-02,5,213.76,1068.8,Completed,OTA - Booking.com
+482,Two Bedroom Deluxe Suite with Garden Pool,2026-10-25,2026-10-31,6,726.39,4358.34,Confirmed,Direct Website
+483,One Bedroom Standard Suite with Garden Pool,2026-07-21,2026-07-25,4,307.01,1228.04,Completed,Travel Agent
+484,One Bedroom Suite,2026-10-16,2026-10-20,4,231.14,924.56,Completed,Corporate
+485,One Bedroom Suite,2026-02-03,2026-02-07,4,270.5,1082.0,Completed,OTA - Expedia
+486,One Bedroom Suite,2026-04-29,2026-05-05,6,261.81,1570.86,Completed,Corporate
+487,One Bedroom Suite,2026-06-19,2026-06-26,7,222.39,1556.73,Completed,Travel Agent
+488,One Bedroom Standard Suite with Garden Pool,2026-01-08,2026-01-09,1,387.31,387.31,Confirmed,Direct Website
+489,One Bedroom Standard Suite with Garden Pool,2026-12-15,2026-12-17,2,400.59,801.18,Completed,Direct Website
+490,One Bedroom Suite with Plunge Pool,2026-08-02,2026-08-04,2,527.85,1055.7,Confirmed,Travel Agent
+491,Two Bedroom Deluxe Suite with Garden Pool,2026-04-06,2026-04-11,5,903.7,4518.5,Completed,OTA - Booking.com
+492,One Bedroom Suite,2026-06-02,2026-06-07,5,216.23,1081.15,Confirmed,OTA - Booking.com
+493,One Bedroom Suite,2026-07-14,2026-07-21,7,204.81,1433.67,Completed,Direct Website
+494,One Bedroom Suite,2026-11-30,2026-12-04,4,208.66,834.64,Confirmed,Direct Website
+495,Two Bedroom Deluxe Suite with Garden Pool,2026-10-12,2026-10-18,6,672.85,4037.1,Completed,OTA - Booking.com
+496,One Bedroom Suite with Plunge Pool,2026-10-31,2026-11-04,4,522.84,2091.36,Completed,Travel Agent
+497,One Bedroom Suite,2026-08-11,2026-08-12,1,188.62,188.62,Confirmed,Direct Website
+498,One Bedroom Standard Suite with Garden Pool,2026-04-03,2026-04-04,1,455.06,455.06,Completed,Travel Agent
+499,One Bedroom Standard Suite with Garden Pool,2026-12-12,2026-12-18,6,438.18,2629.08,Completed,Direct Website
+500,One Bedroom Suite with Plunge Pool,2026-03-16,2026-03-23,7,640.11,4480.77,Completed,Direct Website
+501,One Bedroom Suite,2026-02-16,2026-02-17,1,271.25,271.25,Completed,Direct Website
+502,Two Bedroom Deluxe Suite with Garden Pool,2026-12-18,2026-12-22,4,974.3,3897.2,Completed,OTA - Expedia
+503,One Bedroom Suite,2026-10-26,2026-11-01,6,205.5,1233.0,Completed,Corporate
+504,One Bedroom Suite,2026-04-20,2026-04-22,2,294.6,589.2,Completed,Direct Website
+505,Two Bedroom Deluxe Suite with Garden Pool,2026-06-17,2026-06-23,6,670.24,4021.44,Completed,OTA - Expedia
+506,One Bedroom Suite,2026-03-18,2026-03-24,6,261.09,1566.54,Completed,OTA - Booking.com
+507,Two Bedroom Deluxe Suite with Garden Pool,2026-12-02,2026-12-07,5,941.45,4707.25,Completed,OTA - Booking.com
+508,One Bedroom Suite with Plunge Pool,2026-09-12,2026-09-13,1,464.68,464.68,Completed,OTA - Booking.com
+509,One Bedroom Standard Suite with Garden Pool,2026-02-15,2026-02-17,2,401.68,803.36,Completed,Travel Agent
+510,One Bedroom Suite with Plunge Pool,2026-04-27,2026-05-02,5,640.76,3203.8,Completed,OTA - Expedia
+511,One Bedroom Suite,2026-08-19,2026-08-22,3,211.5,634.5,Completed,Travel Agent
+512,One Bedroom Suite,2026-02-05,2026-02-11,6,277.6,1665.6,Completed,OTA - Booking.com
+513,One Bedroom Suite with Plunge Pool,2026-11-01,2026-11-02,1,451.47,451.47,Completed,Direct Website
+514,One Bedroom Standard Suite with Garden Pool,2026-03-09,2026-03-13,4,392.34,1569.36,Completed,OTA - Booking.com
+515,One Bedroom Suite with Plunge Pool,2026-03-25,2026-03-28,3,568.29,1704.87,Cancelled,OTA - Booking.com
+516,One Bedroom Suite,2026-02-24,2026-02-26,2,258.15,516.3,Completed,OTA - Booking.com
+517,One Bedroom Standard Suite with Garden Pool,2026-01-22,2026-01-27,5,372.39,1861.95,Cancelled,Direct Website
+518,One Bedroom Standard Suite with Garden Pool,2026-03-07,2026-03-09,2,441.7,883.4,Completed,Direct Website
+519,One Bedroom Suite,2026-02-24,2026-02-25,1,274.49,274.49,Confirmed,OTA - Booking.com
+520,One Bedroom Suite with Plunge Pool,2026-04-28,2026-04-29,1,624.0,624.0,Completed,Direct Website
+521,One Bedroom Suite,2026-07-21,2026-07-22,1,196.63,196.63,Cancelled,Direct Website
+522,One Bedroom Standard Suite with Garden Pool,2026-04-30,2026-05-02,2,393.41,786.82,Confirmed,OTA - Expedia
+523,One Bedroom Suite,2026-02-20,2026-02-21,1,288.7,288.7,Confirmed,Direct Website
+524,One Bedroom Suite,2026-02-13,2026-02-20,7,315.04,2205.28,Completed,Direct Website
+525,One Bedroom Suite,2026-07-30,2026-07-31,1,189.91,189.91,Completed,OTA - Expedia
+526,One Bedroom Suite with Plunge Pool,2026-03-19,2026-03-26,7,585.05,4095.35,Completed,Direct Website
+527,One Bedroom Suite,2026-06-19,2026-06-20,1,241.9,241.9,Confirmed,OTA - Booking.com
+528,One Bedroom Standard Suite with Garden Pool,2026-06-18,2026-06-25,7,291.56,2040.92,Completed,Travel Agent
+529,One Bedroom Suite,2026-07-07,2026-07-08,1,208.48,208.48,Cancelled,OTA - Expedia
+530,One Bedroom Suite with Plunge Pool,2026-09-10,2026-09-16,6,443.73,2662.38,Completed,OTA - Expedia
+531,One Bedroom Suite,2026-01-28,2026-02-03,6,273.51,1641.06,Confirmed,OTA - Expedia
+532,One Bedroom Suite,2026-07-17,2026-07-24,7,239.74,1678.18,Completed,OTA - Expedia
+533,One Bedroom Standard Suite with Garden Pool,2026-12-02,2026-12-08,6,363.68,2182.08,Cancelled,Travel Agent
+534,One Bedroom Suite,2026-04-29,2026-05-01,2,261.71,523.42,Completed,Direct Website
+535,One Bedroom Standard Suite with Garden Pool,2026-12-17,2026-12-23,6,359.61,2157.66,Completed,OTA - Booking.com
+536,One Bedroom Standard Suite with Garden Pool,2026-06-25,2026-06-29,4,307.59,1230.36,Completed,OTA - Expedia
+537,One Bedroom Suite with Plunge Pool,2026-12-06,2026-12-11,5,702.68,3513.4,Completed,OTA - Booking.com
+538,One Bedroom Suite,2026-09-01,2026-09-06,5,196.88,984.4,Completed,OTA - Booking.com
+539,One Bedroom Suite,2026-07-21,2026-07-26,5,188.07,940.35,Completed,Corporate
+540,One Bedroom Suite,2026-08-15,2026-08-20,5,235.0,1175.0,Completed,OTA - Expedia
+541,One Bedroom Suite,2026-04-05,2026-04-09,4,291.44,1165.76,Cancelled,OTA - Booking.com
+542,One Bedroom Suite,2026-11-09,2026-11-13,4,197.18,788.72,Completed,Travel Agent
+543,One Bedroom Suite with Plunge Pool,2026-03-25,2026-03-29,4,602.61,2410.44,Completed,Direct Website
+544,Two Bedroom Deluxe Suite with Garden Pool,2026-08-21,2026-08-27,6,732.29,4393.74,Completed,Direct Website
+545,One Bedroom Standard Suite with Garden Pool,2026-09-21,2026-09-23,2,306.68,613.36,Cancelled,OTA - Expedia
+546,One Bedroom Suite,2026-06-01,2026-06-07,6,210.41,1262.46,Confirmed,Corporate
+547,One Bedroom Suite with Plunge Pool,2026-01-31,2026-02-06,6,659.8,3958.8,Completed,Corporate
+548,One Bedroom Suite,2026-12-16,2026-12-17,1,277.53,277.53,Completed,OTA - Expedia
+549,Two Bedroom Deluxe Suite with Garden Pool,2026-11-07,2026-11-08,1,818.59,818.59,Completed,Direct Website
+550,One Bedroom Standard Suite with Garden Pool,2026-10-23,2026-10-27,4,298.73,1194.92,Completed,Corporate
+551,One Bedroom Standard Suite with Garden Pool,2026-08-04,2026-08-08,4,293.67,1174.68,Confirmed,OTA - Expedia
+552,One Bedroom Standard Suite with Garden Pool,2026-07-04,2026-07-07,3,306.43,919.29,Confirmed,OTA - Booking.com
+553,One Bedroom Suite,2026-09-22,2026-09-23,1,192.35,192.35,Confirmed,Direct Website
+554,One Bedroom Suite,2026-01-28,2026-02-02,5,266.1,1330.5,Completed,Corporate
+555,Two Bedroom Deluxe Suite with Garden Pool,2026-04-06,2026-04-09,3,908.91,2726.73,Cancelled,Direct Website
+556,One Bedroom Suite,2026-08-13,2026-08-19,6,195.59,1173.54,Completed,OTA - Booking.com
+557,Two Bedroom Deluxe Suite with Garden Pool,2026-11-15,2026-11-22,7,751.77,5262.39,Completed,Travel Agent
+558,One Bedroom Suite,2026-05-23,2026-05-27,4,229.71,918.84,Confirmed,OTA - Booking.com
+559,One Bedroom Suite,2026-07-20,2026-07-24,4,204.47,817.88,Completed,OTA - Expedia
+560,One Bedroom Suite,2026-01-07,2026-01-08,1,276.42,276.42,Confirmed,OTA - Booking.com
+561,One Bedroom Suite,2026-02-05,2026-02-10,5,257.24,1286.2,Completed,Travel Agent
+562,One Bedroom Suite with Plunge Pool,2026-02-26,2026-03-01,3,567.93,1703.79,Completed,OTA - Expedia
+563,One Bedroom Suite with Plunge Pool,2026-03-02,2026-03-09,7,590.77,4135.39,Confirmed,Travel Agent
+564,One Bedroom Suite with Plunge Pool,2026-07-24,2026-07-31,7,475.48,3328.36,Confirmed,OTA - Expedia
+565,One Bedroom Suite,2026-09-24,2026-09-27,3,191.41,574.23,Completed,Direct Website
+566,One Bedroom Standard Suite with Garden Pool,2026-05-01,2026-05-05,4,300.79,1203.16,Confirmed,Travel Agent
+567,One Bedroom Suite with Plunge Pool,2026-03-09,2026-03-11,2,573.33,1146.66,Confirmed,Direct Website
+568,One Bedroom Suite,2026-05-25,2026-05-31,6,219.01,1314.06,Cancelled,OTA - Booking.com
+569,One Bedroom Suite,2026-11-28,2026-12-04,6,219.65,1317.9,Cancelled,OTA - Expedia
+570,One Bedroom Suite with Plunge Pool,2026-11-06,2026-11-09,3,496.93,1490.79,Cancelled,OTA - Booking.com
+571,One Bedroom Standard Suite with Garden Pool,2026-10-19,2026-10-26,7,267.16,1870.12,Completed,OTA - Booking.com
+572,One Bedroom Standard Suite with Garden Pool,2026-03-13,2026-03-17,4,410.91,1643.64,Completed,OTA - Booking.com
+573,One Bedroom Standard Suite with Garden Pool,2026-01-17,2026-01-18,1,428.83,428.83,Completed,OTA - Booking.com
+574,One Bedroom Suite,2026-06-24,2026-06-29,5,205.76,1028.8,Completed,Travel Agent
+575,One Bedroom Suite,2026-10-23,2026-10-24,1,213.79,213.79,Completed,Travel Agent
+576,One Bedroom Standard Suite with Garden Pool,2026-02-15,2026-02-20,5,399.81,1999.05,Completed,Corporate
+577,One Bedroom Standard Suite with Garden Pool,2026-12-08,2026-12-15,7,411.17,2878.19,Completed,OTA - Booking.com
+578,One Bedroom Standard Suite with Garden Pool,2026-12-03,2026-12-06,3,360.93,1082.79,Completed,Direct Website
+579,One Bedroom Standard Suite with Garden Pool,2026-12-16,2026-12-22,6,394.8,2368.8,Completed,OTA - Expedia
+580,One Bedroom Suite,2026-03-26,2026-03-29,3,286.42,859.26,Completed,Travel Agent
+581,One Bedroom Suite,2026-04-12,2026-04-19,7,312.36,2186.52,Completed,Direct Website
+582,One Bedroom Standard Suite with Garden Pool,2026-12-26,2027-01-02,7,458.51,3209.57,Confirmed,Corporate
+583,Two Bedroom Deluxe Suite with Garden Pool,2026-11-10,2026-11-11,1,677.31,677.31,Completed,Travel Agent
+584,One Bedroom Standard Suite with Garden Pool,2026-11-19,2026-11-24,5,280.03,1400.15,Completed,OTA - Expedia
+585,One Bedroom Suite with Plunge Pool,2026-12-20,2026-12-23,3,651.66,1954.98,Completed,OTA - Expedia
+586,One Bedroom Suite,2026-08-30,2026-08-31,1,238.8,238.8,Confirmed,OTA - Booking.com
+587,One Bedroom Suite with Plunge Pool,2026-03-07,2026-03-14,7,618.7,4330.9,Completed,OTA - Booking.com
+588,One Bedroom Suite,2026-05-09,2026-05-11,2,231.48,462.96,Cancelled,Corporate
+589,One Bedroom Suite,2026-04-20,2026-04-26,6,278.76,1672.56,Completed,Direct Website
+590,One Bedroom Suite with Plunge Pool,2026-02-14,2026-02-18,4,689.61,2758.44,Completed,OTA - Booking.com
+591,One Bedroom Standard Suite with Garden Pool,2026-08-25,2026-08-31,6,305.54,1833.24,Completed,Direct Website
+592,One Bedroom Standard Suite with Garden Pool,2026-02-23,2026-02-24,1,393.16,393.16,Completed,Direct Website
+593,One Bedroom Standard Suite with Garden Pool,2026-10-27,2026-11-02,6,296.37,1778.22,Completed,Direct Website
+594,One Bedroom Suite with Plunge Pool,2026-01-28,2026-02-04,7,597.18,4180.26,Completed,OTA - Expedia
+595,One Bedroom Suite with Plunge Pool,2026-05-03,2026-05-07,4,503.61,2014.44,Completed,Direct Website
+596,Two Bedroom Deluxe Suite with Garden Pool,2026-11-03,2026-11-09,6,664.34,3986.04,Cancelled,Direct Website
+597,One Bedroom Standard Suite with Garden Pool,2026-04-25,2026-05-01,6,442.51,2655.06,Completed,Direct Website
+598,Two Bedroom Deluxe Suite with Garden Pool,2026-04-13,2026-04-20,7,862.64,6038.48,Completed,OTA - Booking.com
+599,Two Bedroom Deluxe Suite with Garden Pool,2026-04-23,2026-04-30,7,963.28,6742.96,Cancelled,OTA - Expedia
+600,One Bedroom Standard Suite with Garden Pool,2026-09-03,2026-09-04,1,298.82,298.82,Cancelled,Direct Website
+601,One Bedroom Standard Suite with Garden Pool,2026-02-24,2026-03-01,5,405.29,2026.45,Cancelled,Corporate
+602,One Bedroom Suite,2026-01-16,2026-01-21,5,309.68,1548.4,Completed,OTA - Booking.com
+603,One Bedroom Suite,2026-10-07,2026-10-11,4,200.1,800.4,Completed,OTA - Expedia
+604,One Bedroom Suite,2026-09-17,2026-09-21,4,193.89,775.56,Confirmed,OTA - Expedia
+605,One Bedroom Suite with Plunge Pool,2026-02-26,2026-03-03,5,645.74,3228.7,Completed,OTA - Booking.com
+606,One Bedroom Suite,2026-05-03,2026-05-10,7,241.41,1689.87,Completed,Direct Website
+607,One Bedroom Standard Suite with Garden Pool,2026-06-21,2026-06-22,1,293.88,293.88,Completed,OTA - Expedia
+608,One Bedroom Suite with Plunge Pool,2026-04-20,2026-04-25,5,589.0,2945.0,Cancelled,Corporate
+609,One Bedroom Standard Suite with Garden Pool,2026-04-18,2026-04-25,7,442.12,3094.84,Confirmed,Corporate
+610,One Bedroom Suite with Plunge Pool,2026-01-16,2026-01-22,6,679.1,4074.6,Confirmed,OTA - Booking.com
+611,Two Bedroom Deluxe Suite with Garden Pool,2026-04-03,2026-04-08,5,1104.3,5521.5,Completed,OTA - Expedia
+612,One Bedroom Suite,2026-06-03,2026-06-04,1,197.71,197.71,Completed,OTA - Booking.com
+613,Two Bedroom Deluxe Suite with Garden Pool,2026-12-01,2026-12-07,6,1002.33,6013.98,Confirmed,Travel Agent
+614,One Bedroom Suite,2026-07-31,2026-08-03,3,214.08,642.24,Cancelled,Corporate
+615,One Bedroom Suite,2026-05-03,2026-05-10,7,208.58,1460.06,Completed,Direct Website
+616,One Bedroom Suite with Plunge Pool,2026-08-06,2026-08-09,3,412.63,1237.89,Completed,OTA - Booking.com
+617,One Bedroom Suite,2026-01-28,2026-02-03,6,282.19,1693.14,Completed,Corporate
+618,Two Bedroom Deluxe Suite with Garden Pool,2026-09-23,2026-09-29,6,647.58,3885.48,Completed,Direct Website
+619,Two Bedroom Deluxe Suite with Garden Pool,2026-01-07,2026-01-13,6,901.53,5409.18,Confirmed,Corporate
+620,One Bedroom Suite,2026-08-13,2026-08-15,2,209.79,419.58,Confirmed,OTA - Expedia
+621,One Bedroom Suite,2026-05-12,2026-05-13,1,209.81,209.81,Completed,Direct Website
+622,Two Bedroom Deluxe Suite with Garden Pool,2026-11-26,2026-11-28,2,711.31,1422.62,Completed,OTA - Expedia
+623,One Bedroom Suite,2026-02-02,2026-02-08,6,255.94,1535.64,Completed,OTA - Booking.com
+624,One Bedroom Suite,2026-02-27,2026-03-05,6,302.19,1813.14,Cancelled,OTA - Expedia
+625,One Bedroom Suite,2026-06-05,2026-06-11,6,230.73,1384.38,Completed,OTA - Expedia
+626,One Bedroom Suite with Plunge Pool,2026-01-16,2026-01-20,4,694.72,2778.88,Completed,Travel Agent
+627,One Bedroom Suite with Plunge Pool,2026-12-10,2026-12-13,3,578.65,1735.95,Completed,Direct Website
+628,Two Bedroom Deluxe Suite with Garden Pool,2026-03-22,2026-03-29,7,1057.53,7402.71,Completed,OTA - Expedia
+629,One Bedroom Suite,2026-03-15,2026-03-19,4,283.0,1132.0,Cancelled,OTA - Booking.com
+630,One Bedroom Suite with Plunge Pool,2026-10-19,2026-10-20,1,412.67,412.67,Completed,Travel Agent
+631,One Bedroom Suite,2026-07-01,2026-07-07,6,192.82,1156.92,Completed,OTA - Expedia
+632,One Bedroom Standard Suite with Garden Pool,2026-03-27,2026-04-01,5,437.38,2186.9,Confirmed,Corporate
+633,One Bedroom Suite,2026-07-14,2026-07-15,1,194.39,194.39,Completed,Direct Website
+634,Two Bedroom Deluxe Suite with Garden Pool,2026-05-15,2026-05-16,1,713.58,713.58,Completed,OTA - Booking.com
+635,One Bedroom Suite,2026-08-30,2026-08-31,1,209.69,209.69,Completed,OTA - Booking.com
+636,One Bedroom Standard Suite with Garden Pool,2026-09-06,2026-09-08,2,336.39,672.78,Completed,Direct Website
+637,One Bedroom Suite,2026-05-17,2026-05-21,4,214.38,857.52,Completed,Direct Website
+638,One Bedroom Standard Suite with Garden Pool,2026-09-05,2026-09-10,5,321.11,1605.55,Cancelled,Corporate
+639,One Bedroom Standard Suite with Garden Pool,2026-01-31,2026-02-04,4,427.94,1711.76,Completed,Direct Website
+640,One Bedroom Suite with Plunge Pool,2026-04-19,2026-04-20,1,615.97,615.97,Completed,Corporate
+641,One Bedroom Standard Suite with Garden Pool,2026-03-09,2026-03-10,1,406.52,406.52,Completed,Direct Website
+642,One Bedroom Suite with Plunge Pool,2026-09-01,2026-09-03,2,444.69,889.38,Completed,Travel Agent
+643,Two Bedroom Deluxe Suite with Garden Pool,2026-11-26,2026-12-02,6,641.12,3846.72,Completed,Travel Agent
+644,One Bedroom Suite with Plunge Pool,2026-03-13,2026-03-19,6,645.69,3874.14,Completed,Travel Agent
+645,One Bedroom Suite,2026-01-22,2026-01-29,7,290.73,2035.11,Completed,OTA - Expedia
+646,One Bedroom Suite with Plunge Pool,2026-01-09,2026-01-14,5,655.62,3278.1,Confirmed,OTA - Booking.com
+647,One Bedroom Suite with Plunge Pool,2026-05-27,2026-05-29,2,468.43,936.86,Completed,OTA - Booking.com
+648,One Bedroom Suite,2026-02-03,2026-02-07,4,254.1,1016.4,Completed,OTA - Booking.com
+649,One Bedroom Standard Suite with Garden Pool,2026-02-03,2026-02-07,4,379.67,1518.68,Confirmed,OTA - Expedia
+650,One Bedroom Suite with Plunge Pool,2026-04-19,2026-04-24,5,702.87,3514.35,Completed,OTA - Booking.com
+651,One Bedroom Suite,2026-07-31,2026-08-01,1,226.34,226.34,Confirmed,Direct Website
+652,One Bedroom Suite with Plunge Pool,2026-03-21,2026-03-26,5,692.92,3464.6,Completed,OTA - Booking.com
+653,One Bedroom Suite,2026-03-03,2026-03-06,3,295.25,885.75,Completed,Direct Website
+654,One Bedroom Suite with Plunge Pool,2026-03-27,2026-03-29,2,651.85,1303.7,Completed,Travel Agent
+655,One Bedroom Suite with Plunge Pool,2026-05-10,2026-05-16,6,466.46,2798.76,Completed,OTA - Expedia
+656,One Bedroom Standard Suite with Garden Pool,2026-02-23,2026-02-24,1,412.55,412.55,Completed,OTA - Expedia
+657,One Bedroom Suite,2026-03-12,2026-03-16,4,256.23,1024.92,Completed,OTA - Booking.com
+658,One Bedroom Suite with Plunge Pool,2026-12-28,2027-01-02,5,607.98,3039.9,Completed,OTA - Booking.com
+659,One Bedroom Standard Suite with Garden Pool,2026-12-15,2026-12-22,7,379.41,2655.87,Completed,OTA - Booking.com
+660,One Bedroom Standard Suite with Garden Pool,2026-10-31,2026-11-05,5,309.39,1546.95,Confirmed,Corporate
+661,One Bedroom Standard Suite with Garden Pool,2026-07-30,2026-08-04,5,275.47,1377.35,Confirmed,OTA - Expedia
+662,One Bedroom Suite,2026-12-16,2026-12-20,4,262.34,1049.36,Completed,Corporate
+663,One Bedroom Standard Suite with Garden Pool,2026-06-24,2026-06-30,6,307.95,1847.7,Cancelled,OTA - Booking.com
+664,One Bedroom Suite,2026-04-30,2026-05-04,4,256.91,1027.64,Cancelled,OTA - Booking.com
+665,One Bedroom Standard Suite with Garden Pool,2026-03-10,2026-03-16,6,370.91,2225.46,Confirmed,OTA - Booking.com
+666,One Bedroom Suite,2026-04-21,2026-04-24,3,257.98,773.94,Completed,Travel Agent
+667,One Bedroom Standard Suite with Garden Pool,2026-06-20,2026-06-23,3,307.5,922.5,Confirmed,OTA - Booking.com
+668,One Bedroom Suite with Plunge Pool,2026-12-21,2026-12-22,1,616.94,616.94,Confirmed,OTA - Booking.com
+669,One Bedroom Suite,2026-11-19,2026-11-26,7,205.16,1436.12,Completed,Direct Website
+670,One Bedroom Standard Suite with Garden Pool,2026-04-11,2026-04-14,3,444.4,1333.2,Completed,Direct Website
+671,One Bedroom Suite with Plunge Pool,2026-11-04,2026-11-10,6,471.01,2826.06,Completed,Direct Website
+672,One Bedroom Suite,2026-10-01,2026-10-06,5,195.99,979.95,Completed,Direct Website
+673,One Bedroom Suite,2026-12-23,2026-12-25,2,253.17,506.34,Completed,Direct Website
+674,One Bedroom Suite,2026-02-15,2026-02-17,2,285.49,570.98,Completed,OTA - Booking.com
+675,One Bedroom Suite,2026-08-02,2026-08-09,7,215.08,1505.56,Completed,Direct Website
+676,One Bedroom Suite,2026-02-16,2026-02-17,1,280.46,280.46,Confirmed,Direct Website
+677,One Bedroom Standard Suite with Garden Pool,2026-04-07,2026-04-12,5,414.1,2070.5,Completed,Direct Website
+678,One Bedroom Suite,2026-12-21,2026-12-25,4,269.95,1079.8,Confirmed,Direct Website
+679,One Bedroom Standard Suite with Garden Pool,2026-04-08,2026-04-15,7,400.38,2802.66,Confirmed,Travel Agent
+680,One Bedroom Suite,2026-02-17,2026-02-24,7,282.19,1975.33,Completed,Direct Website
+681,One Bedroom Suite,2026-08-05,2026-08-08,3,210.91,632.73,Completed,OTA - Expedia
+682,One Bedroom Suite with Plunge Pool,2026-08-21,2026-08-23,2,465.01,930.02,Completed,OTA - Expedia
+683,One Bedroom Suite,2026-03-22,2026-03-23,1,289.25,289.25,Confirmed,Travel Agent
+684,One Bedroom Suite with Plunge Pool,2026-12-26,2027-01-02,7,692.22,4845.54,Completed,OTA - Booking.com
+685,One Bedroom Suite,2026-06-16,2026-06-18,2,192.78,385.56,Completed,Direct Website
+686,One Bedroom Standard Suite with Garden Pool,2026-09-24,2026-09-30,6,296.81,1780.86,Completed,Travel Agent
+687,One Bedroom Suite,2026-02-05,2026-02-10,5,270.03,1350.15,Completed,Direct Website
+688,One Bedroom Suite with Plunge Pool,2026-04-24,2026-04-28,4,640.81,2563.24,Completed,OTA - Expedia
+689,One Bedroom Suite with Plunge Pool,2026-07-10,2026-07-17,7,522.26,3655.82,Cancelled,OTA - Expedia
+690,Two Bedroom Deluxe Suite with Garden Pool,2026-03-10,2026-03-11,1,991.23,991.23,Cancelled,OTA - Booking.com
+691,One Bedroom Suite,2026-12-17,2026-12-22,5,254.55,1272.75,Completed,Travel Agent
+692,One Bedroom Suite with Plunge Pool,2026-06-24,2026-06-25,1,418.43,418.43,Confirmed,OTA - Expedia
+693,One Bedroom Suite with Plunge Pool,2026-01-17,2026-01-20,3,703.28,2109.84,Completed,OTA - Booking.com
+694,One Bedroom Suite,2026-08-07,2026-08-10,3,210.17,630.51,Completed,Corporate
+695,One Bedroom Suite,2026-05-13,2026-05-19,6,216.84,1301.04,Completed,Corporate
+696,One Bedroom Standard Suite with Garden Pool,2026-05-28,2026-06-01,4,296.8,1187.2,Confirmed,Direct Website
+697,One Bedroom Suite with Plunge Pool,2026-06-23,2026-06-24,1,426.37,426.37,Completed,Corporate
+698,One Bedroom Suite,2026-06-24,2026-06-30,6,200.81,1204.86,Confirmed,Travel Agent
+699,One Bedroom Standard Suite with Garden Pool,2026-01-06,2026-01-13,7,403.83,2826.81,Completed,Travel Agent
+700,One Bedroom Suite,2026-05-17,2026-05-20,3,219.3,657.9,Completed,OTA - Booking.com
+701,One Bedroom Suite,2026-04-27,2026-04-28,1,293.02,293.02,Completed,OTA - Expedia
+702,Two Bedroom Deluxe Suite with Garden Pool,2026-05-06,2026-05-12,6,727.97,4367.82,Cancelled,OTA - Expedia
+703,One Bedroom Suite with Plunge Pool,2026-07-14,2026-07-17,3,417.62,1252.86,Completed,OTA - Booking.com
+704,One Bedroom Suite with Plunge Pool,2026-06-26,2026-06-28,2,515.95,1031.9,Confirmed,Direct Website
+705,Two Bedroom Deluxe Suite with Garden Pool,2026-12-13,2026-12-18,5,1056.41,5282.05,Completed,Travel Agent
+706,One Bedroom Standard Suite with Garden Pool,2026-08-22,2026-08-26,4,329.9,1319.6,Confirmed,Travel Agent
+707,One Bedroom Suite,2026-06-24,2026-06-25,1,190.31,190.31,Completed,Direct Website
+708,One Bedroom Suite with Plunge Pool,2026-04-27,2026-04-30,3,558.78,1676.34,Completed,OTA - Expedia
+709,One Bedroom Suite,2026-08-25,2026-08-28,3,213.48,640.44,Cancelled,OTA - Booking.com
+710,One Bedroom Standard Suite with Garden Pool,2026-10-23,2026-10-26,3,327.38,982.14,Completed,Travel Agent
+711,One Bedroom Standard Suite with Garden Pool,2026-02-24,2026-03-01,5,392.92,1964.6,Confirmed,OTA - Booking.com
+712,Two Bedroom Deluxe Suite with Garden Pool,2026-04-27,2026-04-29,2,893.76,1787.52,Completed,Corporate
+713,One Bedroom Suite with Plunge Pool,2026-03-05,2026-03-11,6,639.78,3838.68,Completed,OTA - Expedia
+714,One Bedroom Standard Suite with Garden Pool,2026-03-09,2026-03-13,4,418.42,1673.68,Completed,Direct Website
+715,One Bedroom Suite with Plunge Pool,2026-11-06,2026-11-08,2,477.84,955.68,Cancelled,OTA - Expedia
+716,One Bedroom Suite,2026-11-23,2026-11-27,4,193.66,774.64,Completed,OTA - Booking.com
+717,One Bedroom Suite with Plunge Pool,2026-04-06,2026-04-10,4,604.5,2418.0,Completed,OTA - Expedia
+718,One Bedroom Suite,2026-07-13,2026-07-18,5,216.7,1083.5,Completed,Direct Website
+719,One Bedroom Standard Suite with Garden Pool,2026-02-27,2026-03-06,7,430.96,3016.72,Completed,Direct Website
+720,One Bedroom Standard Suite with Garden Pool,2026-09-15,2026-09-21,6,305.37,1832.22,Cancelled,OTA - Booking.com
+721,One Bedroom Suite,2026-08-13,2026-08-17,4,191.5,766.0,Confirmed,OTA - Expedia
+722,One Bedroom Suite,2026-04-21,2026-04-26,5,280.65,1403.25,Completed,Travel Agent
+723,One Bedroom Suite with Plunge Pool,2026-03-26,2026-04-01,6,627.15,3762.9,Completed,Direct Website
+724,One Bedroom Suite with Plunge Pool,2026-04-29,2026-05-04,5,568.79,2843.95,Confirmed,Corporate
+725,One Bedroom Suite with Plunge Pool,2026-02-26,2026-03-04,6,596.39,3578.34,Completed,Direct Website
+726,One Bedroom Suite with Plunge Pool,2026-08-06,2026-08-07,1,443.16,443.16,Completed,Travel Agent
+727,One Bedroom Suite with Plunge Pool,2026-10-14,2026-10-16,2,431.04,862.08,Completed,Direct Website
+728,One Bedroom Standard Suite with Garden Pool,2026-07-29,2026-07-31,2,309.84,619.68,Completed,Travel Agent
+729,One Bedroom Suite,2026-04-22,2026-04-26,4,256.74,1026.96,Completed,OTA - Booking.com
+730,One Bedroom Standard Suite with Garden Pool,2026-04-05,2026-04-09,4,424.87,1699.48,Completed,Corporate
+731,One Bedroom Standard Suite with Garden Pool,2026-05-22,2026-05-24,2,313.98,627.96,Completed,OTA - Booking.com
+732,One Bedroom Suite,2026-06-30,2026-07-01,1,200.31,200.31,Completed,OTA - Booking.com
+733,One Bedroom Standard Suite with Garden Pool,2026-12-20,2026-12-27,7,418.88,2932.16,Completed,Travel Agent
+734,One Bedroom Standard Suite with Garden Pool,2026-01-04,2026-01-05,1,450.09,450.09,Confirmed,OTA - Booking.com
+735,One Bedroom Standard Suite with Garden Pool,2026-12-14,2026-12-18,4,415.53,1662.12,Completed,Direct Website
+736,One Bedroom Suite with Plunge Pool,2026-01-03,2026-01-09,6,622.55,3735.3,Completed,Travel Agent
+737,One Bedroom Suite with Plunge Pool,2026-10-30,2026-11-01,2,475.73,951.46,Cancelled,OTA - Booking.com
+738,One Bedroom Standard Suite with Garden Pool,2026-04-04,2026-04-07,3,400.02,1200.06,Cancelled,Travel Agent
+739,One Bedroom Suite,2026-06-15,2026-06-19,4,203.36,813.44,Completed,Travel Agent
+740,One Bedroom Suite,2026-09-30,2026-10-03,3,208.09,624.27,Completed,OTA - Booking.com
+741,One Bedroom Standard Suite with Garden Pool,2026-11-08,2026-11-15,7,303.18,2122.26,Completed,OTA - Booking.com
+742,One Bedroom Standard Suite with Garden Pool,2026-11-18,2026-11-21,3,304.94,914.82,Completed,OTA - Booking.com
+743,One Bedroom Suite,2026-01-31,2026-02-06,6,317.29,1903.74,Completed,Direct Website
+744,Two Bedroom Deluxe Suite with Garden Pool,2026-02-24,2026-02-26,2,945.13,1890.26,Cancelled,Direct Website
+745,Two Bedroom Deluxe Suite with Garden Pool,2026-08-11,2026-08-12,1,721.66,721.66,Confirmed,OTA - Booking.com
+746,One Bedroom Suite,2026-04-02,2026-04-07,5,258.56,1292.8,Completed,Direct Website
+747,One Bedroom Suite,2026-01-20,2026-01-21,1,267.42,267.42,Confirmed,Direct Website
+748,One Bedroom Standard Suite with Garden Pool,2026-02-24,2026-02-26,2,368.74,737.48,Completed,Corporate
+749,One Bedroom Suite,2026-03-03,2026-03-10,7,272.12,1904.84,Completed,Direct Website
+750,One Bedroom Suite,2026-01-13,2026-01-19,6,284.06,1704.36,Completed,Direct Website
+751,One Bedroom Suite,2026-06-29,2026-07-05,6,188.94,1133.64,Completed,OTA - Expedia
+752,One Bedroom Suite,2026-08-14,2026-08-19,5,206.2,1031.0,Completed,Direct Website
+753,One Bedroom Standard Suite with Garden Pool,2026-12-05,2026-12-09,4,427.02,1708.08,Completed,Direct Website
+754,One Bedroom Standard Suite with Garden Pool,2026-09-14,2026-09-21,7,296.13,2072.91,Cancelled,Travel Agent
+755,One Bedroom Standard Suite with Garden Pool,2026-12-28,2027-01-03,6,368.22,2209.32,Completed,OTA - Expedia
+756,One Bedroom Suite,2026-09-03,2026-09-08,5,192.32,961.6,Cancelled,Direct Website
+757,Two Bedroom Deluxe Suite with Garden Pool,2026-04-19,2026-04-26,7,1058.34,7408.38,Completed,Direct Website
+758,One Bedroom Suite with Plunge Pool,2026-05-15,2026-05-18,3,461.35,1384.05,Confirmed,OTA - Booking.com
+759,One Bedroom Suite,2026-02-12,2026-02-16,4,293.93,1175.72,Confirmed,Direct Website
+760,One Bedroom Suite with Plunge Pool,2026-10-21,2026-10-24,3,450.23,1350.69,Completed,Corporate
+761,One Bedroom Suite,2026-03-10,2026-03-11,1,269.56,269.56,Confirmed,OTA - Expedia
+762,One Bedroom Suite with Plunge Pool,2026-05-23,2026-05-25,2,521.66,1043.32,Cancelled,Corporate
+763,One Bedroom Standard Suite with Garden Pool,2026-10-20,2026-10-26,6,298.77,1792.62,Completed,Travel Agent
+764,One Bedroom Standard Suite with Garden Pool,2026-12-24,2026-12-28,4,415.91,1663.64,Completed,Travel Agent
+765,Two Bedroom Deluxe Suite with Garden Pool,2026-10-04,2026-10-06,2,744.76,1489.52,Confirmed,Travel Agent
+766,One Bedroom Standard Suite with Garden Pool,2026-02-14,2026-02-15,1,450.22,450.22,Cancelled,Direct Website
+767,One Bedroom Standard Suite with Garden Pool,2026-08-29,2026-08-30,1,327.15,327.15,Completed,Corporate
+768,One Bedroom Suite,2026-03-11,2026-03-17,6,288.85,1733.1,Completed,Direct Website
+769,Two Bedroom Deluxe Suite with Garden Pool,2026-04-25,2026-04-29,4,1090.25,4361.0,Completed,Direct Website
+770,One Bedroom Suite,2026-03-24,2026-03-29,5,266.29,1331.45,Cancelled,Direct Website
+771,One Bedroom Standard Suite with Garden Pool,2026-11-16,2026-11-20,4,273.37,1093.48,Completed,OTA - Booking.com
+772,One Bedroom Suite,2026-01-31,2026-02-06,6,296.86,1781.16,Completed,OTA - Booking.com
+773,One Bedroom Standard Suite with Garden Pool,2026-04-11,2026-04-14,3,403.1,1209.3,Confirmed,OTA - Booking.com
+774,One Bedroom Standard Suite with Garden Pool,2026-03-27,2026-03-29,2,453.45,906.9,Completed,Corporate
+775,One Bedroom Standard Suite with Garden Pool,2026-02-20,2026-02-25,5,426.08,2130.4,Cancelled,OTA - Booking.com
+776,One Bedroom Suite,2026-02-18,2026-02-21,3,269.71,809.13,Completed,Corporate
+777,One Bedroom Standard Suite with Garden Pool,2026-05-25,2026-05-29,4,290.37,1161.48,Completed,Travel Agent
+778,One Bedroom Suite,2026-11-19,2026-11-26,7,218.29,1528.03,Confirmed,OTA - Booking.com
+779,Two Bedroom Deluxe Suite with Garden Pool,2026-12-07,2026-12-13,6,888.73,5332.38,Completed,Direct Website
+780,One Bedroom Suite,2026-05-06,2026-05-11,5,189.12,945.6,Completed,OTA - Booking.com
+781,One Bedroom Suite,2026-09-17,2026-09-24,7,214.62,1502.34,Completed,OTA - Expedia
+782,Two Bedroom Deluxe Suite with Garden Pool,2026-04-09,2026-04-15,6,949.59,5697.54,Completed,Direct Website
+783,Two Bedroom Deluxe Suite with Garden Pool,2026-02-14,2026-02-17,3,1000.39,3001.17,Completed,Direct Website
+784,One Bedroom Standard Suite with Garden Pool,2026-10-29,2026-10-31,2,264.11,528.22,Completed,Direct Website
+785,One Bedroom Suite with Plunge Pool,2026-02-22,2026-02-24,2,705.63,1411.26,Completed,Travel Agent
+786,One Bedroom Standard Suite with Garden Pool,2026-06-15,2026-06-19,4,282.34,1129.36,Confirmed,Direct Website
+787,One Bedroom Suite with Plunge Pool,2026-05-19,2026-05-23,4,434.22,1736.88,Completed,Corporate
+788,Two Bedroom Deluxe Suite with Garden Pool,2026-08-07,2026-08-13,6,748.92,4493.52,Completed,OTA - Booking.com
+789,One Bedroom Suite,2026-03-22,2026-03-24,2,285.53,571.06,Completed,Travel Agent
+790,One Bedroom Suite,2026-09-15,2026-09-16,1,205.5,205.5,Completed,OTA - Booking.com
+791,One Bedroom Suite,2026-01-30,2026-02-01,2,298.76,597.52,Completed,OTA - Expedia
+792,One Bedroom Suite,2026-09-02,2026-09-06,4,198.07,792.28,Confirmed,Direct Website
+793,One Bedroom Suite with Plunge Pool,2026-01-26,2026-01-30,4,646.83,2587.32,Completed,Direct Website
+794,Two Bedroom Deluxe Suite with Garden Pool,2026-04-12,2026-04-13,1,991.62,991.62,Confirmed,OTA - Expedia
+795,One Bedroom Suite,2026-02-10,2026-02-14,4,286.2,1144.8,Completed,Travel Agent
+796,One Bedroom Standard Suite with Garden Pool,2026-12-18,2026-12-20,2,403.89,807.78,Completed,Corporate
+797,One Bedroom Suite,2026-09-20,2026-09-22,2,227.01,454.02,Completed,Corporate
+798,One Bedroom Suite with Plunge Pool,2026-03-22,2026-03-29,7,673.22,4712.54,Completed,OTA - Booking.com
+799,One Bedroom Suite,2026-02-22,2026-02-27,5,314.24,1571.2,Confirmed,OTA - Booking.com
+800,One Bedroom Suite,2026-12-09,2026-12-11,2,272.07,544.14,Completed,Direct Website
+801,Two Bedroom Deluxe Suite with Garden Pool,2026-01-02,2026-01-08,6,985.5,5913.0,Completed,Direct Website
+802,One Bedroom Suite,2026-12-18,2026-12-21,3,326.4,979.2,Completed,Direct Website
+803,One Bedroom Suite with Plunge Pool,2026-04-24,2026-04-25,1,649.52,649.52,Confirmed,OTA - Booking.com
+804,One Bedroom Suite,2026-02-06,2026-02-07,1,304.58,304.58,Cancelled,Corporate
+805,One Bedroom Suite,2026-09-15,2026-09-18,3,193.4,580.2,Completed,OTA - Booking.com
+806,One Bedroom Suite with Plunge Pool,2026-12-24,2026-12-26,2,607.5,1215.0,Cancelled,Direct Website
+807,One Bedroom Suite with Plunge Pool,2026-02-08,2026-02-09,1,691.87,691.87,Completed,Direct Website
+808,One Bedroom Suite with Plunge Pool,2026-07-07,2026-07-14,7,427.94,2995.58,Cancelled,OTA - Booking.com
+809,One Bedroom Suite,2026-02-16,2026-02-21,5,284.95,1424.75,Confirmed,OTA - Expedia
+810,One Bedroom Suite,2026-05-14,2026-05-15,1,213.66,213.66,Completed,Direct Website
+811,Two Bedroom Deluxe Suite with Garden Pool,2026-10-14,2026-10-19,5,687.22,3436.1,Cancelled,Travel Agent
+812,One Bedroom Standard Suite with Garden Pool,2026-09-05,2026-09-07,2,308.96,617.92,Completed,OTA - Expedia
+813,One Bedroom Suite,2026-05-23,2026-05-25,2,223.99,447.98,Completed,OTA - Expedia
+814,One Bedroom Suite,2026-11-18,2026-11-25,7,199.37,1395.59,Completed,OTA - Expedia
+815,Two Bedroom Deluxe Suite with Garden Pool,2026-10-05,2026-10-08,3,670.47,2011.41,Confirmed,Direct Website
+816,One Bedroom Suite,2026-06-14,2026-06-16,2,232.17,464.34,Confirmed,OTA - Expedia
+817,One Bedroom Standard Suite with Garden Pool,2026-02-14,2026-02-21,7,416.73,2917.11,Completed,Travel Agent
+818,Two Bedroom Deluxe Suite with Garden Pool,2026-08-10,2026-08-16,6,666.28,3997.68,Completed,Direct Website
+819,One Bedroom Standard Suite with Garden Pool,2026-06-24,2026-06-25,1,283.84,283.84,Completed,Travel Agent
+820,One Bedroom Suite with Plunge Pool,2026-06-06,2026-06-08,2,475.76,951.52,Completed,OTA - Expedia
+821,One Bedroom Suite with Plunge Pool,2026-04-06,2026-04-10,4,561.8,2247.2,Completed,Travel Agent
+822,One Bedroom Suite,2026-03-09,2026-03-12,3,290.35,871.05,Confirmed,OTA - Booking.com
+823,One Bedroom Standard Suite with Garden Pool,2026-03-22,2026-03-25,3,411.31,1233.93,Cancelled,Travel Agent
+824,One Bedroom Suite,2026-03-30,2026-03-31,1,271.8,271.8,Completed,Travel Agent
+825,One Bedroom Standard Suite with Garden Pool,2026-03-03,2026-03-04,1,412.47,412.47,Completed,OTA - Booking.com
+826,One Bedroom Standard Suite with Garden Pool,2026-05-11,2026-05-15,4,281.64,1126.56,Completed,Direct Website
+827,One Bedroom Suite with Plunge Pool,2026-11-16,2026-11-18,2,409.47,818.94,Completed,OTA - Expedia
+828,One Bedroom Suite,2026-04-13,2026-04-19,6,290.63,1743.78,Cancelled,Direct Website
+829,One Bedroom Standard Suite with Garden Pool,2026-10-22,2026-10-23,1,265.19,265.19,Completed,OTA - Expedia
+830,One Bedroom Standard Suite with Garden Pool,2026-09-19,2026-09-21,2,300.74,601.48,Completed,OTA - Booking.com
+831,One Bedroom Standard Suite with Garden Pool,2026-04-27,2026-04-28,1,377.08,377.08,Completed,OTA - Expedia
+832,One Bedroom Standard Suite with Garden Pool,2026-06-20,2026-06-24,4,322.26,1289.04,Completed,OTA - Booking.com
+833,One Bedroom Suite,2026-08-29,2026-09-02,4,222.68,890.72,Completed,OTA - Expedia
+834,One Bedroom Standard Suite with Garden Pool,2026-11-03,2026-11-10,7,291.36,2039.52,Completed,Corporate
+835,One Bedroom Suite,2026-02-23,2026-02-26,3,286.39,859.17,Confirmed,Corporate
+836,Two Bedroom Deluxe Suite with Garden Pool,2026-06-09,2026-06-11,2,715.48,1430.96,Completed,Corporate
+837,One Bedroom Suite,2026-01-03,2026-01-07,4,298.16,1192.64,Completed,Corporate
+838,One Bedroom Suite,2026-07-08,2026-07-10,2,190.31,380.62,Completed,Direct Website
+839,Two Bedroom Deluxe Suite with Garden Pool,2026-07-03,2026-07-08,5,777.33,3886.65,Completed,Direct Website
+840,One Bedroom Suite,2026-07-09,2026-07-12,3,208.66,625.98,Completed,OTA - Booking.com
+841,One Bedroom Suite,2026-02-28,2026-03-03,3,286.11,858.33,Completed,Travel Agent
+842,One Bedroom Suite,2026-01-02,2026-01-04,2,326.63,653.26,Completed,OTA - Booking.com
+843,Two Bedroom Deluxe Suite with Garden Pool,2026-01-30,2026-01-31,1,1010.9,1010.9,Cancelled,OTA - Booking.com
+844,One Bedroom Standard Suite with Garden Pool,2026-01-22,2026-01-26,4,390.34,1561.36,Confirmed,OTA - Booking.com
+845,One Bedroom Suite,2026-03-31,2026-04-06,6,261.19,1567.14,Confirmed,OTA - Booking.com
+846,One Bedroom Suite with Plunge Pool,2026-03-29,2026-04-04,6,661.01,3966.06,Completed,OTA - Booking.com
+847,One Bedroom Suite,2026-09-05,2026-09-06,1,210.59,210.59,Completed,OTA - Expedia
+848,One Bedroom Standard Suite with Garden Pool,2026-11-12,2026-11-17,5,302.26,1511.3,Completed,OTA - Expedia
+849,One Bedroom Suite,2026-03-06,2026-03-13,7,319.57,2236.99,Completed,OTA - Booking.com
+850,One Bedroom Suite,2026-01-31,2026-02-06,6,323.58,1941.48,Completed,OTA - Expedia
+851,One Bedroom Standard Suite with Garden Pool,2026-12-19,2026-12-24,5,441.81,2209.05,Completed,Travel Agent
+852,One Bedroom Standard Suite with Garden Pool,2026-04-28,2026-05-02,4,361.89,1447.56,Confirmed,OTA - Booking.com
+853,One Bedroom Suite,2026-04-04,2026-04-06,2,293.5,587.0,Completed,OTA - Expedia
+854,One Bedroom Suite,2026-11-16,2026-11-17,1,192.27,192.27,Completed,Direct Website
+855,Two Bedroom Deluxe Suite with Garden Pool,2026-02-14,2026-02-21,7,982.56,6877.92,Cancelled,OTA - Expedia
+856,Two Bedroom Deluxe Suite with Garden Pool,2026-10-11,2026-10-18,7,708.54,4959.78,Completed,OTA - Booking.com
+857,Two Bedroom Deluxe Suite with Garden Pool,2026-12-05,2026-12-10,5,1028.61,5143.05,Completed,Travel Agent
+858,One Bedroom Standard Suite with Garden Pool,2026-10-05,2026-10-12,7,301.0,2107.0,Confirmed,Corporate
+859,One Bedroom Suite,2026-05-19,2026-05-26,7,203.85,1426.95,Completed,OTA - Booking.com
+860,One Bedroom Suite,2026-02-18,2026-02-20,2,272.35,544.7,Confirmed,OTA - Booking.com
+861,One Bedroom Suite with Plunge Pool,2026-07-02,2026-07-04,2,433.02,866.04,Confirmed,OTA - Expedia
+862,One Bedroom Standard Suite with Garden Pool,2026-09-26,2026-09-30,4,336.83,1347.32,Completed,OTA - Booking.com
+863,One Bedroom Suite with Plunge Pool,2026-04-12,2026-04-18,6,683.49,4100.94,Completed,Travel Agent
+864,One Bedroom Suite,2026-05-25,2026-05-30,5,214.78,1073.9,Completed,Travel Agent
+865,One Bedroom Suite with Plunge Pool,2026-10-10,2026-10-15,5,498.38,2491.9,Completed,Travel Agent
+866,One Bedroom Suite,2026-02-18,2026-02-25,7,295.72,2070.04,Completed,OTA - Booking.com
+867,One Bedroom Suite,2026-10-23,2026-10-25,2,222.94,445.88,Completed,OTA - Booking.com
+868,One Bedroom Standard Suite with Garden Pool,2026-02-20,2026-02-21,1,459.01,459.01,Confirmed,OTA - Booking.com
+869,Two Bedroom Deluxe Suite with Garden Pool,2026-11-27,2026-12-02,5,755.12,3775.6,Confirmed,Corporate
+870,One Bedroom Suite,2026-02-03,2026-02-09,6,259.94,1559.64,Completed,Direct Website
+871,One Bedroom Suite with Plunge Pool,2026-02-21,2026-02-22,1,695.79,695.79,Confirmed,Direct Website
+872,One Bedroom Suite,2026-02-13,2026-02-16,3,290.53,871.59,Completed,OTA - Booking.com
+873,One Bedroom Suite,2026-06-03,2026-06-05,2,199.26,398.52,Confirmed,OTA - Expedia
+874,One Bedroom Suite,2026-04-25,2026-05-02,7,278.7,1950.9,Completed,Direct Website
+875,One Bedroom Suite with Plunge Pool,2026-01-12,2026-01-14,2,572.07,1144.14,Completed,OTA - Expedia
+876,One Bedroom Standard Suite with Garden Pool,2026-10-01,2026-10-04,3,282.93,848.79,Completed,Travel Agent
+877,One Bedroom Suite with Plunge Pool,2026-12-13,2026-12-17,4,668.96,2675.84,Completed,OTA - Expedia
+878,One Bedroom Suite,2026-07-28,2026-08-04,7,200.45,1403.15,Completed,OTA - Booking.com
+879,One Bedroom Standard Suite with Garden Pool,2026-10-22,2026-10-27,5,287.15,1435.75,Completed,OTA - Expedia
+880,Two Bedroom Deluxe Suite with Garden Pool,2026-08-09,2026-08-10,1,733.29,733.29,Completed,Direct Website
+881,One Bedroom Suite,2026-03-09,2026-03-16,7,266.21,1863.47,Confirmed,OTA - Expedia
+882,One Bedroom Suite,2026-11-26,2026-11-27,1,208.71,208.71,Completed,OTA - Booking.com
+883,One Bedroom Suite,2026-01-25,2026-01-31,6,282.12,1692.72,Completed,Direct Website
+884,One Bedroom Suite with Plunge Pool,2026-12-19,2026-12-26,7,624.35,4370.45,Completed,OTA - Expedia
+885,One Bedroom Suite with Plunge Pool,2026-07-08,2026-07-13,5,436.44,2182.2,Completed,OTA - Booking.com
+886,One Bedroom Suite,2026-09-25,2026-09-29,4,240.81,963.24,Completed,OTA - Booking.com
+887,One Bedroom Suite,2026-04-13,2026-04-16,3,274.13,822.39,Confirmed,OTA - Booking.com
+888,One Bedroom Suite,2026-01-22,2026-01-28,6,272.75,1636.5,Confirmed,Direct Website
+889,One Bedroom Suite,2026-05-20,2026-05-22,2,191.05,382.1,Completed,Direct Website
+890,One Bedroom Standard Suite with Garden Pool,2026-12-06,2026-12-13,7,412.8,2889.6,Completed,OTA - Expedia
+891,One Bedroom Suite,2026-02-25,2026-03-01,4,266.27,1065.08,Confirmed,Direct Website
+892,One Bedroom Standard Suite with Garden Pool,2026-03-06,2026-03-13,7,424.43,2971.01,Completed,Direct Website
+893,One Bedroom Suite,2026-02-11,2026-02-18,7,256.98,1798.86,Completed,OTA - Booking.com
+894,One Bedroom Suite,2026-08-02,2026-08-07,5,214.45,1072.25,Confirmed,Direct Website
+895,One Bedroom Suite with Plunge Pool,2026-02-19,2026-02-24,5,642.68,3213.4,Completed,OTA - Expedia
+896,One Bedroom Suite with Plunge Pool,2026-02-21,2026-02-25,4,613.96,2455.84,Confirmed,OTA - Expedia
+897,One Bedroom Suite with Plunge Pool,2026-05-23,2026-05-26,3,463.58,1390.74,Completed,Direct Website
+898,One Bedroom Standard Suite with Garden Pool,2026-06-03,2026-06-09,6,293.38,1760.28,Completed,Travel Agent
+899,One Bedroom Standard Suite with Garden Pool,2026-04-28,2026-05-01,3,363.63,1090.89,Completed,OTA - Booking.com
+900,Two Bedroom Deluxe Suite with Garden Pool,2026-05-04,2026-05-08,4,666.43,2665.72,Confirmed,OTA - Expedia
+901,One Bedroom Suite,2026-10-08,2026-10-15,7,213.73,1496.11,Completed,Direct Website
+902,One Bedroom Standard Suite with Garden Pool,2026-04-10,2026-04-14,4,423.7,1694.8,Confirmed,Direct Website
+903,One Bedroom Suite with Plunge Pool,2026-02-23,2026-02-25,2,597.66,1195.32,Completed,OTA - Expedia
+904,One Bedroom Suite,2026-04-08,2026-04-12,4,270.21,1080.84,Completed,OTA - Booking.com
+905,One Bedroom Suite with Plunge Pool,2026-07-24,2026-07-26,2,479.73,959.46,Completed,OTA - Booking.com
+906,One Bedroom Suite,2026-10-12,2026-10-19,7,189.69,1327.83,Confirmed,Direct Website
+907,One Bedroom Standard Suite with Garden Pool,2026-03-30,2026-04-06,7,378.78,2651.46,Confirmed,Travel Agent
+908,One Bedroom Standard Suite with Garden Pool,2026-04-05,2026-04-12,7,429.38,3005.66,Completed,Direct Website
+909,One Bedroom Suite,2026-02-22,2026-02-27,5,285.79,1428.95,Confirmed,Direct Website
+910,One Bedroom Suite with Plunge Pool,2026-06-18,2026-06-21,3,429.79,1289.37,Completed,OTA - Booking.com
+911,One Bedroom Standard Suite with Garden Pool,2026-08-14,2026-08-18,4,330.07,1320.28,Completed,Corporate
+912,One Bedroom Suite,2026-08-03,2026-08-08,5,189.98,949.9,Completed,Direct Website
+913,One Bedroom Suite,2026-10-21,2026-10-28,7,191.11,1337.77,Confirmed,Direct Website
+914,One Bedroom Suite with Plunge Pool,2026-12-23,2026-12-27,4,604.78,2419.12,Confirmed,Direct Website
+915,One Bedroom Suite,2026-02-16,2026-02-22,6,296.29,1777.74,Confirmed,OTA - Expedia
+916,One Bedroom Suite,2026-08-11,2026-08-18,7,196.56,1375.92,Confirmed,Direct Website
+917,One Bedroom Suite,2026-12-28,2027-01-03,6,293.98,1763.88,Completed,OTA - Expedia
+918,Two Bedroom Deluxe Suite with Garden Pool,2026-09-26,2026-09-30,4,759.05,3036.2,Completed,Corporate
+919,One Bedroom Suite with Plunge Pool,2026-03-31,2026-04-07,7,562.88,3940.16,Confirmed,OTA - Expedia
+920,One Bedroom Suite with Plunge Pool,2026-04-18,2026-04-20,2,629.28,1258.56,Completed,Direct Website
+921,One Bedroom Suite,2026-08-17,2026-08-18,1,207.85,207.85,Completed,Corporate
+922,One Bedroom Suite,2026-02-08,2026-02-09,1,300.2,300.2,Completed,OTA - Booking.com
+923,One Bedroom Standard Suite with Garden Pool,2026-02-14,2026-02-18,4,407.97,1631.88,Completed,Direct Website
+924,Two Bedroom Deluxe Suite with Garden Pool,2026-01-05,2026-01-08,3,868.09,2604.27,Confirmed,OTA - Booking.com
+925,One Bedroom Suite,2026-01-07,2026-01-08,1,257.13,257.13,Completed,OTA - Booking.com
+926,One Bedroom Suite with Plunge Pool,2026-12-24,2026-12-28,4,644.75,2579.0,Confirmed,OTA - Expedia
+927,One Bedroom Standard Suite with Garden Pool,2026-01-07,2026-01-11,4,395.44,1581.76,Completed,Corporate
+928,One Bedroom Standard Suite with Garden Pool,2026-09-27,2026-10-01,4,294.86,1179.44,Completed,OTA - Booking.com
+929,One Bedroom Standard Suite with Garden Pool,2026-09-16,2026-09-17,1,297.53,297.53,Completed,Travel Agent
+930,Two Bedroom Deluxe Suite with Garden Pool,2026-12-07,2026-12-12,5,903.98,4519.9,Cancelled,Travel Agent
+931,Two Bedroom Deluxe Suite with Garden Pool,2026-05-07,2026-05-11,4,680.12,2720.48,Completed,Travel Agent
+932,One Bedroom Suite,2026-10-18,2026-10-23,5,234.7,1173.5,Completed,OTA - Booking.com
+933,Two Bedroom Deluxe Suite with Garden Pool,2026-11-21,2026-11-23,2,778.38,1556.76,Completed,OTA - Expedia
+934,One Bedroom Standard Suite with Garden Pool,2026-12-27,2026-12-30,3,456.73,1370.19,Completed,OTA - Booking.com
+935,Two Bedroom Deluxe Suite with Garden Pool,2026-01-31,2026-02-07,7,1079.15,7554.05,Completed,OTA - Expedia
+936,One Bedroom Suite with Plunge Pool,2026-05-02,2026-05-09,7,466.73,3267.11,Confirmed,OTA - Booking.com
+937,One Bedroom Standard Suite with Garden Pool,2026-06-16,2026-06-18,2,307.88,615.76,Confirmed,Corporate
+938,One Bedroom Suite,2026-09-22,2026-09-25,3,192.07,576.21,Completed,Travel Agent
+939,Two Bedroom Deluxe Suite with Garden Pool,2026-05-28,2026-05-29,1,696.89,696.89,Confirmed,Direct Website
+940,One Bedroom Suite,2026-01-01,2026-01-05,4,289.76,1159.04,Confirmed,OTA - Expedia
+941,One Bedroom Suite,2026-02-06,2026-02-08,2,296.68,593.36,Cancelled,OTA - Booking.com
+942,One Bedroom Suite,2026-03-04,2026-03-11,7,288.27,2017.89,Completed,Direct Website
+943,One Bedroom Suite with Plunge Pool,2026-03-03,2026-03-05,2,637.18,1274.36,Completed,OTA - Booking.com
+944,Two Bedroom Deluxe Suite with Garden Pool,2026-01-28,2026-02-04,7,999.4,6995.8,Completed,Travel Agent
+945,One Bedroom Suite,2026-08-13,2026-08-20,7,213.63,1495.41,Cancelled,Corporate
+946,One Bedroom Suite,2026-04-05,2026-04-08,3,312.48,937.44,Completed,Direct Website
+947,One Bedroom Standard Suite with Garden Pool,2026-07-10,2026-07-12,2,325.38,650.76,Completed,Travel Agent
+948,One Bedroom Suite,2026-06-06,2026-06-09,3,217.43,652.29,Confirmed,Corporate
+949,One Bedroom Suite,2026-06-28,2026-06-30,2,211.58,423.16,Completed,OTA - Expedia
+950,One Bedroom Suite,2026-12-08,2026-12-12,4,256.67,1026.68,Completed,OTA - Expedia
+951,Two Bedroom Deluxe Suite with Garden Pool,2026-07-29,2026-07-30,1,641.0,641.0,Completed,Direct Website
+952,One Bedroom Suite with Plunge Pool,2026-06-27,2026-07-02,5,477.48,2387.4,Confirmed,Travel Agent
+953,One Bedroom Suite with Plunge Pool,2026-04-20,2026-04-24,4,583.23,2332.92,Completed,Travel Agent
+954,One Bedroom Standard Suite with Garden Pool,2026-02-15,2026-02-16,1,422.82,422.82,Completed,Travel Agent
+955,One Bedroom Suite,2026-05-13,2026-05-15,2,203.57,407.14,Confirmed,Direct Website
+956,One Bedroom Standard Suite with Garden Pool,2026-01-04,2026-01-08,4,452.18,1808.72,Confirmed,Corporate
+957,One Bedroom Standard Suite with Garden Pool,2026-02-13,2026-02-17,4,437.17,1748.68,Completed,OTA - Booking.com
+958,One Bedroom Suite,2026-08-17,2026-08-20,3,217.1,651.3,Cancelled,Corporate
+959,Two Bedroom Deluxe Suite with Garden Pool,2026-11-24,2026-11-25,1,684.0,684.0,Cancelled,Direct Website
+960,One Bedroom Suite with Plunge Pool,2026-09-12,2026-09-19,7,518.02,3626.14,Completed,Direct Website
+961,Two Bedroom Deluxe Suite with Garden Pool,2026-04-11,2026-04-17,6,1080.76,6484.56,Confirmed,Direct Website
+962,Two Bedroom Deluxe Suite with Garden Pool,2026-04-24,2026-04-27,3,1010.66,3031.98,Completed,OTA - Booking.com
+963,Two Bedroom Deluxe Suite with Garden Pool,2026-08-21,2026-08-24,3,749.41,2248.23,Completed,OTA - Booking.com
+964,One Bedroom Suite,2026-08-17,2026-08-21,4,208.82,835.28,Completed,OTA - Expedia
+965,One Bedroom Suite,2026-11-17,2026-11-22,5,219.69,1098.45,Completed,OTA - Booking.com
+966,One Bedroom Suite,2026-03-23,2026-03-24,1,268.22,268.22,Confirmed,Travel Agent
+967,One Bedroom Suite,2026-06-02,2026-06-07,5,200.51,1002.55,Completed,OTA - Expedia
+968,One Bedroom Suite,2026-04-17,2026-04-23,6,282.77,1696.62,Completed,OTA - Booking.com
+969,One Bedroom Standard Suite with Garden Pool,2026-12-02,2026-12-06,4,370.41,1481.64,Completed,OTA - Booking.com
+970,One Bedroom Suite,2026-07-26,2026-07-29,3,219.18,657.54,Cancelled,Direct Website
+971,One Bedroom Standard Suite with Garden Pool,2026-03-23,2026-03-30,7,403.78,2826.46,Cancelled,Corporate
+972,One Bedroom Suite with Plunge Pool,2026-03-10,2026-03-15,5,620.62,3103.1,Confirmed,Travel Agent
+973,One Bedroom Suite,2026-06-05,2026-06-11,6,215.63,1293.78,Completed,Travel Agent
+974,One Bedroom Suite with Plunge Pool,2026-01-07,2026-01-08,1,594.69,594.69,Confirmed,Travel Agent
+975,One Bedroom Suite with Plunge Pool,2026-06-04,2026-06-09,5,458.71,2293.55,Completed,OTA - Expedia
+976,One Bedroom Suite,2026-09-02,2026-09-09,7,209.99,1469.93,Cancelled,Direct Website
+977,One Bedroom Suite with Plunge Pool,2026-10-22,2026-10-23,1,450.42,450.42,Confirmed,OTA - Expedia
+978,One Bedroom Suite with Plunge Pool,2026-10-09,2026-10-11,2,487.56,975.12,Completed,Travel Agent
+979,One Bedroom Suite,2026-08-30,2026-09-05,6,215.1,1290.6,Completed,Travel Agent
+980,One Bedroom Standard Suite with Garden Pool,2026-08-15,2026-08-20,5,324.06,1620.3,Completed,OTA - Booking.com
+981,One Bedroom Standard Suite with Garden Pool,2026-04-12,2026-04-15,3,419.3,1257.9,Completed,Direct Website
+982,Two Bedroom Deluxe Suite with Garden Pool,2026-04-09,2026-04-14,5,884.51,4422.55,Completed,Direct Website
+983,One Bedroom Suite,2026-05-09,2026-05-13,4,215.5,862.0,Cancelled,Corporate
+984,One Bedroom Suite,2026-12-14,2026-12-20,6,293.51,1761.06,Completed,OTA - Expedia
+985,Two Bedroom Deluxe Suite with Garden Pool,2026-01-07,2026-01-09,2,912.02,1824.04,Completed,Direct Website
+986,One Bedroom Standard Suite with Garden Pool,2026-11-23,2026-11-24,1,287.13,287.13,Completed,Direct Website
+987,One Bedroom Standard Suite with Garden Pool,2026-01-22,2026-01-25,3,382.59,1147.77,Completed,Direct Website
+988,One Bedroom Suite,2026-05-13,2026-05-14,1,194.77,194.77,Completed,Direct Website
+989,One Bedroom Standard Suite with Garden Pool,2026-09-11,2026-09-15,4,308.95,1235.8,Completed,OTA - Expedia
+990,One Bedroom Suite,2026-09-23,2026-09-25,2,188.49,376.98,Completed,Direct Website
+991,One Bedroom Standard Suite with Garden Pool,2026-03-31,2026-04-07,7,395.64,2769.48,Completed,Direct Website
+992,One Bedroom Suite with Plunge Pool,2026-01-11,2026-01-15,4,701.29,2805.16,Completed,OTA - Booking.com
+993,Two Bedroom Deluxe Suite with Garden Pool,2026-03-02,2026-03-08,6,989.82,5938.92,Confirmed,OTA - Expedia
+994,One Bedroom Standard Suite with Garden Pool,2026-02-21,2026-02-24,3,457.51,1372.53,Completed,Travel Agent
+995,One Bedroom Suite with Plunge Pool,2026-06-12,2026-06-13,1,481.32,481.32,Confirmed,Direct Website
+996,Two Bedroom Deluxe Suite with Garden Pool,2026-07-16,2026-07-20,4,690.55,2762.2,Confirmed,OTA - Booking.com
+997,One Bedroom Standard Suite with Garden Pool,2026-01-13,2026-01-15,2,386.83,773.66,Completed,Travel Agent
+998,One Bedroom Suite with Plunge Pool,2026-02-02,2026-02-08,6,559.92,3359.52,Confirmed,OTA - Expedia
+999,One Bedroom Standard Suite with Garden Pool,2026-01-09,2026-01-14,5,455.16,2275.8,Completed,OTA - Expedia
+1000,One Bedroom Suite with Plunge Pool,2026-05-21,2026-05-25,4,474.48,1897.92,Completed,Direct Website
+1001,One Bedroom Suite,2026-04-17,2026-04-23,6,320.04,1920.24,Completed,Direct Website
+1002,One Bedroom Standard Suite with Garden Pool,2026-12-12,2026-12-17,5,410.54,2052.7,Completed,OTA - Booking.com
+1003,Two Bedroom Deluxe Suite with Garden Pool,2026-08-11,2026-08-12,1,694.43,694.43,Cancelled,OTA - Booking.com
+1004,One Bedroom Standard Suite with Garden Pool,2026-01-22,2026-01-26,4,399.62,1598.48,Completed,OTA - Booking.com
+1005,One Bedroom Suite,2026-09-20,2026-09-22,2,223.98,447.96,Cancelled,Direct Website
+1006,One Bedroom Suite,2026-03-01,2026-03-05,4,323.19,1292.76,Completed,Direct Website
+1007,One Bedroom Suite with Plunge Pool,2026-10-01,2026-10-06,5,423.49,2117.45,Completed,OTA - Booking.com
+1008,One Bedroom Suite,2026-03-05,2026-03-06,1,271.4,271.4,Completed,Corporate
+1009,One Bedroom Standard Suite with Garden Pool,2026-12-03,2026-12-09,6,410.79,2464.74,Completed,OTA - Booking.com
+1010,One Bedroom Standard Suite with Garden Pool,2026-11-01,2026-11-05,4,298.43,1193.72,Completed,Travel Agent
+1011,One Bedroom Suite with Plunge Pool,2026-03-02,2026-03-08,6,572.18,3433.08,Completed,OTA - Expedia
+1012,One Bedroom Suite with Plunge Pool,2026-11-28,2026-12-03,5,494.63,2473.15,Completed,OTA - Expedia
+1013,One Bedroom Suite,2026-05-18,2026-05-22,4,206.06,824.24,Completed,Direct Website
+1014,One Bedroom Suite,2026-11-18,2026-11-22,4,194.93,779.72,Completed,OTA - Booking.com
+1015,One Bedroom Suite,2026-05-14,2026-05-19,5,189.98,949.9,Completed,OTA - Expedia
+1016,One Bedroom Suite,2026-01-19,2026-01-21,2,277.87,555.74,Completed,Direct Website
+1017,One Bedroom Suite with Plunge Pool,2026-08-27,2026-08-28,1,473.42,473.42,Completed,OTA - Expedia
+1018,One Bedroom Standard Suite with Garden Pool,2026-12-24,2026-12-31,7,405.9,2841.3,Completed,OTA - Booking.com
+1019,One Bedroom Standard Suite with Garden Pool,2026-12-28,2027-01-03,6,405.2,2431.2,Cancelled,Corporate
+1020,One Bedroom Standard Suite with Garden Pool,2026-04-21,2026-04-22,1,401.42,401.42,Completed,OTA - Booking.com
+1021,One Bedroom Suite with Plunge Pool,2026-01-05,2026-01-09,4,591.26,2365.04,Completed,OTA - Expedia
+1022,One Bedroom Suite,2026-10-21,2026-10-22,1,201.51,201.51,Confirmed,Direct Website
+1023,One Bedroom Suite with Plunge Pool,2026-06-19,2026-06-25,6,524.18,3145.08,Completed,OTA - Expedia
+1024,One Bedroom Suite,2026-07-30,2026-08-01,2,208.06,416.12,Completed,Direct Website
+1025,One Bedroom Suite with Plunge Pool,2026-10-02,2026-10-07,5,469.98,2349.9,Cancelled,OTA - Expedia
+1026,One Bedroom Standard Suite with Garden Pool,2026-03-21,2026-03-24,3,410.02,1230.06,Completed,Corporate
+1027,One Bedroom Suite,2026-04-09,2026-04-13,4,258.79,1035.16,Completed,OTA - Booking.com
+1028,One Bedroom Standard Suite with Garden Pool,2026-06-06,2026-06-10,4,340.02,1360.08,Completed,OTA - Booking.com
+1029,One Bedroom Suite,2026-05-20,2026-05-22,2,216.22,432.44,Completed,OTA - Expedia
+1030,One Bedroom Standard Suite with Garden Pool,2026-09-27,2026-09-29,2,298.91,597.82,Completed,OTA - Expedia
+1031,One Bedroom Standard Suite with Garden Pool,2026-01-02,2026-01-08,6,440.62,2643.72,Completed,Direct Website
+1032,One Bedroom Suite,2026-04-19,2026-04-20,1,318.13,318.13,Completed,OTA - Booking.com
+1033,One Bedroom Suite,2026-05-30,2026-06-06,7,218.27,1527.89,Confirmed,Travel Agent
+1034,One Bedroom Suite with Plunge Pool,2026-10-17,2026-10-18,1,494.15,494.15,Completed,OTA - Booking.com
+1035,One Bedroom Suite with Plunge Pool,2026-02-10,2026-02-17,7,612.4,4286.8,Confirmed,Direct Website
+1036,One Bedroom Standard Suite with Garden Pool,2026-10-06,2026-10-09,3,284.63,853.89,Confirmed,OTA - Booking.com
+1037,Two Bedroom Deluxe Suite with Garden Pool,2026-03-02,2026-03-06,4,960.46,3841.84,Completed,Travel Agent
+1038,One Bedroom Suite,2026-02-21,2026-02-27,6,287.93,1727.58,Confirmed,Corporate
+1039,One Bedroom Standard Suite with Garden Pool,2026-12-16,2026-12-19,3,373.99,1121.97,Completed,Direct Website
+1040,Two Bedroom Deluxe Suite with Garden Pool,2026-01-23,2026-01-24,1,1049.79,1049.79,Completed,Direct Website
+1041,One Bedroom Suite,2026-11-19,2026-11-24,5,203.85,1019.25,Completed,Travel Agent
+1042,One Bedroom Suite,2026-03-31,2026-04-01,1,263.64,263.64,Completed,OTA - Booking.com
+1043,One Bedroom Standard Suite with Garden Pool,2026-08-03,2026-08-07,4,271.19,1084.76,Completed,Direct Website
+1044,One Bedroom Suite with Plunge Pool,2026-03-15,2026-03-16,1,670.8,670.8,Confirmed,Direct Website
+1045,One Bedroom Suite,2026-12-19,2026-12-20,1,302.81,302.81,Completed,Travel Agent
+1046,One Bedroom Standard Suite with Garden Pool,2026-10-05,2026-10-08,3,271.67,815.01,Completed,OTA - Booking.com
+1047,One Bedroom Suite,2026-06-05,2026-06-10,5,217.46,1087.3,Completed,OTA - Booking.com
+1048,Two Bedroom Deluxe Suite with Garden Pool,2026-02-18,2026-02-25,7,975.19,6826.33,Completed,OTA - Expedia
+1049,One Bedroom Suite,2026-08-04,2026-08-07,3,197.47,592.41,Completed,Travel Agent
+1050,One Bedroom Suite with Plunge Pool,2026-08-22,2026-08-29,7,452.26,3165.82,Completed,OTA - Expedia
+1051,One Bedroom Suite,2026-06-11,2026-06-14,3,210.47,631.41,Completed,OTA - Expedia
+1052,One Bedroom Standard Suite with Garden Pool,2026-10-11,2026-10-14,3,312.84,938.52,Completed,Direct Website
+1053,Two Bedroom Deluxe Suite with Garden Pool,2026-04-03,2026-04-07,4,1099.48,4397.92,Completed,Direct Website
+1054,One Bedroom Suite,2026-12-15,2026-12-17,2,294.96,589.92,Completed,OTA - Expedia
+1055,One Bedroom Suite with Plunge Pool,2026-01-01,2026-01-03,2,556.96,1113.92,Completed,Direct Website
+1056,One Bedroom Suite with Plunge Pool,2026-03-20,2026-03-24,4,663.3,2653.2,Confirmed,Direct Website
+1057,One Bedroom Standard Suite with Garden Pool,2026-10-22,2026-10-26,4,301.11,1204.44,Completed,Travel Agent
+1058,One Bedroom Suite with Plunge Pool,2026-09-07,2026-09-08,1,434.2,434.2,Cancelled,OTA - Expedia
+1059,One Bedroom Standard Suite with Garden Pool,2026-10-16,2026-10-22,6,316.92,1901.52,Cancelled,Direct Website
+1060,Two Bedroom Deluxe Suite with Garden Pool,2026-12-28,2027-01-01,4,945.28,3781.12,Completed,Direct Website
+1061,One Bedroom Standard Suite with Garden Pool,2026-07-23,2026-07-24,1,293.66,293.66,Completed,Direct Website
+1062,One Bedroom Suite,2026-10-19,2026-10-21,2,195.62,391.24,Completed,Direct Website
+1063,Two Bedroom Deluxe Suite with Garden Pool,2026-10-14,2026-10-19,5,672.2,3361.0,Completed,OTA - Booking.com
+1064,Two Bedroom Deluxe Suite with Garden Pool,2026-04-22,2026-04-29,7,927.13,6489.91,Completed,OTA - Booking.com
+1065,One Bedroom Suite with Plunge Pool,2026-10-05,2026-10-11,6,468.08,2808.48,Cancelled,Direct Website
+1066,One Bedroom Suite,2026-01-12,2026-01-16,4,265.04,1060.16,Completed,OTA - Booking.com
+1067,One Bedroom Suite,2026-12-11,2026-12-18,7,305.46,2138.22,Completed,Direct Website
+1068,One Bedroom Suite with Plunge Pool,2026-12-19,2026-12-25,6,682.63,4095.78,Completed,OTA - Booking.com
+1069,One Bedroom Suite,2026-01-21,2026-01-22,1,273.5,273.5,Completed,Direct Website
+1070,One Bedroom Suite with Plunge Pool,2026-01-15,2026-01-22,7,621.35,4349.45,Cancelled,Travel Agent
+1071,One Bedroom Suite,2026-07-09,2026-07-14,5,190.67,953.35,Completed,OTA - Booking.com
+1072,One Bedroom Suite,2026-11-03,2026-11-10,7,216.17,1513.19,Completed,OTA - Expedia
+1073,One Bedroom Suite with Plunge Pool,2026-03-14,2026-03-16,2,690.7,1381.4,Completed,Travel Agent
+1074,One Bedroom Suite with Plunge Pool,2026-08-25,2026-08-31,6,430.59,2583.54,Completed,OTA - Booking.com
+1075,One Bedroom Suite,2026-04-21,2026-04-25,4,276.53,1106.12,Cancelled,Direct Website
+1076,One Bedroom Standard Suite with Garden Pool,2026-07-15,2026-07-18,3,305.83,917.49,Confirmed,OTA - Booking.com
+1077,One Bedroom Standard Suite with Garden Pool,2026-09-28,2026-09-29,1,291.14,291.14,Completed,OTA - Booking.com
+1078,One Bedroom Suite,2026-02-20,2026-02-22,2,324.67,649.34,Confirmed,Travel Agent
+1079,One Bedroom Suite with Plunge Pool,2026-08-19,2026-08-21,2,474.7,949.4,Completed,Direct Website
+1080,One Bedroom Standard Suite with Garden Pool,2026-08-31,2026-09-07,7,275.17,1926.19,Completed,OTA - Booking.com
+1081,One Bedroom Suite with Plunge Pool,2026-02-13,2026-02-20,7,710.63,4974.41,Completed,Travel Agent
+1082,One Bedroom Suite,2026-12-16,2026-12-17,1,289.27,289.27,Completed,Direct Website
+1083,One Bedroom Standard Suite with Garden Pool,2026-10-31,2026-11-06,6,298.78,1792.68,Completed,OTA - Expedia
+1084,One Bedroom Suite,2026-12-22,2026-12-24,2,257.74,515.48,Completed,OTA - Booking.com
+1085,Two Bedroom Deluxe Suite with Garden Pool,2026-06-16,2026-06-20,4,742.63,2970.52,Confirmed,OTA - Booking.com
+1086,One Bedroom Suite,2026-07-14,2026-07-16,2,204.66,409.32,Completed,Direct Website
+1087,One Bedroom Suite with Plunge Pool,2026-12-09,2026-12-16,7,587.55,4112.85,Completed,OTA - Expedia
+1088,One Bedroom Suite with Plunge Pool,2026-08-30,2026-09-03,4,503.11,2012.44,Completed,OTA - Booking.com
+1089,One Bedroom Suite,2026-11-04,2026-11-09,5,192.27,961.35,Completed,OTA - Expedia
+1090,One Bedroom Suite with Plunge Pool,2026-07-20,2026-07-24,4,439.44,1757.76,Completed,Travel Agent
+1091,One Bedroom Suite,2026-06-26,2026-06-29,3,208.07,624.21,Completed,OTA - Booking.com
+1092,One Bedroom Suite with Plunge Pool,2026-11-19,2026-11-25,6,441.74,2650.44,Completed,OTA - Booking.com
+1093,One Bedroom Standard Suite with Garden Pool,2026-04-07,2026-04-08,1,417.52,417.52,Cancelled,Direct Website
+1094,One Bedroom Suite with Plunge Pool,2026-06-26,2026-06-28,2,477.14,954.28,Completed,OTA - Booking.com
+1095,One Bedroom Suite,2026-01-03,2026-01-05,2,324.56,649.12,Confirmed,Travel Agent
+1096,One Bedroom Suite,2026-12-08,2026-12-11,3,253.6,760.8,Confirmed,Corporate
+1097,One Bedroom Suite,2026-07-19,2026-07-26,7,220.99,1546.93,Completed,Corporate
+1098,Two Bedroom Deluxe Suite with Garden Pool,2026-11-22,2026-11-28,6,757.12,4542.72,Completed,Direct Website
+1099,One Bedroom Suite with Plunge Pool,2026-11-19,2026-11-24,5,427.23,2136.15,Cancelled,OTA - Booking.com
+1100,One Bedroom Suite,2026-06-24,2026-06-25,1,189.23,189.23,Cancelled,Corporate
+1101,One Bedroom Suite with Plunge Pool,2026-01-03,2026-01-08,5,651.29,3256.45,Completed,OTA - Expedia
+1102,One Bedroom Suite with Plunge Pool,2026-02-16,2026-02-23,7,636.85,4457.95,Completed,OTA - Booking.com
+1103,Two Bedroom Deluxe Suite with Garden Pool,2026-09-30,2026-10-05,5,745.05,3725.25,Completed,Direct Website
+1104,Two Bedroom Deluxe Suite with Garden Pool,2026-08-01,2026-08-08,7,771.53,5400.71,Completed,OTA - Booking.com
+1105,One Bedroom Standard Suite with Garden Pool,2026-11-21,2026-11-22,1,298.86,298.86,Completed,Direct Website
+1106,Two Bedroom Deluxe Suite with Garden Pool,2026-07-20,2026-07-21,1,676.4,676.4,Completed,OTA - Booking.com
+1107,One Bedroom Suite with Plunge Pool,2026-04-12,2026-04-18,6,639.31,3835.86,Completed,Direct Website
+1108,Two Bedroom Deluxe Suite with Garden Pool,2026-04-16,2026-04-22,6,930.07,5580.42,Cancelled,Direct Website
+1109,One Bedroom Suite,2026-06-23,2026-06-28,5,194.58,972.9,Cancelled,OTA - Booking.com
+1110,One Bedroom Suite,2026-02-24,2026-02-27,3,276.82,830.46,Completed,Travel Agent
+1111,One Bedroom Suite,2026-12-22,2026-12-27,5,254.41,1272.05,Completed,Direct Website
+1112,One Bedroom Suite,2026-11-25,2026-12-01,6,202.09,1212.54,Cancelled,OTA - Booking.com
+1113,One Bedroom Suite,2026-10-23,2026-10-28,5,226.94,1134.7,Confirmed,OTA - Booking.com
+1114,One Bedroom Suite,2026-10-05,2026-10-07,2,189.43,378.86,Cancelled,OTA - Expedia
+1115,One Bedroom Standard Suite with Garden Pool,2026-01-11,2026-01-13,2,425.85,851.7,Completed,Direct Website
+1116,One Bedroom Standard Suite with Garden Pool,2026-04-16,2026-04-20,4,356.65,1426.6,Completed,Direct Website
+1117,One Bedroom Suite,2026-03-17,2026-03-18,1,275.23,275.23,Completed,OTA - Expedia
+1118,Two Bedroom Deluxe Suite with Garden Pool,2026-08-23,2026-08-30,7,802.72,5619.04,Cancelled,Direct Website
+1119,One Bedroom Standard Suite with Garden Pool,2026-10-15,2026-10-16,1,278.35,278.35,Completed,OTA - Expedia
+1120,One Bedroom Standard Suite with Garden Pool,2026-11-14,2026-11-19,5,293.37,1466.85,Completed,Travel Agent
+1121,One Bedroom Suite with Plunge Pool,2026-03-29,2026-04-02,4,643.76,2575.04,Completed,Travel Agent
+1122,One Bedroom Suite,2026-07-27,2026-08-02,6,200.74,1204.44,Completed,OTA - Booking.com
+1123,One Bedroom Suite with Plunge Pool,2026-03-14,2026-03-19,5,689.57,3447.85,Confirmed,Corporate
+1124,One Bedroom Standard Suite with Garden Pool,2026-03-28,2026-03-30,2,408.64,817.28,Completed,Direct Website
+1125,One Bedroom Standard Suite with Garden Pool,2026-06-13,2026-06-14,1,339.85,339.85,Completed,Corporate
+1126,One Bedroom Suite,2026-12-12,2026-12-13,1,306.11,306.11,Cancelled,OTA - Expedia
+1127,One Bedroom Standard Suite with Garden Pool,2026-09-29,2026-10-02,3,307.5,922.5,Completed,OTA - Booking.com
+1128,One Bedroom Standard Suite with Garden Pool,2026-12-21,2026-12-23,2,404.21,808.42,Completed,OTA - Expedia
+1129,One Bedroom Standard Suite with Garden Pool,2026-01-23,2026-01-26,3,443.98,1331.94,Completed,OTA - Booking.com
+1130,One Bedroom Standard Suite with Garden Pool,2026-04-29,2026-05-03,4,404.95,1619.8,Completed,OTA - Expedia
+1131,One Bedroom Standard Suite with Garden Pool,2026-08-07,2026-08-10,3,326.93,980.79,Cancelled,Corporate
+1132,One Bedroom Suite with Plunge Pool,2026-05-16,2026-05-23,7,488.04,3416.28,Cancelled,OTA - Booking.com
+1133,One Bedroom Standard Suite with Garden Pool,2026-01-14,2026-01-20,6,385.65,2313.9,Completed,OTA - Booking.com
+1134,Two Bedroom Deluxe Suite with Garden Pool,2026-08-13,2026-08-16,3,691.28,2073.84,Completed,OTA - Booking.com
+1135,One Bedroom Standard Suite with Garden Pool,2026-11-06,2026-11-07,1,297.48,297.48,Cancelled,Corporate
+1136,One Bedroom Suite,2026-06-19,2026-06-24,5,221.64,1108.2,Completed,Corporate
+1137,One Bedroom Standard Suite with Garden Pool,2026-11-01,2026-11-03,2,306.95,613.9,Completed,Corporate
+1138,One Bedroom Standard Suite with Garden Pool,2026-10-26,2026-11-01,6,277.84,1667.04,Completed,OTA - Booking.com
+1139,One Bedroom Standard Suite with Garden Pool,2026-09-16,2026-09-19,3,287.52,862.56,Completed,OTA - Booking.com
+1140,One Bedroom Suite,2026-02-08,2026-02-12,4,302.77,1211.08,Confirmed,Direct Website
+1141,One Bedroom Suite,2026-02-21,2026-02-24,3,302.12,906.36,Completed,Direct Website
+1142,One Bedroom Suite with Plunge Pool,2026-12-24,2026-12-31,7,571.34,3999.38,Completed,OTA - Expedia
+1143,One Bedroom Suite,2026-05-17,2026-05-18,1,220.13,220.13,Confirmed,OTA - Expedia
+1144,One Bedroom Suite,2026-05-30,2026-05-31,1,214.78,214.78,Completed,Corporate
+1145,One Bedroom Standard Suite with Garden Pool,2026-11-12,2026-11-17,5,307.85,1539.25,Completed,Direct Website
+1146,One Bedroom Suite,2026-01-27,2026-01-30,3,296.34,889.02,Completed,OTA - Booking.com
+1147,One Bedroom Standard Suite with Garden Pool,2026-05-12,2026-05-19,7,305.58,2139.06,Completed,OTA - Booking.com
+1148,One Bedroom Suite,2026-06-15,2026-06-22,7,192.99,1350.93,Completed,Corporate
+1149,One Bedroom Standard Suite with Garden Pool,2026-11-09,2026-11-10,1,298.4,298.4,Completed,Corporate
+1150,One Bedroom Suite,2026-02-23,2026-02-25,2,263.35,526.7,Completed,OTA - Expedia
+1151,One Bedroom Suite with Plunge Pool,2026-09-24,2026-09-30,6,458.22,2749.32,Confirmed,Direct Website
+1152,One Bedroom Standard Suite with Garden Pool,2026-08-31,2026-09-04,4,302.39,1209.56,Completed,OTA - Booking.com
+1153,One Bedroom Suite,2026-05-15,2026-05-20,5,240.85,1204.25,Cancelled,Travel Agent
+1154,One Bedroom Suite,2026-08-31,2026-09-02,2,206.77,413.54,Completed,Direct Website
+1155,One Bedroom Suite with Plunge Pool,2026-12-20,2026-12-21,1,708.37,708.37,Completed,Direct Website
+1156,One Bedroom Standard Suite with Garden Pool,2026-04-18,2026-04-25,7,454.69,3182.83,Completed,OTA - Booking.com
+1157,One Bedroom Suite,2026-11-08,2026-11-10,2,227.72,455.44,Completed,Travel Agent
+1158,One Bedroom Standard Suite with Garden Pool,2026-02-28,2026-03-01,1,407.33,407.33,Completed,Direct Website
+1159,One Bedroom Suite,2026-05-09,2026-05-13,4,225.54,902.16,Completed,Corporate
+1160,One Bedroom Standard Suite with Garden Pool,2026-01-30,2026-02-02,3,438.41,1315.23,Completed,OTA - Booking.com
+1161,One Bedroom Standard Suite with Garden Pool,2026-06-14,2026-06-15,1,326.32,326.32,Completed,OTA - Booking.com
+1162,One Bedroom Suite,2026-11-03,2026-11-10,7,202.42,1416.94,Completed,Direct Website
+1163,One Bedroom Suite with Plunge Pool,2026-07-17,2026-07-21,4,467.78,1871.12,Completed,Direct Website
+1164,One Bedroom Suite,2026-12-14,2026-12-17,3,263.91,791.73,Completed,OTA - Expedia
+1165,One Bedroom Suite,2026-12-14,2026-12-17,3,267.82,803.46,Completed,OTA - Expedia
+1166,One Bedroom Suite,2026-08-24,2026-08-25,1,190.86,190.86,Completed,Travel Agent
+1167,One Bedroom Suite,2026-11-27,2026-12-01,4,225.83,903.32,Cancelled,OTA - Booking.com
+1168,One Bedroom Suite,2026-09-07,2026-09-10,3,198.67,596.01,Completed,OTA - Expedia
+1169,One Bedroom Standard Suite with Garden Pool,2026-09-01,2026-09-03,2,298.95,597.9,Completed,Direct Website
+1170,One Bedroom Standard Suite with Garden Pool,2026-01-23,2026-01-24,1,418.27,418.27,Completed,Direct Website
+1171,Two Bedroom Deluxe Suite with Garden Pool,2026-10-07,2026-10-09,2,717.0,1434.0,Cancelled,Travel Agent
+1172,One Bedroom Standard Suite with Garden Pool,2026-02-14,2026-02-17,3,423.76,1271.28,Confirmed,OTA - Booking.com
+1173,One Bedroom Suite,2026-10-25,2026-10-26,1,210.01,210.01,Cancelled,Travel Agent
+1174,One Bedroom Suite with Plunge Pool,2026-08-14,2026-08-15,1,496.98,496.98,Completed,OTA - Expedia
+1175,Two Bedroom Deluxe Suite with Garden Pool,2026-08-26,2026-09-01,6,733.11,4398.66,Completed,Direct Website
+1176,One Bedroom Suite,2026-10-25,2026-10-28,3,223.56,670.68,Completed,OTA - Expedia
+1177,One Bedroom Suite,2026-10-04,2026-10-06,2,223.58,447.16,Completed,OTA - Expedia
+1178,One Bedroom Suite with Plunge Pool,2026-08-24,2026-08-28,4,430.11,1720.44,Completed,Direct Website
+1179,One Bedroom Suite,2026-07-06,2026-07-07,1,212.17,212.17,Completed,Direct Website
+1180,One Bedroom Suite with Plunge Pool,2026-11-14,2026-11-21,7,501.45,3510.15,Completed,Direct Website
+1181,One Bedroom Suite with Plunge Pool,2026-03-07,2026-03-13,6,639.92,3839.52,Confirmed,OTA - Booking.com
+1182,One Bedroom Standard Suite with Garden Pool,2026-08-27,2026-08-31,4,307.58,1230.32,Completed,OTA - Expedia
+1183,One Bedroom Standard Suite with Garden Pool,2026-05-12,2026-05-13,1,293.9,293.9,Completed,Travel Agent
+1184,One Bedroom Suite,2026-02-28,2026-03-06,6,285.96,1715.76,Cancelled,OTA - Expedia
+1185,One Bedroom Suite,2026-10-05,2026-10-12,7,214.71,1502.97,Completed,OTA - Booking.com
+1186,One Bedroom Standard Suite with Garden Pool,2026-02-09,2026-02-16,7,410.79,2875.53,Confirmed,OTA - Booking.com
+1187,One Bedroom Standard Suite with Garden Pool,2026-12-18,2026-12-20,2,428.61,857.22,Completed,Direct Website
+1188,One Bedroom Suite,2026-12-10,2026-12-11,1,268.0,268.0,Cancelled,Corporate
+1189,Two Bedroom Deluxe Suite with Garden Pool,2026-05-22,2026-05-24,2,714.16,1428.32,Completed,Direct Website
+1190,One Bedroom Standard Suite with Garden Pool,2026-08-26,2026-08-29,3,307.87,923.61,Confirmed,Travel Agent
+1191,One Bedroom Suite with Plunge Pool,2026-11-04,2026-11-05,1,457.08,457.08,Confirmed,Direct Website
+1192,Two Bedroom Deluxe Suite with Garden Pool,2026-06-08,2026-06-13,5,726.08,3630.4,Completed,OTA - Booking.com
+1193,One Bedroom Suite,2026-10-13,2026-10-19,6,206.18,1237.08,Completed,Direct Website
+1194,One Bedroom Suite with Plunge Pool,2026-09-14,2026-09-15,1,422.04,422.04,Completed,Direct Website
+1195,One Bedroom Suite with Plunge Pool,2026-07-09,2026-07-16,7,417.74,2924.18,Completed,Direct Website
+1196,One Bedroom Standard Suite with Garden Pool,2026-11-19,2026-11-24,5,271.8,1359.0,Completed,OTA - Booking.com
+1197,One Bedroom Suite with Plunge Pool,2026-04-13,2026-04-16,3,598.21,1794.63,Completed,Direct Website
+1198,One Bedroom Standard Suite with Garden Pool,2026-02-09,2026-02-14,5,415.4,2077.0,Completed,OTA - Booking.com
+1199,Two Bedroom Deluxe Suite with Garden Pool,2026-10-08,2026-10-13,5,668.7,3343.5,Completed,OTA - Booking.com
+1200,One Bedroom Suite,2026-03-16,2026-03-21,5,275.29,1376.45,Confirmed,OTA - Booking.com
+1201,One Bedroom Suite,2026-03-12,2026-03-19,7,291.91,2043.37,Completed,OTA - Expedia
+1202,One Bedroom Suite,2026-05-14,2026-05-15,1,211.93,211.93,Completed,OTA - Booking.com
+1203,One Bedroom Standard Suite with Garden Pool,2026-09-24,2026-09-25,1,307.82,307.82,Completed,Direct Website
+1204,One Bedroom Suite,2026-06-27,2026-06-30,3,212.29,636.87,Cancelled,Corporate
+1205,One Bedroom Suite,2026-10-02,2026-10-05,3,238.21,714.63,Completed,OTA - Expedia
+1206,One Bedroom Suite,2026-04-25,2026-04-29,4,306.56,1226.24,Completed,OTA - Expedia
+1207,One Bedroom Suite,2026-03-17,2026-03-20,3,261.09,783.27,Completed,OTA - Expedia
+1208,One Bedroom Suite,2026-04-30,2026-05-07,7,263.81,1846.67,Completed,Direct Website
+1209,One Bedroom Suite with Plunge Pool,2026-10-24,2026-10-25,1,512.98,512.98,Completed,OTA - Booking.com
+1210,One Bedroom Standard Suite with Garden Pool,2026-12-03,2026-12-08,5,383.84,1919.2,Completed,OTA - Booking.com
+1211,One Bedroom Suite,2026-07-24,2026-07-31,7,238.53,1669.71,Completed,Corporate
+1212,Two Bedroom Deluxe Suite with Garden Pool,2026-01-11,2026-01-13,2,1091.14,2182.28,Completed,Travel Agent
+1213,One Bedroom Suite,2026-07-11,2026-07-18,7,222.25,1555.75,Completed,OTA - Booking.com
+1214,One Bedroom Suite with Plunge Pool,2026-04-09,2026-04-12,3,635.88,1907.64,Completed,OTA - Expedia
+1215,One Bedroom Standard Suite with Garden Pool,2026-08-06,2026-08-12,6,288.99,1733.94,Completed,Direct Website
+1216,Two Bedroom Deluxe Suite with Garden Pool,2026-10-22,2026-10-29,7,670.57,4693.99,Completed,Direct Website
+1217,One Bedroom Suite with Plunge Pool,2026-04-18,2026-04-25,7,675.6,4729.2,Completed,OTA - Booking.com
+1218,One Bedroom Suite,2026-09-07,2026-09-14,7,214.0,1498.0,Completed,Direct Website
+1219,One Bedroom Suite,2026-01-25,2026-01-27,2,288.8,577.6,Completed,OTA - Booking.com
+1220,Two Bedroom Deluxe Suite with Garden Pool,2026-10-05,2026-10-06,1,695.36,695.36,Completed,Corporate
+1221,One Bedroom Suite with Plunge Pool,2026-01-20,2026-01-24,4,618.44,2473.76,Completed,OTA - Booking.com
+1222,Two Bedroom Deluxe Suite with Garden Pool,2026-12-03,2026-12-10,7,976.81,6837.67,Cancelled,Direct Website
+1223,One Bedroom Suite with Plunge Pool,2026-03-25,2026-03-30,5,600.5,3002.5,Completed,Travel Agent
+1224,One Bedroom Standard Suite with Garden Pool,2026-08-12,2026-08-13,1,282.55,282.55,Confirmed,Travel Agent
+1225,Two Bedroom Deluxe Suite with Garden Pool,2026-04-20,2026-04-27,7,1004.46,7031.22,Completed,Direct Website
+1226,One Bedroom Suite with Plunge Pool,2026-10-28,2026-10-30,2,411.07,822.14,Completed,OTA - Booking.com
+1227,One Bedroom Standard Suite with Garden Pool,2026-02-12,2026-02-18,6,382.96,2297.76,Completed,OTA - Booking.com
+1228,One Bedroom Suite,2026-07-08,2026-07-15,7,206.36,1444.52,Completed,Direct Website
+1229,One Bedroom Standard Suite with Garden Pool,2026-02-01,2026-02-02,1,456.93,456.93,Completed,Travel Agent
+1230,One Bedroom Suite with Plunge Pool,2026-11-15,2026-11-19,4,522.57,2090.28,Completed,OTA - Booking.com
+1231,One Bedroom Suite with Plunge Pool,2026-11-15,2026-11-16,1,526.21,526.21,Completed,OTA - Expedia
+1232,One Bedroom Standard Suite with Garden Pool,2026-03-07,2026-03-08,1,394.66,394.66,Completed,Direct Website
+1233,One Bedroom Standard Suite with Garden Pool,2026-12-13,2026-12-17,4,446.01,1784.04,Completed,OTA - Booking.com
+1234,One Bedroom Suite with Plunge Pool,2026-02-26,2026-03-03,5,592.02,2960.1,Completed,Direct Website
+1235,One Bedroom Suite with Plunge Pool,2026-12-21,2026-12-25,4,641.15,2564.6,Confirmed,OTA - Booking.com
+1236,One Bedroom Standard Suite with Garden Pool,2026-02-19,2026-02-24,5,362.23,1811.15,Completed,Travel Agent
+1237,One Bedroom Suite with Plunge Pool,2026-04-04,2026-04-07,3,686.32,2058.96,Confirmed,OTA - Booking.com
+1238,One Bedroom Suite with Plunge Pool,2026-04-06,2026-04-08,2,584.21,1168.42,Completed,OTA - Expedia
+1239,One Bedroom Standard Suite with Garden Pool,2026-06-04,2026-06-08,4,281.72,1126.88,Completed,Direct Website
+1240,One Bedroom Standard Suite with Garden Pool,2026-12-28,2027-01-01,4,378.93,1515.72,Completed,OTA - Booking.com
+1241,One Bedroom Standard Suite with Garden Pool,2026-03-26,2026-03-28,2,414.17,828.34,Completed,OTA - Booking.com
+1242,Two Bedroom Deluxe Suite with Garden Pool,2026-02-16,2026-02-21,5,884.03,4420.15,Completed,Corporate
+1243,One Bedroom Suite,2026-12-07,2026-12-10,3,261.28,783.84,Cancelled,OTA - Booking.com
+1244,One Bedroom Suite with Plunge Pool,2026-02-26,2026-02-27,1,615.45,615.45,Completed,OTA - Expedia
+1245,One Bedroom Suite,2026-12-27,2027-01-02,6,317.52,1905.12,Completed,OTA - Booking.com
+1246,One Bedroom Suite,2026-08-28,2026-09-02,5,226.02,1130.1,Confirmed,Travel Agent
+1247,One Bedroom Suite,2026-11-13,2026-11-16,3,222.92,668.76,Completed,OTA - Expedia
+1248,One Bedroom Suite,2026-03-24,2026-03-25,1,266.77,266.77,Confirmed,Corporate
+1249,Two Bedroom Deluxe Suite with Garden Pool,2026-04-13,2026-04-14,1,867.74,867.74,Confirmed,Direct Website
+1250,One Bedroom Suite with Plunge Pool,2026-01-04,2026-01-10,6,620.29,3721.74,Completed,Direct Website
+1251,One Bedroom Standard Suite with Garden Pool,2026-06-27,2026-06-28,1,315.06,315.06,Cancelled,Travel Agent
+1252,One Bedroom Suite,2026-02-03,2026-02-05,2,277.86,555.72,Completed,Direct Website
+1253,One Bedroom Suite,2026-04-23,2026-04-29,6,261.63,1569.78,Completed,OTA - Booking.com
+1254,One Bedroom Suite with Plunge Pool,2026-10-21,2026-10-24,3,414.3,1242.9,Confirmed,OTA - Booking.com
+1255,One Bedroom Standard Suite with Garden Pool,2026-05-03,2026-05-07,4,320.16,1280.64,Cancelled,Direct Website
+1256,One Bedroom Suite,2026-01-09,2026-01-11,2,308.88,617.76,Completed,OTA - Expedia
+1257,One Bedroom Suite,2026-09-02,2026-09-07,5,211.72,1058.6,Completed,OTA - Booking.com
+1258,One Bedroom Suite,2026-10-29,2026-11-02,4,193.8,775.2,Completed,Travel Agent
+1259,One Bedroom Standard Suite with Garden Pool,2026-01-02,2026-01-08,6,458.11,2748.66,Completed,OTA - Expedia
+1260,Two Bedroom Deluxe Suite with Garden Pool,2026-11-20,2026-11-26,6,765.47,4592.82,Completed,OTA - Expedia
+1261,One Bedroom Suite,2026-10-12,2026-10-13,1,192.62,192.62,Completed,Direct Website
+1262,One Bedroom Suite,2026-02-26,2026-03-05,7,270.56,1893.92,Completed,Travel Agent
+1263,One Bedroom Suite,2026-01-17,2026-01-24,7,304.44,2131.08,Completed,OTA - Booking.com
+1264,Two Bedroom Deluxe Suite with Garden Pool,2026-06-15,2026-06-21,6,696.7,4180.2,Cancelled,OTA - Expedia
+1265,One Bedroom Suite,2026-03-23,2026-03-30,7,267.95,1875.65,Completed,Direct Website
+1266,One Bedroom Standard Suite with Garden Pool,2026-04-03,2026-04-09,6,427.51,2565.06,Cancelled,Direct Website
+1267,One Bedroom Standard Suite with Garden Pool,2026-06-29,2026-06-30,1,276.77,276.77,Completed,Direct Website
+1268,One Bedroom Suite,2026-11-02,2026-11-09,7,191.21,1338.47,Completed,OTA - Booking.com
+1269,One Bedroom Standard Suite with Garden Pool,2026-12-07,2026-12-12,5,377.94,1889.7,Completed,Direct Website
+1270,One Bedroom Suite with Plunge Pool,2026-05-08,2026-05-14,6,502.52,3015.12,Completed,OTA - Expedia
+1271,One Bedroom Suite,2026-09-27,2026-10-03,6,235.93,1415.58,Confirmed,OTA - Expedia
+1272,One Bedroom Suite with Plunge Pool,2026-08-13,2026-08-15,2,414.63,829.26,Cancelled,Direct Website
+1273,One Bedroom Standard Suite with Garden Pool,2026-03-01,2026-03-05,4,437.65,1750.6,Completed,OTA - Expedia
+1274,One Bedroom Suite,2026-06-11,2026-06-16,5,219.74,1098.7,Completed,OTA - Booking.com
+1275,Two Bedroom Deluxe Suite with Garden Pool,2026-12-03,2026-12-07,4,990.48,3961.92,Cancelled,Travel Agent
+1276,One Bedroom Suite with Plunge Pool,2026-03-03,2026-03-05,2,617.94,1235.88,Cancelled,OTA - Expedia
+1277,Two Bedroom Deluxe Suite with Garden Pool,2026-02-24,2026-02-27,3,952.21,2856.63,Confirmed,Travel Agent
+1278,One Bedroom Suite with Plunge Pool,2026-02-02,2026-02-03,1,597.93,597.93,Completed,OTA - Expedia
+1279,One Bedroom Suite with Plunge Pool,2026-12-17,2026-12-21,4,579.09,2316.36,Completed,Direct Website
+1280,One Bedroom Suite,2026-01-15,2026-01-17,2,258.54,517.08,Completed,Corporate
+1281,One Bedroom Suite with Plunge Pool,2026-06-13,2026-06-16,3,488.39,1465.17,Confirmed,Direct Website
+1282,One Bedroom Standard Suite with Garden Pool,2026-12-16,2026-12-23,7,366.08,2562.56,Completed,OTA - Booking.com
+1283,One Bedroom Suite,2026-03-04,2026-03-10,6,257.54,1545.24,Confirmed,Travel Agent
+1284,One Bedroom Suite,2026-09-10,2026-09-16,6,207.18,1243.08,Completed,OTA - Booking.com
+1285,One Bedroom Standard Suite with Garden Pool,2026-03-03,2026-03-06,3,370.22,1110.66,Cancelled,OTA - Expedia
+1286,One Bedroom Suite,2026-02-18,2026-02-22,4,281.44,1125.76,Completed,OTA - Expedia
+1287,One Bedroom Suite with Plunge Pool,2026-04-29,2026-05-03,4,597.75,2391.0,Completed,Travel Agent
+1288,One Bedroom Standard Suite with Garden Pool,2026-12-20,2026-12-27,7,434.54,3041.78,Completed,Travel Agent
+1289,One Bedroom Standard Suite with Garden Pool,2026-10-10,2026-10-13,3,300.94,902.82,Confirmed,OTA - Booking.com
+1290,One Bedroom Standard Suite with Garden Pool,2026-12-06,2026-12-13,7,448.05,3136.35,Completed,OTA - Booking.com
+1291,Two Bedroom Deluxe Suite with Garden Pool,2026-12-19,2026-12-23,4,1094.14,4376.56,Completed,Travel Agent
+1292,One Bedroom Suite with Plunge Pool,2026-03-03,2026-03-09,6,576.87,3461.22,Completed,OTA - Booking.com
+1293,One Bedroom Standard Suite with Garden Pool,2026-05-31,2026-06-02,2,327.4,654.8,Completed,OTA - Expedia
+1294,Two Bedroom Deluxe Suite with Garden Pool,2026-03-23,2026-03-30,7,956.88,6698.16,Cancelled,OTA - Booking.com
+1295,Two Bedroom Deluxe Suite with Garden Pool,2026-06-13,2026-06-17,4,801.04,3204.16,Completed,OTA - Booking.com
+1296,One Bedroom Standard Suite with Garden Pool,2026-08-01,2026-08-06,5,329.05,1645.25,Completed,OTA - Booking.com
+1297,One Bedroom Suite,2026-04-13,2026-04-16,3,267.97,803.91,Completed,OTA - Booking.com
+1298,One Bedroom Suite,2026-12-01,2026-12-07,6,271.09,1626.54,Completed,OTA - Expedia
+1299,One Bedroom Suite,2026-01-13,2026-01-20,7,289.89,2029.23,Confirmed,Travel Agent
+1300,One Bedroom Standard Suite with Garden Pool,2026-01-01,2026-01-07,6,357.75,2146.5,Completed,Direct Website
+1301,One Bedroom Suite with Plunge Pool,2026-11-21,2026-11-23,2,497.77,995.54,Completed,Travel Agent
+1302,One Bedroom Suite,2026-03-22,2026-03-24,2,290.38,580.76,Completed,Travel Agent
+1303,One Bedroom Suite with Plunge Pool,2026-04-19,2026-04-21,2,697.17,1394.34,Completed,Corporate
+1304,One Bedroom Suite,2026-03-20,2026-03-21,1,286.02,286.02,Completed,OTA - Booking.com
+1305,One Bedroom Suite with Plunge Pool,2026-02-20,2026-02-27,7,690.5,4833.5,Completed,Travel Agent
+1306,One Bedroom Suite,2026-01-22,2026-01-23,1,257.35,257.35,Confirmed,OTA - Booking.com
+1307,One Bedroom Suite with Plunge Pool,2026-04-12,2026-04-16,4,636.69,2546.76,Completed,Travel Agent
+1308,One Bedroom Suite with Plunge Pool,2026-03-21,2026-03-23,2,683.83,1367.66,Completed,OTA - Booking.com
+1309,One Bedroom Suite,2026-10-03,2026-10-09,6,206.57,1239.42,Completed,OTA - Booking.com
+1310,One Bedroom Suite with Plunge Pool,2026-10-17,2026-10-22,5,459.03,2295.15,Completed,Corporate
+1311,One Bedroom Suite with Plunge Pool,2026-08-23,2026-08-27,4,525.12,2100.48,Completed,OTA - Booking.com
+1312,One Bedroom Suite with Plunge Pool,2026-04-21,2026-04-27,6,595.82,3574.92,Confirmed,Direct Website
+1313,One Bedroom Standard Suite with Garden Pool,2026-02-20,2026-02-27,7,453.52,3174.64,Completed,Corporate
+1314,One Bedroom Suite with Plunge Pool,2026-09-12,2026-09-15,3,515.64,1546.92,Completed,Direct Website
+1315,One Bedroom Suite with Plunge Pool,2026-06-05,2026-06-12,7,492.55,3447.85,Completed,OTA - Expedia
+1316,One Bedroom Suite with Plunge Pool,2026-03-16,2026-03-21,5,606.9,3034.5,Completed,Corporate
+1317,One Bedroom Suite,2026-12-08,2026-12-13,5,264.21,1321.05,Completed,Travel Agent
+1318,One Bedroom Standard Suite with Garden Pool,2026-02-15,2026-02-18,3,445.0,1335.0,Completed,OTA - Expedia
+1319,One Bedroom Standard Suite with Garden Pool,2026-02-07,2026-02-10,3,420.72,1262.16,Completed,Travel Agent
+1320,One Bedroom Suite,2026-09-18,2026-09-19,1,228.78,228.78,Confirmed,OTA - Booking.com
+1321,One Bedroom Standard Suite with Garden Pool,2026-03-16,2026-03-18,2,370.11,740.22,Completed,OTA - Expedia
+1322,One Bedroom Standard Suite with Garden Pool,2026-12-03,2026-12-10,7,356.51,2495.57,Completed,Direct Website
+1323,One Bedroom Suite,2026-04-06,2026-04-07,1,296.63,296.63,Completed,OTA - Booking.com
+1324,One Bedroom Standard Suite with Garden Pool,2026-07-10,2026-07-17,7,292.3,2046.1,Completed,Direct Website
+1325,One Bedroom Standard Suite with Garden Pool,2026-01-14,2026-01-21,7,380.85,2665.95,Completed,OTA - Booking.com
+1326,Two Bedroom Deluxe Suite with Garden Pool,2026-05-10,2026-05-15,5,759.2,3796.0,Confirmed,Direct Website
+1327,One Bedroom Standard Suite with Garden Pool,2026-01-29,2026-02-03,5,380.92,1904.6,Confirmed,Direct Website
+1328,One Bedroom Suite,2026-09-17,2026-09-20,3,213.81,641.43,Confirmed,OTA - Booking.com
+1329,One Bedroom Suite with Plunge Pool,2026-04-13,2026-04-15,2,611.24,1222.48,Completed,Direct Website
+1330,One Bedroom Suite,2026-06-30,2026-07-01,1,187.69,187.69,Confirmed,Direct Website
+1331,Two Bedroom Deluxe Suite with Garden Pool,2026-11-11,2026-11-12,1,743.35,743.35,Completed,Travel Agent
+1332,One Bedroom Suite,2026-11-30,2026-12-07,7,197.54,1382.78,Completed,Direct Website
+1333,One Bedroom Standard Suite with Garden Pool,2026-09-26,2026-09-28,2,340.15,680.3,Completed,Direct Website
+1334,One Bedroom Suite,2026-06-20,2026-06-26,6,238.4,1430.4,Cancelled,Corporate
+1335,One Bedroom Standard Suite with Garden Pool,2026-04-30,2026-05-01,1,391.84,391.84,Confirmed,Corporate
+1336,One Bedroom Standard Suite with Garden Pool,2026-10-09,2026-10-14,5,326.15,1630.75,Confirmed,Corporate
+1337,One Bedroom Suite with Plunge Pool,2026-07-25,2026-07-28,3,469.54,1408.62,Confirmed,Direct Website
+1338,Two Bedroom Deluxe Suite with Garden Pool,2026-09-27,2026-10-02,5,819.53,4097.65,Completed,OTA - Booking.com
+1339,One Bedroom Suite with Plunge Pool,2026-07-31,2026-08-06,6,451.68,2710.08,Completed,OTA - Expedia
+1340,One Bedroom Suite with Plunge Pool,2026-02-16,2026-02-18,2,640.99,1281.98,Cancelled,OTA - Expedia
+1341,One Bedroom Standard Suite with Garden Pool,2026-04-27,2026-05-02,5,369.98,1849.9,Completed,Corporate
+1342,One Bedroom Standard Suite with Garden Pool,2026-09-25,2026-09-27,2,340.7,681.4,Completed,Travel Agent
+1343,One Bedroom Suite with Plunge Pool,2026-06-14,2026-06-18,4,526.14,2104.56,Cancelled,OTA - Booking.com
+1344,One Bedroom Suite with Plunge Pool,2026-12-15,2026-12-19,4,563.15,2252.6,Completed,OTA - Expedia
+1345,One Bedroom Suite with Plunge Pool,2026-10-12,2026-10-13,1,458.17,458.17,Completed,OTA - Expedia
+1346,One Bedroom Standard Suite with Garden Pool,2026-01-22,2026-01-26,4,368.44,1473.76,Completed,Corporate
+1347,One Bedroom Suite,2026-05-17,2026-05-20,3,217.9,653.7,Cancelled,Direct Website
+1348,One Bedroom Suite,2026-06-08,2026-06-11,3,190.37,571.11,Completed,Travel Agent
+1349,Two Bedroom Deluxe Suite with Garden Pool,2026-01-26,2026-02-02,7,934.96,6544.72,Completed,Direct Website
+1350,One Bedroom Suite,2026-10-22,2026-10-23,1,196.43,196.43,Completed,Corporate
+1351,One Bedroom Suite,2026-04-08,2026-04-11,3,280.64,841.92,Completed,OTA - Booking.com
+1352,Two Bedroom Deluxe Suite with Garden Pool,2026-01-03,2026-01-04,1,1094.6,1094.6,Completed,OTA - Expedia
+1353,One Bedroom Suite,2026-01-13,2026-01-20,7,255.65,1789.55,Completed,Direct Website
+1354,Two Bedroom Deluxe Suite with Garden Pool,2026-09-10,2026-09-17,7,741.26,5188.82,Completed,Direct Website
+1355,One Bedroom Suite,2026-10-03,2026-10-04,1,229.71,229.71,Cancelled,OTA - Expedia
+1356,One Bedroom Suite with Plunge Pool,2026-11-02,2026-11-04,2,413.67,827.34,Confirmed,OTA - Booking.com
+1357,One Bedroom Standard Suite with Garden Pool,2026-06-24,2026-06-29,5,294.8,1474.0,Confirmed,OTA - Booking.com
+1358,One Bedroom Suite,2026-02-01,2026-02-05,4,292.72,1170.88,Confirmed,Direct Website
+1359,One Bedroom Suite,2026-12-17,2026-12-20,3,287.16,861.48,Completed,Corporate
+1360,One Bedroom Suite with Plunge Pool,2026-06-14,2026-06-20,6,515.63,3093.78,Completed,Corporate
+1361,One Bedroom Standard Suite with Garden Pool,2026-05-21,2026-05-27,6,288.08,1728.48,Completed,Direct Website
+1362,One Bedroom Suite,2026-11-20,2026-11-26,6,209.08,1254.48,Cancelled,OTA - Booking.com
+1363,One Bedroom Suite,2026-01-10,2026-01-12,2,305.14,610.28,Completed,Direct Website
+1364,One Bedroom Standard Suite with Garden Pool,2026-01-02,2026-01-06,4,394.62,1578.48,Cancelled,Travel Agent
+1365,One Bedroom Suite,2026-12-02,2026-12-07,5,275.36,1376.8,Completed,Travel Agent
+1366,One Bedroom Standard Suite with Garden Pool,2026-03-15,2026-03-21,6,445.92,2675.52,Completed,Direct Website
+1367,One Bedroom Suite,2026-05-18,2026-05-25,7,219.51,1536.57,Confirmed,OTA - Expedia
+1368,One Bedroom Suite,2026-04-24,2026-05-01,7,308.95,2162.65,Completed,OTA - Expedia
+1369,One Bedroom Suite,2026-06-25,2026-07-01,6,211.29,1267.74,Completed,OTA - Expedia
+1370,One Bedroom Standard Suite with Garden Pool,2026-07-15,2026-07-18,3,298.48,895.44,Completed,OTA - Expedia
+1371,One Bedroom Standard Suite with Garden Pool,2026-06-25,2026-06-30,5,267.88,1339.4,Completed,Corporate
+1372,One Bedroom Suite,2026-11-22,2026-11-23,1,216.26,216.26,Completed,Travel Agent
+1373,One Bedroom Suite,2026-02-05,2026-02-07,2,283.27,566.54,Cancelled,Direct Website
+1374,One Bedroom Suite,2026-03-11,2026-03-14,3,293.41,880.23,Completed,OTA - Booking.com
+1375,One Bedroom Suite,2026-05-22,2026-05-23,1,220.85,220.85,Confirmed,OTA - Booking.com
+1376,One Bedroom Suite,2026-07-17,2026-07-24,7,206.46,1445.22,Completed,OTA - Expedia
+1377,One Bedroom Standard Suite with Garden Pool,2026-03-26,2026-03-30,4,392.93,1571.72,Confirmed,Corporate
+1378,One Bedroom Suite,2026-08-25,2026-08-31,6,197.93,1187.58,Completed,OTA - Booking.com
+1379,One Bedroom Standard Suite with Garden Pool,2026-07-10,2026-07-12,2,340.11,680.22,Completed,Direct Website
+1380,One Bedroom Suite,2026-08-16,2026-08-21,5,230.18,1150.9,Cancelled,Direct Website
+1381,One Bedroom Suite,2026-02-27,2026-03-03,4,293.3,1173.2,Completed,OTA - Booking.com
+1382,One Bedroom Standard Suite with Garden Pool,2026-12-16,2026-12-17,1,382.57,382.57,Completed,Direct Website
+1383,One Bedroom Standard Suite with Garden Pool,2026-01-11,2026-01-14,3,401.71,1205.13,Completed,Corporate
+1384,One Bedroom Suite with Plunge Pool,2026-02-04,2026-02-10,6,611.38,3668.28,Completed,OTA - Expedia
+1385,One Bedroom Suite,2026-02-17,2026-02-23,6,280.3,1681.8,Completed,OTA - Booking.com
+1386,One Bedroom Suite with Plunge Pool,2026-07-21,2026-07-23,2,422.33,844.66,Confirmed,OTA - Expedia
+1387,One Bedroom Standard Suite with Garden Pool,2026-03-19,2026-03-26,7,385.59,2699.13,Confirmed,OTA - Booking.com
+1388,One Bedroom Standard Suite with Garden Pool,2026-07-04,2026-07-10,6,332.31,1993.86,Completed,Corporate
+1389,One Bedroom Suite,2026-06-08,2026-06-09,1,192.13,192.13,Completed,OTA - Booking.com
+1390,One Bedroom Suite,2026-12-28,2026-12-31,3,287.8,863.4,Completed,Travel Agent
+1391,One Bedroom Suite,2026-02-16,2026-02-18,2,289.58,579.16,Confirmed,OTA - Booking.com
+1392,One Bedroom Standard Suite with Garden Pool,2026-08-06,2026-08-10,4,289.99,1159.96,Completed,Travel Agent
+1393,One Bedroom Standard Suite with Garden Pool,2026-10-27,2026-10-31,4,295.16,1180.64,Confirmed,Direct Website
+1394,One Bedroom Suite with Plunge Pool,2026-02-24,2026-02-28,4,643.3,2573.2,Confirmed,Travel Agent
+1395,One Bedroom Standard Suite with Garden Pool,2026-07-27,2026-08-03,7,284.36,1990.52,Completed,Direct Website
+1396,One Bedroom Standard Suite with Garden Pool,2026-03-21,2026-03-27,6,451.16,2706.96,Completed,OTA - Booking.com
+1397,Two Bedroom Deluxe Suite with Garden Pool,2026-09-08,2026-09-12,4,747.81,2991.24,Completed,Corporate
+1398,Two Bedroom Deluxe Suite with Garden Pool,2026-04-01,2026-04-03,2,978.19,1956.38,Completed,OTA - Expedia
+1399,One Bedroom Suite with Plunge Pool,2026-07-09,2026-07-16,7,443.54,3104.78,Completed,Corporate
+1400,One Bedroom Suite,2026-01-03,2026-01-06,3,321.65,964.95,Completed,OTA - Expedia
+1401,One Bedroom Suite with Plunge Pool,2026-12-06,2026-12-10,4,658.68,2634.72,Completed,OTA - Booking.com
+1402,Two Bedroom Deluxe Suite with Garden Pool,2026-05-06,2026-05-10,4,669.98,2679.92,Cancelled,Direct Website
+1403,One Bedroom Suite,2026-12-08,2026-12-09,1,261.04,261.04,Completed,Travel Agent
+1404,One Bedroom Suite with Plunge Pool,2026-07-15,2026-07-22,7,423.76,2966.32,Completed,Travel Agent
+1405,One Bedroom Standard Suite with Garden Pool,2026-08-17,2026-08-23,6,272.11,1632.66,Completed,OTA - Booking.com
+1406,One Bedroom Standard Suite with Garden Pool,2026-04-05,2026-04-06,1,429.1,429.1,Completed,Direct Website
+1407,One Bedroom Suite with Plunge Pool,2026-07-04,2026-07-06,2,508.16,1016.32,Completed,Direct Website
+1408,One Bedroom Suite with Plunge Pool,2026-10-10,2026-10-14,4,503.09,2012.36,Completed,Corporate
+1409,One Bedroom Suite,2026-08-03,2026-08-07,4,198.63,794.52,Completed,OTA - Booking.com
+1410,Two Bedroom Deluxe Suite with Garden Pool,2026-03-09,2026-03-13,4,989.16,3956.64,Completed,Direct Website
+1411,One Bedroom Suite,2026-02-24,2026-02-27,3,264.78,794.34,Completed,Corporate
+1412,One Bedroom Suite,2026-06-12,2026-06-18,6,225.12,1350.72,Completed,OTA - Booking.com
+1413,One Bedroom Standard Suite with Garden Pool,2026-02-23,2026-02-25,2,408.94,817.88,Completed,OTA - Booking.com
+1414,One Bedroom Suite,2026-03-21,2026-03-27,6,283.06,1698.36,Completed,OTA - Expedia
+1415,Two Bedroom Deluxe Suite with Garden Pool,2026-06-30,2026-07-01,1,739.83,739.83,Confirmed,OTA - Expedia
+1416,One Bedroom Standard Suite with Garden Pool,2026-09-19,2026-09-23,4,340.52,1362.08,Cancelled,Travel Agent
+1417,Two Bedroom Deluxe Suite with Garden Pool,2026-10-16,2026-10-19,3,743.89,2231.67,Completed,OTA - Booking.com
+1418,One Bedroom Suite,2026-07-01,2026-07-07,6,193.2,1159.2,Completed,Direct Website
+1419,One Bedroom Standard Suite with Garden Pool,2026-04-07,2026-04-09,2,396.58,793.16,Completed,Direct Website
+1420,One Bedroom Suite,2026-06-05,2026-06-12,7,237.43,1662.01,Confirmed,OTA - Booking.com
+1421,One Bedroom Standard Suite with Garden Pool,2026-04-14,2026-04-20,6,385.03,2310.18,Cancelled,Direct Website
+1422,One Bedroom Standard Suite with Garden Pool,2026-04-11,2026-04-18,7,449.78,3148.46,Completed,OTA - Booking.com
+1423,One Bedroom Suite,2026-12-20,2026-12-26,6,303.18,1819.08,Confirmed,OTA - Expedia
+1424,One Bedroom Suite with Plunge Pool,2026-05-15,2026-05-18,3,496.14,1488.42,Completed,Corporate
+1425,One Bedroom Suite with Plunge Pool,2026-09-10,2026-09-11,1,476.27,476.27,Confirmed,Direct Website
+1426,One Bedroom Standard Suite with Garden Pool,2026-12-18,2026-12-22,4,443.41,1773.64,Completed,Corporate
+1427,Two Bedroom Deluxe Suite with Garden Pool,2026-12-28,2026-12-29,1,985.28,985.28,Completed,OTA - Booking.com
+1428,One Bedroom Standard Suite with Garden Pool,2026-10-26,2026-10-28,2,301.27,602.54,Completed,Direct Website
+1429,One Bedroom Suite with Plunge Pool,2026-10-12,2026-10-13,1,461.27,461.27,Completed,Corporate
+1430,One Bedroom Suite,2026-06-20,2026-06-26,6,228.79,1372.74,Completed,Direct Website
+1431,One Bedroom Suite,2026-03-31,2026-04-05,5,266.89,1334.45,Completed,OTA - Booking.com
+1432,One Bedroom Suite with Plunge Pool,2026-05-10,2026-05-17,7,453.29,3173.03,Completed,OTA - Booking.com
+1433,One Bedroom Suite,2026-08-26,2026-08-27,1,211.26,211.26,Confirmed,OTA - Booking.com
+1434,One Bedroom Suite,2026-02-13,2026-02-15,2,309.76,619.52,Confirmed,OTA - Booking.com
+1435,Two Bedroom Deluxe Suite with Garden Pool,2026-03-17,2026-03-22,5,970.57,4852.85,Cancelled,Travel Agent
+1436,One Bedroom Standard Suite with Garden Pool,2026-03-09,2026-03-13,4,359.63,1438.52,Completed,Direct Website
+1437,One Bedroom Standard Suite with Garden Pool,2026-03-28,2026-03-31,3,406.44,1219.32,Completed,Direct Website
+1438,One Bedroom Standard Suite with Garden Pool,2026-05-29,2026-05-31,2,311.37,622.74,Cancelled,Direct Website
+1439,One Bedroom Suite,2026-05-25,2026-05-29,4,205.33,821.32,Completed,OTA - Booking.com
+1440,Two Bedroom Deluxe Suite with Garden Pool,2026-12-19,2026-12-23,4,1074.43,4297.72,Completed,Direct Website
+1441,One Bedroom Suite,2026-10-06,2026-10-09,3,214.98,644.94,Completed,Corporate
+1442,Two Bedroom Deluxe Suite with Garden Pool,2026-11-07,2026-11-10,3,811.62,2434.86,Completed,Direct Website
+1443,One Bedroom Suite with Plunge Pool,2026-12-18,2026-12-19,1,675.56,675.56,Confirmed,Travel Agent
+1444,Two Bedroom Deluxe Suite with Garden Pool,2026-12-08,2026-12-15,7,876.67,6136.69,Completed,OTA - Expedia
+1445,One Bedroom Standard Suite with Garden Pool,2026-09-15,2026-09-16,1,277.63,277.63,Cancelled,OTA - Expedia
+1446,One Bedroom Standard Suite with Garden Pool,2026-06-02,2026-06-08,6,288.83,1732.98,Confirmed,Corporate
+1447,One Bedroom Suite,2026-07-24,2026-07-30,6,208.51,1251.06,Completed,Direct Website
+1448,One Bedroom Suite with Plunge Pool,2026-11-08,2026-11-13,5,520.21,2601.05,Completed,Direct Website
+1449,One Bedroom Suite with Plunge Pool,2026-04-11,2026-04-18,7,686.77,4807.39,Confirmed,Direct Website
+1450,Two Bedroom Deluxe Suite with Garden Pool,2026-12-08,2026-12-14,6,970.37,5822.22,Confirmed,Direct Website
+1451,One Bedroom Suite with Plunge Pool,2026-10-02,2026-10-08,6,500.45,3002.7,Completed,OTA - Booking.com
+1452,One Bedroom Suite,2026-02-09,2026-02-11,2,281.89,563.78,Cancelled,OTA - Booking.com
+1453,One Bedroom Standard Suite with Garden Pool,2026-06-20,2026-06-22,2,312.18,624.36,Confirmed,Direct Website
+1454,One Bedroom Standard Suite with Garden Pool,2026-04-11,2026-04-13,2,444.15,888.3,Completed,OTA - Booking.com
+1455,One Bedroom Suite with Plunge Pool,2026-11-14,2026-11-21,7,517.58,3623.06,Completed,Travel Agent
+1456,One Bedroom Standard Suite with Garden Pool,2026-01-28,2026-02-02,5,386.14,1930.7,Completed,OTA - Booking.com
+1457,One Bedroom Suite,2026-02-24,2026-03-01,5,290.05,1450.25,Completed,Direct Website
+1458,One Bedroom Standard Suite with Garden Pool,2026-01-27,2026-01-31,4,361.54,1446.16,Confirmed,OTA - Expedia
+1459,One Bedroom Suite,2026-06-27,2026-07-04,7,224.72,1573.04,Completed,OTA - Booking.com
+1460,One Bedroom Suite with Plunge Pool,2026-01-23,2026-01-28,5,621.39,3106.95,Completed,Direct Website
+1461,Two Bedroom Deluxe Suite with Garden Pool,2026-01-28,2026-02-02,5,870.81,4354.05,Cancelled,OTA - Booking.com
+1462,One Bedroom Suite,2026-02-07,2026-02-10,3,298.52,895.56,Completed,OTA - Booking.com
+1463,One Bedroom Suite,2026-08-25,2026-08-28,3,192.76,578.28,Completed,OTA - Expedia
+1464,Two Bedroom Deluxe Suite with Garden Pool,2026-01-13,2026-01-16,3,966.17,2898.51,Completed,OTA - Booking.com
+1465,One Bedroom Suite with Plunge Pool,2026-02-19,2026-02-26,7,609.43,4266.01,Completed,OTA - Expedia
+1466,One Bedroom Suite with Plunge Pool,2026-08-01,2026-08-08,7,509.36,3565.52,Confirmed,OTA - Booking.com
+1467,One Bedroom Suite with Plunge Pool,2026-01-26,2026-01-28,2,622.43,1244.86,Completed,Travel Agent
+1468,One Bedroom Suite with Plunge Pool,2026-06-10,2026-06-17,7,449.93,3149.51,Cancelled,Travel Agent
+1469,One Bedroom Suite,2026-05-15,2026-05-19,4,210.46,841.84,Completed,OTA - Booking.com
+1470,One Bedroom Suite with Plunge Pool,2026-03-29,2026-03-31,2,637.91,1275.82,Completed,OTA - Booking.com
+1471,One Bedroom Standard Suite with Garden Pool,2026-07-22,2026-07-28,6,288.88,1733.28,Confirmed,Direct Website
+1472,One Bedroom Suite,2026-01-11,2026-01-18,7,286.04,2002.28,Confirmed,Direct Website
+1473,One Bedroom Standard Suite with Garden Pool,2026-02-11,2026-02-16,5,416.38,2081.9,Completed,Corporate
+1474,One Bedroom Suite with Plunge Pool,2026-05-23,2026-05-28,5,491.4,2457.0,Completed,Direct Website
+1475,One Bedroom Standard Suite with Garden Pool,2026-02-25,2026-03-02,5,357.12,1785.6,Completed,OTA - Expedia
+1476,Two Bedroom Deluxe Suite with Garden Pool,2026-08-16,2026-08-22,6,803.63,4821.78,Completed,Corporate
+1477,One Bedroom Suite with Plunge Pool,2026-04-27,2026-05-01,4,572.72,2290.88,Cancelled,Direct Website
+1478,One Bedroom Standard Suite with Garden Pool,2026-04-20,2026-04-27,7,404.48,2831.36,Completed,Direct Website
+1479,One Bedroom Standard Suite with Garden Pool,2026-04-03,2026-04-06,3,436.39,1309.17,Completed,OTA - Expedia
+1480,One Bedroom Suite with Plunge Pool,2026-05-15,2026-05-20,5,463.29,2316.45,Completed,Corporate
+1481,One Bedroom Suite,2026-07-18,2026-07-19,1,218.93,218.93,Completed,Travel Agent
+1482,One Bedroom Suite,2026-04-30,2026-05-01,1,288.51,288.51,Cancelled,Direct Website
+1483,One Bedroom Suite with Plunge Pool,2026-04-14,2026-04-20,6,582.63,3495.78,Completed,Direct Website
+1484,Two Bedroom Deluxe Suite with Garden Pool,2026-11-03,2026-11-06,3,681.31,2043.93,Completed,OTA - Expedia
+1485,One Bedroom Suite,2026-12-20,2026-12-26,6,322.19,1933.14,Completed,Travel Agent
+1486,One Bedroom Suite,2026-11-24,2026-11-28,4,209.88,839.52,Completed,Direct Website
+1487,One Bedroom Suite,2026-07-24,2026-07-28,4,220.72,882.88,Completed,Travel Agent
+1488,One Bedroom Suite,2026-08-13,2026-08-17,4,215.33,861.32,Cancelled,Direct Website
+1489,One Bedroom Standard Suite with Garden Pool,2026-06-08,2026-06-15,7,303.88,2127.16,Completed,OTA - Booking.com
+1490,One Bedroom Suite,2026-10-18,2026-10-19,1,207.14,207.14,Completed,Direct Website
+1491,Two Bedroom Deluxe Suite with Garden Pool,2026-09-23,2026-09-27,4,732.8,2931.2,Completed,OTA - Booking.com
+1492,One Bedroom Suite with Plunge Pool,2026-02-11,2026-02-12,1,645.41,645.41,Completed,Direct Website
+1493,One Bedroom Suite,2026-07-06,2026-07-09,3,190.34,571.02,Completed,OTA - Expedia
+1494,One Bedroom Standard Suite with Garden Pool,2026-02-20,2026-02-24,4,410.36,1641.44,Completed,Direct Website
+1495,One Bedroom Suite,2026-07-20,2026-07-21,1,188.34,188.34,Completed,OTA - Expedia
+1496,One Bedroom Suite,2026-08-02,2026-08-05,3,215.22,645.66,Completed,OTA - Booking.com
+1497,One Bedroom Standard Suite with Garden Pool,2026-07-20,2026-07-22,2,306.5,613.0,Confirmed,Corporate
+1498,One Bedroom Suite,2026-08-27,2026-09-01,5,215.61,1078.05,Completed,OTA - Expedia
+1499,One Bedroom Suite,2026-10-05,2026-10-12,7,199.09,1393.63,Cancelled,OTA - Booking.com
+1500,One Bedroom Suite with Plunge Pool,2026-04-25,2026-05-02,7,630.71,4414.97,Completed,Direct Website
+1501,One Bedroom Suite,2026-11-27,2026-12-03,6,207.34,1244.04,Completed,Direct Website
+1502,One Bedroom Suite with Plunge Pool,2026-07-08,2026-07-15,7,473.49,3314.43,Completed,Travel Agent
+1503,One Bedroom Suite,2026-06-18,2026-06-22,4,209.15,836.6,Completed,OTA - Booking.com
+1504,One Bedroom Suite,2026-04-16,2026-04-23,7,268.25,1877.75,Completed,OTA - Booking.com
+1505,One Bedroom Suite,2026-08-31,2026-09-03,3,201.27,603.81,Completed,Direct Website
+1506,One Bedroom Suite with Plunge Pool,2026-07-26,2026-07-27,1,458.91,458.91,Completed,OTA - Booking.com
+1507,One Bedroom Suite,2026-01-01,2026-01-05,4,292.41,1169.64,Completed,OTA - Booking.com
+1508,One Bedroom Standard Suite with Garden Pool,2026-10-21,2026-10-27,6,293.53,1761.18,Completed,Corporate
+1509,One Bedroom Suite,2026-06-01,2026-06-05,4,196.56,786.24,Completed,Direct Website
+1510,One Bedroom Suite with Plunge Pool,2026-05-21,2026-05-25,4,466.6,1866.4,Confirmed,Direct Website
+1511,One Bedroom Standard Suite with Garden Pool,2026-08-26,2026-08-31,5,287.53,1437.65,Completed,Direct Website
+1512,One Bedroom Suite,2026-06-17,2026-06-21,4,206.72,826.88,Cancelled,Direct Website
+1513,One Bedroom Standard Suite with Garden Pool,2026-01-16,2026-01-17,1,404.16,404.16,Completed,OTA - Booking.com
+1514,One Bedroom Suite with Plunge Pool,2026-08-25,2026-08-30,5,438.86,2194.3,Completed,Travel Agent
+1515,Two Bedroom Deluxe Suite with Garden Pool,2026-06-19,2026-06-21,2,807.63,1615.26,Completed,Direct Website
+1516,One Bedroom Suite,2026-04-27,2026-05-01,4,289.34,1157.36,Confirmed,Direct Website
+1517,One Bedroom Suite,2026-03-19,2026-03-25,6,292.42,1754.52,Completed,Travel Agent
+1518,One Bedroom Suite,2026-03-05,2026-03-12,7,278.98,1952.86,Completed,OTA - Booking.com
+1519,One Bedroom Suite,2026-12-22,2026-12-28,6,286.49,1718.94,Completed,Direct Website
+1520,One Bedroom Suite with Plunge Pool,2026-10-08,2026-10-09,1,466.91,466.91,Completed,Travel Agent
+1521,One Bedroom Standard Suite with Garden Pool,2026-05-29,2026-06-02,4,325.84,1303.36,Completed,OTA - Expedia
+1522,Two Bedroom Deluxe Suite with Garden Pool,2026-01-23,2026-01-25,2,1078.15,2156.3,Cancelled,OTA - Expedia
+1523,One Bedroom Suite,2026-10-07,2026-10-09,2,208.36,416.72,Completed,Travel Agent
+1524,Two Bedroom Deluxe Suite with Garden Pool,2026-04-19,2026-04-21,2,995.59,1991.18,Confirmed,Direct Website
+1525,One Bedroom Suite with Plunge Pool,2026-05-21,2026-05-24,3,441.81,1325.43,Completed,Travel Agent
+1526,One Bedroom Suite,2026-08-14,2026-08-19,5,235.09,1175.45,Completed,Direct Website
+1527,Two Bedroom Deluxe Suite with Garden Pool,2026-10-04,2026-10-05,1,815.84,815.84,Completed,OTA - Booking.com
+1528,Two Bedroom Deluxe Suite with Garden Pool,2026-10-03,2026-10-09,6,823.29,4939.74,Completed,Direct Website
+1529,One Bedroom Suite,2026-09-16,2026-09-20,4,212.09,848.36,Completed,Corporate
+1530,Two Bedroom Deluxe Suite with Garden Pool,2026-02-24,2026-02-27,3,940.8,2822.4,Completed,OTA - Expedia
+1531,One Bedroom Suite,2026-07-03,2026-07-10,7,231.85,1622.95,Completed,OTA - Expedia
+1532,One Bedroom Suite,2026-08-26,2026-08-30,4,193.57,774.28,Completed,OTA - Booking.com
+1533,One Bedroom Suite with Plunge Pool,2026-09-18,2026-09-21,3,516.84,1550.52,Completed,OTA - Booking.com
+1534,One Bedroom Standard Suite with Garden Pool,2026-04-22,2026-04-26,4,395.38,1581.52,Completed,Direct Website
+1535,One Bedroom Standard Suite with Garden Pool,2026-07-02,2026-07-06,4,307.54,1230.16,Completed,OTA - Booking.com
+1536,Two Bedroom Deluxe Suite with Garden Pool,2026-10-18,2026-10-23,5,714.01,3570.05,Completed,Corporate
+1537,One Bedroom Suite,2026-04-30,2026-05-03,3,281.89,845.67,Confirmed,Direct Website
+1538,One Bedroom Standard Suite with Garden Pool,2026-01-17,2026-01-18,1,449.45,449.45,Completed,Direct Website
+1539,One Bedroom Suite,2026-06-01,2026-06-04,3,209.72,629.16,Completed,OTA - Booking.com
+1540,One Bedroom Suite with Plunge Pool,2026-03-13,2026-03-14,1,709.83,709.83,Completed,Corporate
+1541,One Bedroom Suite with Plunge Pool,2026-04-20,2026-04-22,2,622.3,1244.6,Completed,OTA - Booking.com
+1542,One Bedroom Suite with Plunge Pool,2026-10-12,2026-10-14,2,459.47,918.94,Confirmed,OTA - Booking.com
+1543,One Bedroom Suite,2026-04-28,2026-05-03,5,268.16,1340.8,Completed,Direct Website
+1544,One Bedroom Standard Suite with Garden Pool,2026-03-15,2026-03-18,3,408.33,1224.99,Confirmed,Direct Website
+1545,One Bedroom Standard Suite with Garden Pool,2026-07-28,2026-08-01,4,275.53,1102.12,Completed,Direct Website
+1546,One Bedroom Suite,2026-06-15,2026-06-18,3,218.82,656.46,Completed,OTA - Booking.com
+1547,One Bedroom Suite,2026-02-06,2026-02-10,4,317.17,1268.68,Confirmed,Direct Website
+1548,One Bedroom Standard Suite with Garden Pool,2026-04-29,2026-05-01,2,359.75,719.5,Completed,OTA - Expedia
+1549,One Bedroom Suite,2026-10-02,2026-10-06,4,207.68,830.72,Completed,Direct Website
+1550,One Bedroom Suite with Plunge Pool,2026-03-29,2026-04-05,7,664.72,4653.04,Cancelled,Direct Website
+1551,One Bedroom Standard Suite with Garden Pool,2026-06-13,2026-06-16,3,291.35,874.05,Completed,Travel Agent
+1552,One Bedroom Standard Suite with Garden Pool,2026-03-03,2026-03-10,7,382.41,2676.87,Completed,Direct Website
+1553,One Bedroom Suite,2026-10-14,2026-10-16,2,188.02,376.04,Cancelled,OTA - Expedia
+1554,One Bedroom Suite with Plunge Pool,2026-08-04,2026-08-07,3,414.76,1244.28,Completed,Travel Agent
+1555,One Bedroom Suite,2026-01-31,2026-02-07,7,309.03,2163.21,Completed,Travel Agent
+1556,One Bedroom Standard Suite with Garden Pool,2026-09-21,2026-09-26,5,268.34,1341.7,Completed,Travel Agent
+1557,One Bedroom Suite,2026-01-29,2026-02-05,7,273.67,1915.69,Completed,Travel Agent
+1558,One Bedroom Standard Suite with Garden Pool,2026-12-27,2026-12-30,3,439.35,1318.05,Completed,OTA - Expedia
+1559,One Bedroom Suite with Plunge Pool,2026-02-09,2026-02-12,3,610.55,1831.65,Completed,Corporate
+1560,Two Bedroom Deluxe Suite with Garden Pool,2026-01-21,2026-01-24,3,964.64,2893.92,Completed,OTA - Expedia
+1561,Two Bedroom Deluxe Suite with Garden Pool,2026-07-14,2026-07-16,2,718.19,1436.38,Completed,Corporate
+1562,One Bedroom Suite,2026-06-15,2026-06-22,7,200.52,1403.64,Completed,OTA - Booking.com
+1563,One Bedroom Standard Suite with Garden Pool,2026-07-21,2026-07-26,5,277.67,1388.35,Confirmed,OTA - Expedia
+1564,One Bedroom Suite,2026-08-03,2026-08-08,5,219.11,1095.55,Completed,OTA - Expedia
+1565,One Bedroom Standard Suite with Garden Pool,2026-11-13,2026-11-20,7,331.26,2318.82,Completed,OTA - Booking.com
+1566,One Bedroom Standard Suite with Garden Pool,2026-12-16,2026-12-23,7,367.86,2575.02,Completed,OTA - Booking.com
+1567,One Bedroom Standard Suite with Garden Pool,2026-04-25,2026-04-29,4,396.0,1584.0,Completed,OTA - Expedia
+1568,One Bedroom Suite with Plunge Pool,2026-01-24,2026-01-27,3,663.94,1991.82,Completed,OTA - Booking.com
+1569,One Bedroom Suite with Plunge Pool,2026-10-18,2026-10-22,4,469.04,1876.16,Completed,Direct Website
+1570,One Bedroom Suite with Plunge Pool,2026-12-21,2026-12-22,1,587.05,587.05,Completed,OTA - Expedia
+1571,One Bedroom Suite with Plunge Pool,2026-02-27,2026-02-28,1,642.68,642.68,Completed,OTA - Booking.com
+1572,One Bedroom Suite with Plunge Pool,2026-11-21,2026-11-28,7,454.25,3179.75,Confirmed,OTA - Booking.com
+1573,Two Bedroom Deluxe Suite with Garden Pool,2026-01-04,2026-01-05,1,1099.06,1099.06,Completed,OTA - Booking.com
+1574,One Bedroom Standard Suite with Garden Pool,2026-07-11,2026-07-16,5,336.07,1680.35,Completed,Travel Agent
+1575,Two Bedroom Deluxe Suite with Garden Pool,2026-04-20,2026-04-24,4,931.5,3726.0,Confirmed,OTA - Booking.com
+1576,Two Bedroom Deluxe Suite with Garden Pool,2026-06-24,2026-06-26,2,679.27,1358.54,Completed,Direct Website
+1577,One Bedroom Suite,2026-02-07,2026-02-12,5,299.27,1496.35,Completed,OTA - Booking.com
+1578,One Bedroom Standard Suite with Garden Pool,2026-08-19,2026-08-20,1,276.53,276.53,Cancelled,OTA - Booking.com
+1579,One Bedroom Standard Suite with Garden Pool,2026-05-30,2026-06-05,6,305.04,1830.24,Confirmed,OTA - Booking.com
+1580,One Bedroom Suite,2026-12-27,2026-12-29,2,324.48,648.96,Completed,Corporate
+1581,Two Bedroom Deluxe Suite with Garden Pool,2026-07-08,2026-07-15,7,638.56,4469.92,Completed,Direct Website
+1582,One Bedroom Standard Suite with Garden Pool,2026-01-14,2026-01-16,2,385.6,771.2,Completed,OTA - Booking.com
+1583,One Bedroom Suite,2026-08-23,2026-08-30,7,207.21,1450.47,Cancelled,OTA - Booking.com
+1584,One Bedroom Suite,2026-04-24,2026-04-28,4,314.94,1259.76,Completed,OTA - Expedia
+1585,One Bedroom Standard Suite with Garden Pool,2026-12-25,2026-12-26,1,444.87,444.87,Completed,Corporate
+1586,One Bedroom Suite,2026-10-01,2026-10-03,2,219.09,438.18,Completed,OTA - Booking.com
+1587,One Bedroom Suite with Plunge Pool,2026-07-04,2026-07-10,6,463.92,2783.52,Completed,OTA - Booking.com
+1588,One Bedroom Standard Suite with Garden Pool,2026-03-29,2026-04-01,3,411.39,1234.17,Completed,OTA - Booking.com
+1589,One Bedroom Standard Suite with Garden Pool,2026-09-13,2026-09-18,5,318.68,1593.4,Completed,OTA - Booking.com
+1590,One Bedroom Suite with Plunge Pool,2026-11-30,2026-12-03,3,414.89,1244.67,Confirmed,Direct Website
+1591,One Bedroom Suite,2026-01-17,2026-01-18,1,304.7,304.7,Completed,Corporate
+1592,One Bedroom Suite,2026-09-15,2026-09-20,5,187.74,938.7,Cancelled,OTA - Booking.com
+1593,One Bedroom Standard Suite with Garden Pool,2026-10-08,2026-10-10,2,298.22,596.44,Completed,Direct Website
+1594,One Bedroom Suite with Plunge Pool,2026-05-08,2026-05-11,3,508.27,1524.81,Completed,OTA - Booking.com
+1595,One Bedroom Standard Suite with Garden Pool,2026-11-15,2026-11-17,2,294.93,589.86,Completed,Travel Agent
+1596,One Bedroom Standard Suite with Garden Pool,2026-07-24,2026-07-26,2,292.73,585.46,Completed,OTA - Expedia
+1597,One Bedroom Suite,2026-09-15,2026-09-20,5,187.08,935.4,Completed,OTA - Booking.com
+1598,One Bedroom Standard Suite with Garden Pool,2026-12-14,2026-12-18,4,383.41,1533.64,Completed,OTA - Expedia
+1599,One Bedroom Standard Suite with Garden Pool,2026-10-10,2026-10-15,5,314.37,1571.85,Completed,Corporate
+1600,Two Bedroom Deluxe Suite with Garden Pool,2026-07-03,2026-07-10,7,802.05,5614.35,Completed,OTA - Booking.com
+1601,One Bedroom Suite,2026-08-01,2026-08-03,2,221.39,442.78,Completed,OTA - Booking.com
+1602,One Bedroom Standard Suite with Garden Pool,2026-02-22,2026-02-28,6,445.9,2675.4,Confirmed,Travel Agent
+1603,One Bedroom Suite,2026-03-29,2026-04-02,4,280.13,1120.52,Completed,Direct Website
+1604,One Bedroom Suite,2026-01-23,2026-01-25,2,280.9,561.8,Completed,Corporate
+1605,One Bedroom Suite with Plunge Pool,2026-08-17,2026-08-20,3,417.5,1252.5,Completed,Travel Agent
+1606,One Bedroom Standard Suite with Garden Pool,2026-02-13,2026-02-16,3,411.05,1233.15,Confirmed,Travel Agent
+1607,One Bedroom Standard Suite with Garden Pool,2026-05-15,2026-05-16,1,293.88,293.88,Completed,OTA - Booking.com
+1608,One Bedroom Suite,2026-03-26,2026-03-31,5,269.51,1347.55,Completed,Direct Website
+1609,One Bedroom Suite with Plunge Pool,2026-10-02,2026-10-08,6,501.42,3008.52,Completed,Direct Website
+1610,One Bedroom Suite,2026-06-21,2026-06-24,3,214.91,644.73,Confirmed,Corporate
+1611,One Bedroom Suite,2026-03-04,2026-03-06,2,284.7,569.4,Confirmed,Direct Website
+1612,One Bedroom Standard Suite with Garden Pool,2026-08-12,2026-08-17,5,305.73,1528.65,Completed,OTA - Expedia
+1613,One Bedroom Suite,2026-05-26,2026-06-01,6,219.87,1319.22,Completed,Travel Agent
+1614,One Bedroom Suite,2026-11-29,2026-12-04,5,235.48,1177.4,Completed,OTA - Expedia
+1615,One Bedroom Suite with Plunge Pool,2026-08-14,2026-08-19,5,458.91,2294.55,Completed,OTA - Booking.com
+1616,One Bedroom Standard Suite with Garden Pool,2026-12-04,2026-12-07,3,408.63,1225.89,Completed,Travel Agent
+1617,One Bedroom Suite with Plunge Pool,2026-04-03,2026-04-10,7,662.02,4634.14,Completed,Travel Agent
+1618,One Bedroom Suite,2026-02-02,2026-02-04,2,295.78,591.56,Confirmed,Travel Agent
+1619,One Bedroom Standard Suite with Garden Pool,2026-07-26,2026-08-01,6,317.78,1906.68,Completed,Direct Website
+1620,Two Bedroom Deluxe Suite with Garden Pool,2026-04-24,2026-04-25,1,954.99,954.99,Completed,OTA - Booking.com
+1621,One Bedroom Standard Suite with Garden Pool,2026-03-06,2026-03-13,7,424.57,2971.99,Completed,Direct Website
+1622,Two Bedroom Deluxe Suite with Garden Pool,2026-04-14,2026-04-21,7,930.34,6512.38,Confirmed,OTA - Expedia
+1623,One Bedroom Suite,2026-10-28,2026-11-03,6,211.15,1266.9,Completed,OTA - Booking.com
+1624,One Bedroom Suite,2026-12-16,2026-12-22,6,268.74,1612.44,Completed,Travel Agent
+1625,One Bedroom Suite with Plunge Pool,2026-09-30,2026-10-07,7,429.55,3006.85,Completed,OTA - Booking.com
+1626,One Bedroom Standard Suite with Garden Pool,2026-08-15,2026-08-20,5,333.95,1669.75,Completed,OTA - Expedia
+1627,One Bedroom Standard Suite with Garden Pool,2026-02-14,2026-02-17,3,438.95,1316.85,Completed,OTA - Booking.com
+1628,One Bedroom Suite,2026-05-24,2026-05-27,3,238.25,714.75,Cancelled,OTA - Booking.com
+1629,One Bedroom Suite,2026-03-20,2026-03-21,1,303.9,303.9,Cancelled,Direct Website
+1630,One Bedroom Suite,2026-06-10,2026-06-16,6,199.39,1196.34,Completed,Direct Website
+1631,Two Bedroom Deluxe Suite with Garden Pool,2026-10-06,2026-10-11,5,690.18,3450.9,Completed,Direct Website
+1632,One Bedroom Suite,2026-03-04,2026-03-10,6,271.27,1627.62,Completed,Travel Agent
+1633,Two Bedroom Deluxe Suite with Garden Pool,2026-12-01,2026-12-08,7,1012.33,7086.31,Completed,Travel Agent
+1634,One Bedroom Suite with Plunge Pool,2026-08-02,2026-08-06,4,500.46,2001.84,Completed,OTA - Booking.com
+1635,One Bedroom Suite,2026-04-02,2026-04-05,3,263.18,789.54,Completed,OTA - Expedia
+1636,One Bedroom Suite,2026-07-24,2026-07-28,4,229.64,918.56,Completed,OTA - Booking.com
+1637,Two Bedroom Deluxe Suite with Garden Pool,2026-04-24,2026-04-26,2,1059.89,2119.78,Completed,Direct Website
+1638,One Bedroom Suite with Plunge Pool,2026-11-11,2026-11-15,4,452.17,1808.68,Completed,Corporate
+1639,Two Bedroom Deluxe Suite with Garden Pool,2026-08-14,2026-08-19,5,783.25,3916.25,Completed,OTA - Expedia
+1640,Two Bedroom Deluxe Suite with Garden Pool,2026-08-25,2026-08-29,4,683.01,2732.04,Completed,Direct Website
+1641,One Bedroom Standard Suite with Garden Pool,2026-12-26,2026-12-31,5,428.02,2140.1,Completed,OTA - Expedia
+1642,One Bedroom Standard Suite with Garden Pool,2026-04-20,2026-04-22,2,357.01,714.02,Completed,OTA - Expedia
+1643,One Bedroom Standard Suite with Garden Pool,2026-07-24,2026-07-26,2,302.28,604.56,Confirmed,Travel Agent
+1644,One Bedroom Suite,2026-10-17,2026-10-18,1,210.47,210.47,Confirmed,OTA - Booking.com
+1645,Two Bedroom Deluxe Suite with Garden Pool,2026-07-13,2026-07-16,3,676.18,2028.54,Completed,Direct Website
+1646,One Bedroom Suite with Plunge Pool,2026-01-28,2026-02-02,5,560.41,2802.05,Confirmed,OTA - Booking.com
+1647,One Bedroom Standard Suite with Garden Pool,2026-04-27,2026-04-30,3,375.27,1125.81,Completed,Direct Website
+1648,Two Bedroom Deluxe Suite with Garden Pool,2026-07-14,2026-07-15,1,728.77,728.77,Completed,Direct Website
+1649,Two Bedroom Deluxe Suite with Garden Pool,2026-11-14,2026-11-17,3,777.09,2331.27,Completed,OTA - Expedia
+1650,One Bedroom Suite,2026-11-24,2026-11-29,5,209.3,1046.5,Confirmed,Direct Website
+1651,Two Bedroom Deluxe Suite with Garden Pool,2026-01-02,2026-01-09,7,1080.53,7563.71,Completed,OTA - Booking.com
+1652,One Bedroom Standard Suite with Garden Pool,2026-02-06,2026-02-12,6,421.99,2531.94,Completed,Direct Website
+1653,One Bedroom Standard Suite with Garden Pool,2026-09-28,2026-10-04,6,277.76,1666.56,Cancelled,Direct Website
+1654,One Bedroom Suite,2026-08-19,2026-08-25,6,213.71,1282.26,Completed,OTA - Expedia
+1655,One Bedroom Suite,2026-02-03,2026-02-10,7,269.37,1885.59,Completed,Direct Website
+1656,One Bedroom Suite,2026-12-06,2026-12-08,2,292.1,584.2,Completed,Direct Website
+1657,One Bedroom Suite with Plunge Pool,2026-10-19,2026-10-25,6,428.92,2573.52,Confirmed,OTA - Booking.com
+1658,One Bedroom Standard Suite with Garden Pool,2026-01-01,2026-01-08,7,413.71,2895.97,Completed,OTA - Booking.com
+1659,Two Bedroom Deluxe Suite with Garden Pool,2026-04-28,2026-05-05,7,881.03,6167.21,Completed,Direct Website
+1660,One Bedroom Suite with Plunge Pool,2026-08-10,2026-08-13,3,471.64,1414.92,Completed,Corporate
+1661,One Bedroom Standard Suite with Garden Pool,2026-05-16,2026-05-17,1,315.23,315.23,Completed,OTA - Booking.com
+1662,One Bedroom Suite,2026-02-20,2026-02-21,1,322.24,322.24,Completed,OTA - Booking.com
+1663,One Bedroom Suite with Plunge Pool,2026-01-19,2026-01-24,5,641.39,3206.95,Completed,Corporate
+1664,One Bedroom Standard Suite with Garden Pool,2026-10-28,2026-10-30,2,267.64,535.28,Completed,OTA - Expedia
+1665,One Bedroom Suite with Plunge Pool,2026-10-29,2026-10-31,2,420.53,841.06,Completed,Travel Agent
+1666,One Bedroom Suite,2026-02-14,2026-02-15,1,322.45,322.45,Completed,OTA - Booking.com
+1667,One Bedroom Suite with Plunge Pool,2026-03-05,2026-03-10,5,638.01,3190.05,Confirmed,OTA - Expedia
+1668,One Bedroom Standard Suite with Garden Pool,2026-04-23,2026-04-27,4,393.48,1573.92,Completed,Corporate
+1669,One Bedroom Standard Suite with Garden Pool,2026-08-08,2026-08-09,1,327.39,327.39,Completed,OTA - Expedia
+1670,One Bedroom Suite,2026-12-02,2026-12-09,7,266.41,1864.87,Completed,OTA - Booking.com
+1671,One Bedroom Suite,2026-04-28,2026-05-04,6,294.11,1764.66,Completed,OTA - Booking.com
+1672,One Bedroom Standard Suite with Garden Pool,2026-12-16,2026-12-19,3,379.52,1138.56,Completed,OTA - Booking.com
+1673,Two Bedroom Deluxe Suite with Garden Pool,2026-02-18,2026-02-23,5,900.27,4501.35,Completed,Corporate
+1674,Two Bedroom Deluxe Suite with Garden Pool,2026-01-05,2026-01-06,1,958.78,958.78,Completed,Direct Website
+1675,One Bedroom Suite,2026-09-13,2026-09-15,2,240.76,481.52,Completed,Travel Agent
+1676,One Bedroom Suite with Plunge Pool,2026-02-08,2026-02-09,1,636.08,636.08,Cancelled,Direct Website
+1677,Two Bedroom Deluxe Suite with Garden Pool,2026-09-20,2026-09-22,2,737.45,1474.9,Completed,Corporate
+1678,Two Bedroom Deluxe Suite with Garden Pool,2026-09-06,2026-09-10,4,717.78,2871.12,Confirmed,OTA - Expedia
+1679,Two Bedroom Deluxe Suite with Garden Pool,2026-06-22,2026-06-26,4,728.94,2915.76,Completed,OTA - Booking.com
+1680,One Bedroom Standard Suite with Garden Pool,2026-02-02,2026-02-09,7,405.17,2836.19,Completed,OTA - Booking.com
+1681,One Bedroom Suite,2026-01-09,2026-01-16,7,290.23,2031.61,Completed,Corporate
+1682,Two Bedroom Deluxe Suite with Garden Pool,2026-12-25,2026-12-29,4,990.62,3962.48,Confirmed,Corporate
+1683,One Bedroom Suite,2026-11-13,2026-11-16,3,237.18,711.54,Completed,Direct Website
+1684,One Bedroom Suite,2026-07-12,2026-07-17,5,230.73,1153.65,Completed,OTA - Booking.com
+1685,One Bedroom Suite,2026-01-05,2026-01-08,3,276.34,829.02,Completed,Direct Website
+1686,One Bedroom Suite,2026-04-09,2026-04-11,2,262.57,525.14,Completed,Corporate
+1687,One Bedroom Suite,2026-02-03,2026-02-06,3,257.65,772.95,Completed,OTA - Expedia
+1688,One Bedroom Suite,2026-12-06,2026-12-08,2,321.35,642.7,Completed,OTA - Expedia
+1689,One Bedroom Standard Suite with Garden Pool,2026-11-27,2026-11-30,3,294.5,883.5,Completed,Corporate
+1690,One Bedroom Suite,2026-11-14,2026-11-16,2,228.86,457.72,Cancelled,Corporate
+1691,One Bedroom Suite with Plunge Pool,2026-03-14,2026-03-16,2,635.15,1270.3,Confirmed,OTA - Expedia
+1692,One Bedroom Suite with Plunge Pool,2026-12-28,2026-12-31,3,641.14,1923.42,Completed,OTA - Booking.com
+1693,One Bedroom Standard Suite with Garden Pool,2026-12-01,2026-12-07,6,364.31,2185.86,Completed,OTA - Expedia
+1694,One Bedroom Suite,2026-01-10,2026-01-13,3,307.95,923.85,Completed,Travel Agent
+1695,Two Bedroom Deluxe Suite with Garden Pool,2026-02-16,2026-02-22,6,945.12,5670.72,Cancelled,Direct Website
+1696,Two Bedroom Deluxe Suite with Garden Pool,2026-04-29,2026-05-06,7,918.38,6428.66,Completed,Direct Website
+1697,One Bedroom Standard Suite with Garden Pool,2026-08-15,2026-08-18,3,333.72,1001.16,Completed,OTA - Booking.com
+1698,Two Bedroom Deluxe Suite with Garden Pool,2026-01-12,2026-01-17,5,925.0,4625.0,Completed,Direct Website
+1699,One Bedroom Suite,2026-05-21,2026-05-28,7,213.59,1495.13,Completed,OTA - Booking.com
+1700,One Bedroom Suite,2026-09-19,2026-09-20,1,227.53,227.53,Cancelled,Direct Website
+1701,One Bedroom Suite with Plunge Pool,2026-09-05,2026-09-10,5,475.9,2379.5,Cancelled,Direct Website
+1702,One Bedroom Standard Suite with Garden Pool,2026-10-07,2026-10-10,3,271.88,815.64,Completed,OTA - Booking.com
+1703,One Bedroom Suite,2026-01-31,2026-02-07,7,322.76,2259.32,Confirmed,Travel Agent
+1704,One Bedroom Suite with Plunge Pool,2026-06-18,2026-06-21,3,411.03,1233.09,Completed,Direct Website
+1705,One Bedroom Suite with Plunge Pool,2026-04-04,2026-04-08,4,688.05,2752.2,Completed,OTA - Booking.com
+1706,Two Bedroom Deluxe Suite with Garden Pool,2026-03-06,2026-03-12,6,1044.73,6268.38,Completed,OTA - Expedia
+1707,One Bedroom Suite,2026-12-13,2026-12-16,3,323.58,970.74,Cancelled,OTA - Booking.com
+1708,One Bedroom Suite with Plunge Pool,2026-05-01,2026-05-07,6,471.02,2826.12,Confirmed,OTA - Expedia
+1709,One Bedroom Standard Suite with Garden Pool,2026-08-16,2026-08-18,2,291.27,582.54,Cancelled,Direct Website
+1710,One Bedroom Suite,2026-11-29,2026-12-06,7,214.38,1500.66,Completed,Direct Website
+1711,One Bedroom Suite,2026-06-30,2026-07-06,6,192.39,1154.34,Completed,OTA - Booking.com
+1712,One Bedroom Suite with Plunge Pool,2026-09-30,2026-10-05,5,450.96,2254.8,Completed,Direct Website
+1713,One Bedroom Suite with Plunge Pool,2026-01-21,2026-01-24,3,605.73,1817.19,Cancelled,Corporate
+1714,One Bedroom Suite,2026-07-21,2026-07-28,7,201.22,1408.54,Completed,Direct Website
+1715,Two Bedroom Deluxe Suite with Garden Pool,2026-01-26,2026-02-01,6,944.9,5669.4,Completed,Corporate
+1716,Two Bedroom Deluxe Suite with Garden Pool,2026-01-21,2026-01-22,1,969.68,969.68,Completed,OTA - Booking.com
+1717,Two Bedroom Deluxe Suite with Garden Pool,2026-12-02,2026-12-03,1,881.86,881.86,Confirmed,OTA - Booking.com
+1718,One Bedroom Suite with Plunge Pool,2026-01-29,2026-02-05,7,647.02,4529.14,Completed,Direct Website
+1719,Two Bedroom Deluxe Suite with Garden Pool,2026-09-04,2026-09-07,3,811.27,2433.81,Completed,OTA - Expedia
+1720,One Bedroom Suite,2026-01-11,2026-01-17,6,284.93,1709.58,Confirmed,OTA - Expedia
+1721,One Bedroom Suite,2026-03-13,2026-03-19,6,286.68,1720.08,Completed,Travel Agent
+1722,One Bedroom Suite with Plunge Pool,2026-02-17,2026-02-19,2,638.97,1277.94,Confirmed,OTA - Expedia
+1723,One Bedroom Standard Suite with Garden Pool,2026-05-14,2026-05-17,3,273.37,820.11,Completed,OTA - Expedia
+1724,One Bedroom Suite,2026-12-06,2026-12-11,5,297.68,1488.4,Completed,Direct Website
+1725,One Bedroom Suite with Plunge Pool,2026-03-02,2026-03-08,6,624.65,3747.9,Completed,Corporate
+1726,One Bedroom Suite,2026-10-31,2026-11-05,5,239.87,1199.35,Completed,OTA - Expedia
+1727,One Bedroom Standard Suite with Garden Pool,2026-10-15,2026-10-18,3,309.57,928.71,Completed,OTA - Booking.com
+1728,One Bedroom Suite with Plunge Pool,2026-11-21,2026-11-23,2,519.94,1039.88,Completed,OTA - Booking.com
+1729,One Bedroom Suite,2026-04-15,2026-04-21,6,253.33,1519.98,Completed,Travel Agent
+1730,One Bedroom Suite,2026-04-16,2026-04-19,3,286.41,859.23,Completed,Direct Website
+1731,One Bedroom Suite,2026-01-20,2026-01-22,2,266.66,533.32,Cancelled,Direct Website
+1732,Two Bedroom Deluxe Suite with Garden Pool,2026-04-02,2026-04-04,2,955.09,1910.18,Completed,Direct Website
