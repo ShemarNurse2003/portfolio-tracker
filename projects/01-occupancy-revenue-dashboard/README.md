@@ -1,5 +1,7 @@
 # Crane Resort — Occupancy & Revenue Dashboard
 
+![Crane Occupancy & Revenue Dashboard](dashboard-screenshot.png)
+
 Power BI dashboard analyzing synthetic booking data shaped like The Crane Resort's
 actual operations — room types, seasonality (Barbados high/low season), and
 booking channel mix.
